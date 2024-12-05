@@ -1,0 +1,2448 @@
+,District,Const,WParty,WVotes,Age,TurnOut%
+0,Taplejung,Taplejung-1,Nepal Communist Party (UML),21943,56,49.85912554965421
+1,Taplejung,Taplejung-1,Nepal Communist Party (Maoist Center) (Unified Symbol),21735,46,53.74467771711617
+2,Taplejung,Taplejung-1,Federal Democratic National Front,941,56,54.89515921670284
+3,Taplejung,Taplejung-1,"Janata Samajwadi Party, Nepal",628,49,51.0524824629903
+4,Taplejung,Taplejung-1,Rastriya Prajatantra Party,406,65,54.32800392779554
+5,Taplejung,Taplejung-1,Rastriya Janamukti Party,266,45,54.54729317763541
+6,Taplejung,Taplejung-1,Independent,192,66,58.12793948090969
+7,Taplejung,Taplejung-1,Mongol National Organization,134,28,49.85912554965421
+8,Taplejung,Taplejung-1,"Democratic Socialist Party, Nepal",61,54,53.74467771711617
+9,Taplejung,Taplejung-1,Janasamajwadi Party Nepal,56,56,54.89515921670284
+10,Taplejung,Taplejung-1,Independent,29,69,51.0524824629903
+11,पाँचथर,पाँचथर-1,Nepal Communist Party (UML),32135,60,54.32800392779554
+12,पाँचथर,पाँचथर-1,Nepali Congress,32089,57,54.54729317763541
+13,पाँचथर,पाँचथर-1,Rastriya Prajatantra Party,1578,60,58.12793948090969
+14,पाँचथर,पाँचथर-1,"Janata Samajwadi Party, Nepal",1274,49,49.85912554965421
+15,पाँचथर,पाँचथर-1,Federal Democratic National Front,1011,74,53.74467771711617
+16,पाँचथर,पाँचथर-1,Nepal Communist Party (Marxist-Leninist),816,61,54.89515921670284
+17,पाँचथर,पाँचथर-1,Rastriya Swatantra Party,526,45,51.0524824629903
+18,पाँचथर,पाँचथर-1,Mongol National Organization,522,44,54.32800392779554
+19,पाँचथर,पाँचथर-1,Rastriya Janamukti Party,302,65,54.54729317763541
+20,पाँचथर,पाँचथर-1,Rastriya Prajatantra Party Nepal,253,49,58.12793948090969
+21,पाँचथर,पाँचथर-1,Independent,108,40,49.85912554965421
+22,पाँचथर,पाँचथर-1,Independent,86,39,53.74467771711617
+23,पाँचथर,पाँचथर-1,Janasamajwadi Party Nepal,39,32,54.89515921670284
+24,पाँचथर,पाँचथर-1,Independent,35,32,51.0524824629903
+25,पाँचथर,पाँचथर-1,Independent,17,41,54.32800392779554
+26,इलाम,इलाम-1,Nepal Communist Party (UML),25753,62,54.54729317763541
+27,इलाम,इलाम-1,Nepal Communist Party (Unified Socialist),23089,72,58.12793948090969
+28,इलाम,इलाम-1,Mongol National Organization,2442,52,49.85912554965421
+29,इलाम,इलाम-1,Rastriya Prajatantra Party,1599,67,53.74467771711617
+30,इलाम,इलाम-1,"Janata Samajwadi Party, Nepal",1313,63,54.89515921670284
+31,इलाम,इलाम-1,Independent,1184,68,51.0524824629903
+32,इलाम,इलाम-1,Independent,640,57,54.32800392779554
+33,इलाम,इलाम-1,Nepali Congress (BP),347,60,54.54729317763541
+34,इलाम,इलाम-1,Rastriya Janamukti Party,265,49,58.12793948090969
+35,इलाम,इलाम-1,Independent,235,51,49.85912554965421
+36,इलाम,इलाम-1,Federal Democratic National Front,151,50,53.74467771711617
+37,इलाम,इलाम-2,Nepal Communist Party (UML),30020,69,54.89515921670284
+38,इलाम,इलाम-2,Nepali Congress,29906,47,51.0524824629903
+39,इलाम,इलाम-2,Rastriya Swatantra Party,1380,30,54.32800392779554
+40,इलाम,इलाम-2,Mongol National Organization,1363,51,54.54729317763541
+41,इलाम,इलाम-2,Rastriya Janamukti Party,1272,59,58.12793948090969
+42,इलाम,इलाम-2,"Janata Samajwadi Party, Nepal",724,52,49.85912554965421
+43,इलाम,इलाम-2,Federal Democratic National Front,684,44,53.74467771711617
+44,इलाम,इलाम-2,Rastriya Prajatantra Party,510,61,54.89515921670284
+45,इलाम,इलाम-2,Independent,91,35,51.0524824629903
+46,इलाम,इलाम-2,"Democratic Socialist Party, Nepal",69,43,54.32800392779554
+47,इलाम,इलाम-2,Nepali Congress (BP),54,55,54.54729317763541
+48,इलाम,इलाम-2,Nepal Communist Party,48,56,58.12793948090969
+49,इलाम,इलाम-2,Social Democratic Party,45,46,49.85912554965421
+50,इलाम,इलाम-2,Independent,19,56,53.74467771711617
+51,झापा,झापा-1,Nepali Congress,39624,52,54.89515921670284
+52,झापा,झापा-1,Nepal Communist Party (UML),25349,61,51.0524824629903
+53,झापा,झापा-1,Rastriya Swatantra Party,8564,40,54.32800392779554
+54,झापा,झापा-1,Mongol National Organization,1577,39,54.54729317763541
+55,झापा,झापा-1,Federal Democratic National Front,386,52,58.12793948090969
+56,झापा,झापा-1,"Janata Samajwadi Party, Nepal",363,70,49.85912554965421
+57,झापा,झापा-1,Hamro Nepali Party,331,47,53.74467771711617
+58,झापा,झापा-1,"Democratic Socialist Party, Nepal",304,57,54.89515921670284
+59,झापा,झापा-1,Nepal for Nepali Party,209,50,51.0524824629903
+60,झापा,झापा-1,Independent,126,25,54.32800392779554
+61,झापा,झापा-1,Independent,103,45,54.54729317763541
+62,झापा,झापा-1,Rastriya Janamukti Party,48,39,58.12793948090969
+63,झापा,झापा-1,Janasamajwadi Party Nepal,46,44,49.85912554965421
+64,झापा,झापा-1,Nepal Janata Party,27,54,53.74467771711617
+65,झापा,झापा-1,Independent,14,38,54.89515921670284
+66,झापा,झापा-2,Nepal Communist Party (UML),28716,66,51.0524824629903
+67,झापा,झापा-2,Independent,26455,46,54.32800392779554
+68,झापा,झापा-2,Nepal Communist Party (Maoist Center) (Unified Symbol),13930,63,54.54729317763541
+69,झापा,झापा-2,Rastriya Swatantra Party,8781,54,58.12793948090969
+70,झापा,झापा-2,Federal Democratic National Front,762,37,49.85912554965421
+71,झापा,झापा-2,Mongol National Organization,684,52,53.74467771711617
+72,झापा,झापा-2,Nepali Congress (BP),446,52,54.89515921670284
+73,झापा,झापा-2,"Democratic Socialist Party, Nepal",428,61,51.0524824629903
+74,झापा,झापा-2,Rastriya Janamukti Party,288,55,54.32800392779554
+75,झापा,झापा-2,Independent,283,47,54.54729317763541
+76,झापा,झापा-2,Nepal Bibeksheel Party,252,39,58.12793948090969
+77,झापा,झापा-2,Independent,244,50,52.25120172199904
+78,झापा,झापा-2,"Janata Samajwadi Party, Nepal",133,63,67.51746014764574
+79,झापा,झापा-2,Nepal for Nepali Party,106,36,67.299318861986
+80,झापा,झापा-2,Janasamajwadi Party Nepal,99,31,55.18181523606367
+81,झापा,झापा-2,Independent,80,47,60.30486320819917
+82,झापा,झापा-2,Independent,20,60,48.99324242292868
+83,झापा,झापा-2,Nepal Workers and Peasants Party,14,50,55.295874498013326
+84,झापा,झापा-3,Rastriya Prajatantra Party,40662,57,69.43954024296461
+85,झापा,झापा-3,Nepali Congress,37386,72,52.25120172199904
+86,झापा,झापा-3,Rastriya Swatantra Party,3461,34,67.51746014764574
+87,झापा,झापा-3,Independent,735,39,67.299318861986
+88,झापा,झापा-3,Mongol National Organization,650,36,55.18181523606367
+89,झापा,झापा-3,"Janata Samajwadi Party, Nepal",464,70,60.30486320819917
+90,झापा,झापा-3,Hamro Nepali Party,374,41,48.99324242292868
+91,झापा,झापा-3,Independent,294,37,55.295874498013326
+92,झापा,झापा-3,Janamat Party,194,34,69.43954024296461
+93,झापा,झापा-3,Federal Democratic National Front,113,44,52.25120172199904
+94,झापा,झापा-3,Sachet Nepali Party (Unified Symbol),107,43,67.51746014764574
+95,झापा,झापा-3,Independent,82,47,67.299318861986
+96,झापा,झापा-3,"Democratic Socialist Party, Nepal",70,60,55.18181523606367
+97,झापा,झापा-3,Rastriya Janamukti Party,61,34,60.30486320819917
+98,झापा,झापा-3,Nepali Congress (BP),59,42,48.99324242292868
+99,झापा,झापा-3,Nepal Workers and Peasants Party,35,55,55.295874498013326
+100,झापा,झापा-3,Maulik Jarokilo Party,35,61,69.43954024296461
+101,झापा,झापा-3,Rastriya Prajatantra Party Nepal,26,68,52.25120172199904
+102,झापा,झापा-4,Nepal Communist Party (UML),29315,55,67.51746014764574
+103,झापा,झापा-4,Nepali Congress,22448,57,67.299318861986
+104,झापा,झापा-4,Rastriya Swatantra Party,14069,46,55.18181523606367
+105,झापा,झापा-4,Independent,5010,32,60.30486320819917
+106,झापा,झापा-4,Hamro Nepali Party,917,61,48.99324242292868
+107,झापा,झापा-4,Independent,810,67,55.295874498013326
+108,झापा,झापा-4,Federal Democratic National Front,706,64,69.43954024296461
+109,झापा,झापा-4,Mongol National Organization,445,37,52.25120172199904
+110,झापा,झापा-4,Janamat Party,416,45,67.51746014764574
+111,झापा,झापा-4,"Janata Samajwadi Party, Nepal",183,63,67.299318861986
+112,झापा,झापा-4,Rastriya Janamukti Party,182,28,55.18181523606367
+113,झापा,झापा-4,"Democratic Socialist Party, Nepal",111,53,60.30486320819917
+114,झापा,झापा-4,Independent,90,56,48.99324242292868
+115,झापा,झापा-4,Independent,67,49,55.295874498013326
+116,झापा,झापा-4,Nepali Congress (BP),26,58,69.43954024296461
+117,झापा,झापा-4,Independent,18,26,52.25120172199904
+118,झापा,झापा-4,Nepal Workers and Peasants Party,13,46,67.51746014764574
+119,झापा,झापा-4,Independent,10,43,67.299318861986
+120,झापा,झापा-5,Nepal Communist Party (UML),52319,70,55.18181523606367
+121,झापा,झापा-5,Nepali Congress,23743,48,60.30486320819917
+122,झापा,झापा-5,Rastriya Swatantra Party,11759,49,48.99324242292868
+123,झापा,झापा-5,Janamat Party,1485,49,55.295874498013326
+124,झापा,झापा-5,Federal Democratic National Front,1281,63,69.43954024296461
+125,झापा,झापा-5,Mongol National Organization,744,39,52.25120172199904
+126,झापा,झापा-5,"Janata Samajwadi Party, Nepal",629,46,67.51746014764574
+127,झापा,झापा-5,Independent,356,44,67.299318861986
+128,झापा,झापा-5,Nepal Workers and Peasants Party,250,46,55.18181523606367
+129,झापा,झापा-5,Independent,224,45,60.30486320819917
+130,झापा,झापा-5,Rastriya Janamukti Party,214,45,48.99324242292868
+131,झापा,झापा-5,Independent,165,37,55.295874498013326
+132,झापा,झापा-5,"Democratic Socialist Party, Nepal",105,43,69.43954024296461
+133,झापा,झापा-5,Nationalist People's Party,88,42,52.25120172199904
+134,झापा,झापा-5,Independent,81,51,67.51746014764574
+135,झापा,झापा-5,Independent,70,55,67.299318861986
+136,झापा,झापा-5,Independent,63,53,55.18181523606367
+137,झापा,झापा-5,Independent,57,52,60.30486320819917
+138,झापा,झापा-5,Nepali Congress (BP),51,45,48.99324242292868
+139,झापा,झापा-5,Independent,50,51,55.295874498013326
+140,झापा,झापा-5,Sachet Nepali Party (Unified Symbol),49,40,69.43954024296461
+141,झापा,झापा-5,Independent,41,41,52.25120172199904
+142,झापा,झापा-5,Independent,20,25,67.51746014764574
+143,झापा,झापा-5,Independent,13,47,67.299318861986
+144,झापा,झापा-5,Independent,13,52,55.18181523606367
+145,संखुवासभा,संखुवासभा-1,Nepali Congress,32161,51,60.30486320819917
+146,संखुवासभा,संखुवासभा-1,Nepal Communist Party (UML),26721,59,48.99324242292868
+147,संखुवासभा,संखुवासभा-1,Rastriya Swatantra Party,1136,55,55.295874498013326
+148,संखुवासभा,संखुवासभा-1,"Janata Samajwadi Party, Nepal",811,45,69.43954024296461
+149,संखुवासभा,संखुवासभा-1,Independent,532,33,52.25120172199904
+150,संखुवासभा,संखुवासभा-1,Mongol National Organization,422,55,67.51746014764574
+151,संखुवासभा,संखुवासभा-1,Rastriya Prajatantra Party,308,51,67.299318861986
+152,संखुवासभा,संखुवासभा-1,Rastriya Prajatantra Party Nepal,152,79,55.18181523606367
+153,संखुवासभा,संखुवासभा-1,Federal Democratic National Front,139,35,60.30486320819917
+154,संखुवासभा,संखुवासभा-1,Independent,131,30,48.99324242292868
+155,संखुवासभा,संखुवासभा-1,Rastriya Janamukti Party,46,65,55.295874498013326
+156,संखुवासभा,संखुवासभा-1,Nationalist People's Party,26,60,69.43954024296461
+157,Tehrathum,Tehrathum-1,Nepali Congress,19707,46,52.25120172199904
+158,Tehrathum,Tehrathum-1,Nepal Communist Party (UML),18631,64,67.51746014764574
+159,Tehrathum,Tehrathum-1,Federal Democratic National Front,725,31,67.299318861986
+160,Tehrathum,Tehrathum-1,Rastriya Prajatantra Party,415,87,55.18181523606367
+161,Tehrathum,Tehrathum-1,"Janata Samajwadi Party, Nepal",118,55,60.30486320819917
+162,Tehrathum,Tehrathum-1,Rastriya Prajatantra Party Nepal,83,69,48.99324242292868
+163,Tehrathum,Tehrathum-1,Mongol National Organization,82,36,55.295874498013326
+164,Tehrathum,Tehrathum-1,Independent,57,38,69.43954024296461
+165,Tehrathum,Tehrathum-1,Rastriya Janamukti Party,54,66,52.25120172199904
+166,Tehrathum,Tehrathum-1,Nepal Communist Party Marxist (Pushpalal),29,60,67.51746014764574
+167,भोजपुर,भोजपुर-1,Nepal Communist Party (Maoist Center) (Unified Symbol),28591,43,67.299318861986
+168,भोजपुर,भोजपुर-1,Nepal Communist Party (UML),26202,51,55.18181523606367
+169,भोजपुर,भोजपुर-1,Nepal for Nepali Party,1087,45,60.30486320819917
+170,भोजपुर,भोजपुर-1,"Janata Samajwadi Party, Nepal",943,35,48.99324242292868
+171,भोजपुर,भोजपुर-1,Rastriya Swatantra Party,500,40,55.295874498013326
+172,भोजपुर,भोजपुर-1,Mongol National Organization,386,44,69.43954024296461
+173,भोजपुर,भोजपुर-1,Rastriya Prajatantra Party,297,49,52.25120172199904
+174,भोजपुर,भोजपुर-1,Hamro Nepali Party,252,48,67.51746014764574
+175,भोजपुर,भोजपुर-1,Khambuwan Rastriya Morcha Nepal,162,47,67.299318861986
+176,भोजपुर,भोजपुर-1,Independent,124,57,55.18181523606367
+177,भोजपुर,भोजपुर-1,Independent,105,43,60.30486320819917
+178,भोजपुर,भोजपुर-1,Independent,36,56,48.99324242292868
+179,धनकुटा,धनकुटा-1,Nepal Communist Party (UML),30101,56,55.295874498013326
+180,धनकुटा,धनकुटा-1,Nepali Congress,28704,63,69.43954024296461
+181,धनकुटा,धनकुटा-1,Independent,5926,46,52.25120172199904
+182,धनकुटा,धनकुटा-1,Rastriya Prajatantra Party,1059,70,67.51746014764574
+183,धनकुटा,धनकुटा-1,Federal Democratic National Front,625,35,67.299318861986
+184,धनकुटा,धनकुटा-1,Mongol National Organization,217,45,55.18181523606367
+185,धनकुटा,धनकुटा-1,Unified Shakti Nepal,95,29,60.30486320819917
+186,Morang,Morang-1,Nepali Congress,27297,59,48.99324242292868
+187,Morang,Morang-1,Nepal Communist Party (UML),26867,60,55.295874498013326
+188,Morang,Morang-1,Rastriya Swatantra Party,8063,36,69.43954024296461
+189,Morang,Morang-1,Rastriya Prajatantra Party,4667,44,52.25120172199904
+190,Morang,Morang-1,Mongol National Organization,2218,38,67.51746014764574
+191,Morang,Morang-1,Federal Democratic National Front,711,65,67.299318861986
+192,Morang,Morang-1,Hamro Nepali Party,474,41,55.18181523606367
+193,Morang,Morang-1,Independent,196,57,60.30486320819917
+194,Morang,Morang-1,Rastriya Janamukti Party,62,39,48.99324242292868
+195,Morang,Morang-1,Nepal Workers and Peasants Party,46,45,55.295874498013326
+196,Morang,Morang-1,Independent,27,33,69.43954024296461
+197,Morang,Morang-1,Independent,21,40,57.95063834423992
+198,Morang,Morang-1,Independent,21,35,65.09070754619093
+199,Morang,Morang-1,Independent,6,29,57.59654432454977
+200,Morang,Morang-2,Nepal Communist Party (UML),33148,54,66.9244421884774
+201,Morang,Morang-2,Nepali Congress,31940,68,55.914950440575886
+202,Morang,Morang-2,Rastriya Swatantra Party,4987,34,66.36314779701499
+203,Morang,Morang-2,Rastriya Prajatantra Party,2745,55,64.20545915692871
+204,Morang,Morang-2,Hamro Nepali Party,1457,48,58.280784983724296
+205,Morang,Morang-2,Mongol National Organization,424,43,59.70561126156164
+206,Morang,Morang-2,"Democratic Socialist Party, Nepal",334,55,61.0979247733185
+207,Morang,Morang-2,Federal Democratic National Front,219,44,56.1077733997371
+208,Morang,Morang-2,Independent,207,41,63.375373191043465
+209,Morang,Morang-2,Independent,118,52,61.11271114751696
+210,Morang,Morang-2,Nepal Workers and Peasants Party,38,33,67.18623469311979
+211,Morang,Morang-2,Nationalist People's Party,27,57,57.95063834423992
+212,Morang,Morang-2,Independent,22,25,65.09070754619093
+213,Morang,Morang-3,Nepali Congress,48631,44,57.59654432454977
+214,Morang,Morang-3,Nepal Communist Party (UML),25895,60,66.9244421884774
+215,Morang,Morang-3,Rastriya Prajatantra Party,10998,41,55.914950440575886
+216,Morang,Morang-3,Rastriya Swatantra Party,3172,40,66.36314779701499
+217,Morang,Morang-3,Mongol National Organization,1520,40,64.20545915692871
+218,Morang,Morang-3,Federal Democratic National Front,453,40,58.280784983724296
+219,Morang,Morang-3,Independent,388,50,59.70561126156164
+220,Morang,Morang-3,Hamro Nepali Party,326,56,61.0979247733185
+221,Morang,Morang-3,Nepal Communist Party (Marxist-Leninist),234,40,56.1077733997371
+222,Morang,Morang-3,Independent,110,75,63.375373191043465
+223,Morang,Morang-3,Independent,74,40,61.11271114751696
+224,Morang,Morang-3,Independent,63,59,67.18623469311979
+225,Morang,Morang-3,Independent,61,40,57.95063834423992
+226,Morang,Morang-3,Nepal Workers and Peasants Party,46,38,65.09070754619093
+227,Morang,Morang-3,Janasamajwadi Party Nepal,38,29,57.59654432454977
+228,Morang,Morang-3,Independent,37,43,66.9244421884774
+229,Morang,Morang-3,Independent,31,51,55.914950440575886
+230,Morang,Morang-3,Independent,25,56,66.36314779701499
+231,Morang,Morang-3,Nationalist People's Party,21,54,64.20545915692871
+232,Morang,Morang-3,"Democratic Socialist Party, Nepal",18,33,58.280784983724296
+233,Morang,Morang-3,Independent,10,30,59.70561126156164
+234,Morang,Morang-3,Independent,10,42,61.0979247733185
+235,Morang,Morang-3,Independent,8,26,56.1077733997371
+236,Morang,Morang-3,Independent,8,58,63.375373191043465
+237,Morang,Morang-3,Independent,7,38,61.11271114751696
+238,Morang,Morang-3,Independent,6,34,67.18623469311979
+239,Morang,Morang-3,Independent,4,34,57.95063834423992
+240,Morang,Morang-3,Independent,4,45,65.09070754619093
+241,Morang,Morang-3,Independent,2,32,57.59654432454977
+242,Morang,Morang-3,Independent,1,33,66.9244421884774
+243,Morang,Morang-3,Independent,1,39,55.914950440575886
+244,Morang,Morang-4,Nepal Communist Party (Maoist Center) (Unified Symbol),30612,37,66.36314779701499
+245,Morang,Morang-4,Nepal Communist Party (UML),24463,54,64.20545915692871
+246,Morang,Morang-4,Rastriya Prajatantra Party,7468,50,58.280784983724296
+247,Morang,Morang-4,Rastriya Swatantra Party,5333,48,59.70561126156164
+248,Morang,Morang-4,Hamro Nepali Party,885,45,61.0979247733185
+249,Morang,Morang-4,Independent,278,56,56.1077733997371
+250,Morang,Morang-4,Independent,265,32,63.375373191043465
+251,Morang,Morang-4,Independent,228,47,61.11271114751696
+252,Morang,Morang-4,"Democratic Socialist Party, Nepal",198,49,67.18623469311979
+253,Morang,Morang-4,Independent,181,27,57.95063834423992
+254,Morang,Morang-4,Mongol National Organization,135,31,65.09070754619093
+255,Morang,Morang-4,Nepali Congress (BP),69,50,57.59654432454977
+256,Morang,Morang-4,Nepal Workers and Peasants Party,63,36,66.9244421884774
+257,Morang,Morang-4,Federal Democratic National Front,51,59,55.914950440575886
+258,Morang,Morang-4,Independent,27,26,66.36314779701499
+259,Morang,Morang-4,Independent,27,53,64.20545915692871
+260,Morang,Morang-5,Independent,21820,51,58.280784983724296
+261,Morang,Morang-5,Nepal Communist Party (Maoist Center) (Unified Symbol),17486,47,59.70561126156164
+262,Morang,Morang-5,"Janata Samajwadi Party, Nepal",17390,50,61.0979247733185
+263,Morang,Morang-5,Rastriya Prajatantra Party,2479,76,56.1077733997371
+264,Morang,Morang-5,Janamat Party,2395,42,63.375373191043465
+265,Morang,Morang-5,Rastriya Swatantra Party,2282,37,61.11271114751696
+266,Morang,Morang-5,Independent,1900,47,67.18623469311979
+267,Morang,Morang-5,Hamro Nepali Party,794,39,57.95063834423992
+268,Morang,Morang-5,Independent,314,33,65.09070754619093
+269,Morang,Morang-5,Independent,112,69,57.59654432454977
+270,Morang,Morang-5,Federal Democratic National Front,103,39,66.9244421884774
+271,Morang,Morang-5,Independent,96,58,55.914950440575886
+272,Morang,Morang-5,Nepal Democratic Party,88,41,66.36314779701499
+273,Morang,Morang-5,Independent,46,69,64.20545915692871
+274,Morang,Morang-5,Independent,45,44,58.280784983724296
+275,Morang,Morang-5,Independent,30,37,59.70561126156164
+276,Morang,Morang-6,Nepali Congress,35224,72,61.0979247733185
+277,Morang,Morang-6,Nepal Communist Party (UML),22946,63,56.1077733997371
+278,Morang,Morang-6,Rastriya Swatantra Party,9140,42,63.375373191043465
+279,Morang,Morang-6,Rastriya Prajatantra Party,8925,64,61.11271114751696
+280,Morang,Morang-6,Janamat Party,1844,42,67.18623469311979
+281,Morang,Morang-6,Independent,900,31,57.95063834423992
+282,Morang,Morang-6,Nagarik Unmukti Party,508,46,65.09070754619093
+283,Morang,Morang-6,Hamro Nepali Party,434,67,57.59654432454977
+284,Morang,Morang-6,Independent,192,45,66.9244421884774
+285,Morang,Morang-6,Federal Democratic National Front,109,56,55.914950440575886
+286,Morang,Morang-6,"Janata Pragatisheel Party, Nepal",59,38,66.36314779701499
+287,Morang,Morang-6,Mongol National Organization,42,51,64.20545915692871
+288,Morang,Morang-6,Nepal Workers and Peasants Party,39,33,58.280784983724296
+289,Morang,Morang-6,Independent,36,27,59.70561126156164
+290,Morang,Morang-6,Bahujan Shakti Party,28,56,61.0979247733185
+291,Sunsari,Sunsari-1,"Janata Samajwadi Party, Nepal",17059,65,56.1077733997371
+292,Sunsari,Sunsari-1,Rastriya Swatantra Party,16606,48,63.375373191043465
+293,Sunsari,Sunsari-1,Nepal Communist Party (Maoist Center) (Unified Symbol),13087,40,61.11271114751696
+294,Sunsari,Sunsari-1,Rastriya Prajatantra Party,7884,61,67.18623469311979
+295,Sunsari,Sunsari-1,Independent,7812,58,57.95063834423992
+296,Sunsari,Sunsari-1,Independent,3818,53,65.09070754619093
+297,Sunsari,Sunsari-1,Independent,1864,34,57.59654432454977
+298,Sunsari,Sunsari-1,Independent,1760,52,66.9244421884774
+299,Sunsari,Sunsari-1,Federal Democratic National Front,715,66,55.914950440575886
+300,Sunsari,Sunsari-1,Independent,367,41,66.36314779701499
+301,Sunsari,Sunsari-1,Janasamajwadi Party Nepal,349,45,64.20545915692871
+302,Sunsari,Sunsari-1,Janamat Party,305,58,58.280784983724296
+303,Sunsari,Sunsari-1,Kirat Khambuwan Sajha Party,278,56,59.70561126156164
+304,Sunsari,Sunsari-1,Independent,275,64,61.0979247733185
+305,Sunsari,Sunsari-1,Mongol National Organization,230,39,56.1077733997371
+306,Sunsari,Sunsari-1,Independent,177,44,63.375373191043465
+307,Sunsari,Sunsari-1,Independent,164,56,61.11271114751696
+308,Sunsari,Sunsari-1,Independent,138,62,67.18623469311979
+309,Sunsari,Sunsari-1,Independent,76,40,57.95063834423992
+310,Sunsari,Sunsari-1,Independent,57,60,65.09070754619093
+311,Sunsari,Sunsari-2,Nepal Communist Party (UML),32024,63,57.59654432454977
+312,Sunsari,Sunsari-2,Nepali Congress,26068,67,66.9244421884774
+313,Sunsari,Sunsari-2,Rastriya Swatantra Party,19391,36,55.914950440575886
+314,Sunsari,Sunsari-2,Rastriya Prajatantra Party,4269,50,66.36314779701499
+315,Sunsari,Sunsari-2,Janamat Party,1192,40,64.20545915692871
+316,Sunsari,Sunsari-2,Nagarik Unmukti Party,1162,51,58.280784983724296
+317,Sunsari,Sunsari-2,Nepal Democratic Party,1023,47,59.70561126156164
+318,Sunsari,Sunsari-2,Hamro Nepali Party,691,45,61.0979247733185
+319,Sunsari,Sunsari-2,Federal Democratic National Front,460,64,56.1077733997371
+320,Sunsari,Sunsari-2,Mongol National Organization,384,71,63.375373191043465
+321,Sunsari,Sunsari-2,Independent,375,69,61.11271114751696
+322,Sunsari,Sunsari-2,"Democratic Socialist Party, Nepal",308,39,67.18623469311979
+323,Sunsari,Sunsari-2,Independent,251,36,57.95063834423992
+324,Sunsari,Sunsari-2,Independent,177,27,65.09070754619093
+325,Sunsari,Sunsari-2,Maulik Jarokilo Party,141,52,57.59654432454977
+326,Sunsari,Sunsari-2,Janasamajwadi Party Nepal,108,53,66.9244421884774
+327,Sunsari,Sunsari-2,Nepal Communist Party Marxist (Pushpalal),107,46,55.914950440575886
+328,Sunsari,Sunsari-2,Rastriya Prajatantra Party Nepal,97,55,66.36314779701499
+329,Sunsari,Sunsari-2,Independent,73,56,64.20545915692871
+330,Sunsari,Sunsari-2,Independent,69,60,58.280784983724296
+331,Sunsari,Sunsari-2,Bibeksheel Sajha Party,56,30,59.70561126156164
+332,Sunsari,Sunsari-2,Independent,36,29,61.0979247733185
+333,Sunsari,Sunsari-2,Independent,28,37,56.1077733997371
+334,Sunsari,Sunsari-2,Independent,23,41,63.375373191043465
+335,Sunsari,Sunsari-2,Independent,15,28,61.11271114751696
+336,Sunsari,Sunsari-2,Independent,13,40,67.18623469311979
+337,Sunsari,Sunsari-2,Independent,11,35,57.95063834423992
+338,Sunsari,Sunsari-3,Nepal Communist Party (UML),40788,51,65.09070754619093
+339,Sunsari,Sunsari-3,Nepali Congress,35600,68,57.59654432454977
+340,Sunsari,Sunsari-3,Rastriya Swatantra Party,6453,50,66.9244421884774
+341,Sunsari,Sunsari-3,Rastriya Prajatantra Party,1903,49,55.914950440575886
+342,Sunsari,Sunsari-3,Hamro Nepali Party,944,43,66.36314779701499
+343,Sunsari,Sunsari-3,Independent,336,50,64.20545915692871
+344,Sunsari,Sunsari-3,Federal Democratic National Front,214,45,58.280784983724296
+345,Sunsari,Sunsari-3,"Democratic Socialist Party, Nepal",210,52,59.70561126156164
+346,Sunsari,Sunsari-3,Independent,119,71,61.0979247733185
+347,Sunsari,Sunsari-3,Independent,110,34,56.1077733997371
+348,Sunsari,Sunsari-3,Nepali Congress (BP),90,37,63.375373191043465
+349,Sunsari,Sunsari-3,Independent,65,39,61.11271114751696
+350,Sunsari,Sunsari-3,Independent,65,44,67.18623469311979
+351,Sunsari,Sunsari-3,Pichhda Varg Nishad Dalit Janjati Party,54,25,59.09029241398476
+352,Sunsari,Sunsari-3,Rastriya Janamukti Party,40,41,62.68995554658066
+353,Sunsari,Sunsari-3,Maulik Jarokilo Party,38,56,61.864062319822864
+354,Sunsari,Sunsari-3,Independent,31,47,58.18650642056348
+355,Sunsari,Sunsari-3,Independent,14,63,55.340661164875925
+356,Sunsari,Sunsari-3,Independent,13,35,60.1016970980528
+357,Sunsari,Sunsari-3,Independent,11,50,61.10408566595893
+358,Sunsari,Sunsari-3,Independent,9,54,55.15647370110112
+359,Sunsari,Sunsari-3,Independent,7,43,64.89549279649438
+360,Sunsari,Sunsari-4,Nepali Congress,30483,65,60.96337990221171
+361,Sunsari,Sunsari-4,Nepal Communist Party (UML),30371,62,58.91556204639586
+362,Sunsari,Sunsari-4,Rastriya Prajatantra Party,3232,35,54.4843743222347
+363,Sunsari,Sunsari-4,Rastriya Swatantra Party,3181,43,64.71912622035859
+364,Sunsari,Sunsari-4,Independent,2457,66,61.94598151477844
+365,Sunsari,Sunsari-4,Janamat Party,2153,49,62.05445221055335
+366,Sunsari,Sunsari-4,"Democratic Socialist Party, Nepal",1373,65,61.42462990256364
+367,Sunsari,Sunsari-4,"Janata Pragatisheel Party, Nepal",409,46,58.79947673854882
+368,Sunsari,Sunsari-4,Independent,147,44,58.96691074216836
+369,Sunsari,Sunsari-4,Rastriya Prajatantra Party Nepal,102,52,59.31769339029591
+370,Sunsari,Sunsari-4,Federal Democratic National Front,87,51,59.09029241398476
+371,Sunsari,Sunsari-4,Nepal Communist Party Maoist Socialist,79,39,62.68995554658066
+372,Sunsari,Sunsari-4,Independent,69,34,61.864062319822864
+373,Sunsari,Sunsari-4,Nepal for Nepali Party,56,58,58.18650642056348
+374,Sunsari,Sunsari-4,Independent,44,41,55.340661164875925
+375,Sunsari,Sunsari-4,Independent,39,48,60.1016970980528
+376,Sunsari,Sunsari-4,Unified Shakti Nepal,38,46,61.10408566595893
+377,Sunsari,Sunsari-4,Nepal Workers and Peasants Party,21,41,55.15647370110112
+378,Sunsari,Sunsari-4,Independent,19,52,64.89549279649438
+379,Sunsari,Sunsari-4,Independent,15,42,60.96337990221171
+380,Sunsari,Sunsari-4,Independent,11,58,58.91556204639586
+381,Sunsari,Sunsari-4,Independent,11,32,54.4843743222347
+382,Sunsari,Sunsari-4,Independent,9,42,64.71912622035859
+383,Sunsari,Sunsari-4,Independent,9,62,61.94598151477844
+384,Sunsari,Sunsari-4,Independent,8,29,62.05445221055335
+385,सोलुखुम्बु,सोलुखुम्बु-1,Nepal Communist Party (UML),19324,52,61.42462990256364
+386,सोलुखुम्बु,सोलुखुम्बु-1,Nepali Congress,16545,69,58.79947673854882
+387,सोलुखुम्बु,सोलुखुम्बु-1,"Janata Samajwadi Party, Nepal",901,40,58.96691074216836
+388,सोलुखुम्बु,सोलुखुम्बु-1,Nepal Communist Party (Marxist-Leninist),490,69,59.31769339029591
+389,सोलुखुम्बु,सोलुखुम्बु-1,Rastriya Prajatantra Party,279,59,59.09029241398476
+390,सोलुखुम्बु,सोलुखुम्बु-1,Nepal Workers and Peasants Party,138,55,62.68995554658066
+391,सोलुखुम्बु,सोलुखुम्बु-1,Mongol National Organization,107,40,61.864062319822864
+392,सोलुखुम्बु,सोलुखुम्बु-1,Federal Democratic National Front,26,26,58.18650642056348
+393,Khotang,Khotang-1,Nepal Communist Party (Maoist Center) (Unified Symbol),31351,54,55.340661164875925
+394,Khotang,Khotang-1,Nepal Communist Party (UML),28682,53,60.1016970980528
+395,Khotang,Khotang-1,"Janata Samajwadi Party, Nepal",1914,67,61.10408566595893
+396,Khotang,Khotang-1,Rastriya Prajatantra Party,1761,30,55.15647370110112
+397,Khotang,Khotang-1,Independent,239,51,64.89549279649438
+398,Khotang,Khotang-1,Amul Parivartan Masiha Party Nepal,204,36,60.96337990221171
+399,Khotang,Khotang-1,Nepal Workers and Peasants Party,140,57,58.91556204639586
+400,Khotang,Khotang-1,Mongol National Organization,131,31,54.4843743222347
+401,ओखलढुंगा,ओखलढुंगा-1,Nepali Congress,33556,52,64.71912622035859
+402,ओखलढुंगा,ओखलढुंगा-1,Nepal Communist Party (UML),26738,50,61.94598151477844
+403,ओखलढुंगा,ओखलढुंगा-1,"Janata Samajwadi Party, Nepal",897,50,62.05445221055335
+404,ओखलढुंगा,ओखलढुंगा-1,Rastriya Swatantra Party,714,39,61.42462990256364
+405,ओखलढुंगा,ओखलढुंगा-1,Mongol National Organization,356,36,58.79947673854882
+406,ओखलढुंगा,ओखलढुंगा-1,Rastriya Prajatantra Party,222,50,58.96691074216836
+407,ओखलढुंगा,ओखलढुंगा-1,Nepal Workers and Peasants Party,88,48,59.31769339029591
+408,ओखलढुंगा,ओखलढुंगा-1,Federal Democratic National Front,14,52,59.09029241398476
+409,उदयपुर,उदयपुर-1,Nepali Congress,31270,73,62.68995554658066
+410,उदयपुर,उदयपुर-1,Nepal Communist Party (UML),28891,48,61.864062319822864
+411,उदयपुर,उदयपुर-1,Rastriya Prajatantra Party,3915,53,58.18650642056348
+412,उदयपुर,उदयपुर-1,Rastriya Swatantra Party,3444,39,55.340661164875925
+413,उदयपुर,उदयपुर-1,"Janata Samajwadi Party, Nepal",1906,44,60.1016970980528
+414,उदयपुर,उदयपुर-1,Nepal Communist Party (Marxist-Leninist),637,55,61.10408566595893
+415,उदयपुर,उदयपुर-1,Mongol National Organization,442,35,55.15647370110112
+416,उदयपुर,उदयपुर-1,Nagarik Unmukti Party,206,42,64.89549279649438
+417,उदयपुर,उदयपुर-1,Sachet Nepali Party (Unified Symbol),182,45,60.96337990221171
+418,उदयपुर,उदयपुर-1,"Democratic Socialist Party, Nepal",146,66,58.91556204639586
+419,उदयपुर,उदयपुर-1,Independent,138,47,54.4843743222347
+420,उदयपुर,उदयपुर-1,Rastriya Janamukti Party,120,60,64.71912622035859
+421,उदयपुर,उदयपुर-1,Rastriya Prajatantra Party Nepal,63,49,61.94598151477844
+422,उदयपुर,उदयपुर-1,Nepal Workers and Peasants Party,44,44,62.05445221055335
+423,उदयपुर,उदयपुर-1,"Janata Pragatisheel Party, Nepal",38,35,61.42462990256364
+424,उदयपुर,उदयपुर-1,Federal Democratic National Front,13,45,58.79947673854882
+425,उदयपुर,उदयपुर-2,Nepal Communist Party (UML),15251,53,58.96691074216836
+426,उदयपुर,उदयपुर-2,Nepal Communist Party (Unified Socialist),12893,60,59.31769339029591
+427,उदयपुर,उदयपुर-2,Independent,10379,50,59.09029241398476
+428,उदयपुर,उदयपुर-2,Mongol National Organization,1430,37,62.68995554658066
+429,उदयपुर,उदयपुर-2,Rastriya Swatantra Party,910,50,61.864062319822864
+430,उदयपुर,उदयपुर-2,Rastriya Prajatantra Party,481,47,58.18650642056348
+431,उदयपुर,उदयपुर-2,"Janata Samajwadi Party, Nepal",367,43,55.340661164875925
+432,उदयपुर,उदयपुर-2,Nepal Workers and Peasants Party,117,37,60.1016970980528
+433,उदयपुर,उदयपुर-2,Hamro Nepali Party,116,46,61.10408566595893
+434,उदयपुर,उदयपुर-2,Independent,96,53,55.15647370110112
+435,उदयपुर,उदयपुर-2,Janajagaran Party Nepal,87,51,64.89549279649438
+436,उदयपुर,उदयपुर-2,Nepali Congress (BP),34,68,60.96337990221171
+437,सप्तरी,सप्तरी-1,"Janata Samajwadi Party, Nepal",23604,73,58.91556204639586
+438,सप्तरी,सप्तरी-1,Janamat Party,19996,49,54.4843743222347
+439,सप्तरी,सप्तरी-1,Nepali Congress,14312,63,64.71912622035859
+440,सप्तरी,सप्तरी-1,Independent,2881,55,61.94598151477844
+441,सप्तरी,सप्तरी-1,Independent,2345,45,62.05445221055335
+442,सप्तरी,सप्तरी-1,Independent,1536,62,61.42462990256364
+443,सप्तरी,सप्तरी-1,Nagarik Unmukti Party,1378,38,58.79947673854882
+444,सप्तरी,सप्तरी-1,Rastriya Prajatantra Party,1117,53,58.96691074216836
+445,सप्तरी,सप्तरी-1,Rastriya Swatantra Party,1054,25,59.31769339029591
+446,सप्तरी,सप्तरी-1,Independent,580,41,59.09029241398476
+447,सप्तरी,सप्तरी-1,Independent,519,59,62.68995554658066
+448,सप्तरी,सप्तरी-1,Nepal Democratic Party,383,49,61.864062319822864
+449,सप्तरी,सप्तरी-1,Rastriya Prajatantra Party Nepal,166,41,58.18650642056348
+450,सप्तरी,सप्तरी-1,Nepal Workers and Peasants Party,123,57,55.340661164875925
+451,सप्तरी,सप्तरी-1,Independent,72,51,60.1016970980528
+452,सप्तरी,सप्तरी-1,Mongol National Organization,47,66,61.10408566595893
+453,सप्तरी,सप्तरी-1,Independent,40,41,55.15647370110112
+454,सप्तरी,सप्तरी-1,Independent,37,50,64.89549279649438
+455,सप्तरी,सप्तरी-1,Independent,31,28,60.96337990221171
+456,सप्तरी,सप्तरी-1,Independent,14,59,58.91556204639586
+457,सप्तरी,सप्तरी-2,Janamat Party,35042,45,54.4843743222347
+458,सप्तरी,सप्तरी-2,"Janata Samajwadi Party, Nepal",16979,61,64.71912622035859
+459,सप्तरी,सप्तरी-2,"Democratic Socialist Party, Nepal",7347,66,61.94598151477844
+460,सप्तरी,सप्तरी-2,Rastriya Swatantra Party,281,36,62.05445221055335
+461,सप्तरी,सप्तरी-2,Nepali Congress (BP),235,73,61.42462990256364
+462,सप्तरी,सप्तरी-2,Rastriya Prajatantra Party,222,53,58.79947673854882
+463,सप्तरी,सप्तरी-2,Nepal Workers and Peasants Party,192,55,58.96691074216836
+464,सप्तरी,सप्तरी-2,Hamro Nepali Party,169,64,59.31769339029591
+465,सप्तरी,सप्तरी-2,Nepali Janata Dal,155,64,59.09029241398476
+466,सप्तरी,सप्तरी-2,Independent,75,64,62.68995554658066
+467,सप्तरी,सप्तरी-2,Pichhda Varg Nishad Dalit Janjati Party,72,43,61.864062319822864
+468,सप्तरी,सप्तरी-2,Rastriya Prajatantra Party Nepal,61,58,58.18650642056348
+469,सप्तरी,सप्तरी-2,Nepal Federal Socialist Party,31,52,55.340661164875925
+470,सप्तरी,सप्तरी-2,Independent,27,64,60.1016970980528
+471,सप्तरी,सप्तरी-2,Independent,21,47,61.10408566595893
+472,सप्तरी,सप्तरी-2,Independent,12,43,55.15647370110112
+473,सप्तरी,सप्तरी-3,Nepali Congress,26166,61,64.89549279649438
+474,सप्तरी,सप्तरी-3,Nepal Communist Party (UML),22300,57,60.96337990221171
+475,सप्तरी,सप्तरी-3,Janamat Party,15114,68,58.91556204639586
+476,सप्तरी,सप्तरी-3,"Democratic Socialist Party, Nepal",872,54,54.4843743222347
+477,सप्तरी,सप्तरी-3,Rastriya Prajatantra Party,439,62,64.71912622035859
+478,सप्तरी,सप्तरी-3,Independent,418,61,61.94598151477844
+479,सप्तरी,सप्तरी-3,Nepali Janata Dal,294,39,62.05445221055335
+480,सप्तरी,सप्तरी-3,Hamro Nepali Party,285,40,61.42462990256364
+481,सप्तरी,सप्तरी-3,Rastriya Swatantra Party,237,40,58.79947673854882
+482,सप्तरी,सप्तरी-3,Nepal Workers and Peasants Party,163,53,58.96691074216836
+483,सप्तरी,सप्तरी-3,Nepal Federal Socialist Party,124,66,59.31769339029591
+484,सप्तरी,सप्तरी-3,Nepal Communist Party,99,66,59.09029241398476
+485,सप्तरी,सप्तरी-3,Rastriya Prajatantra Party Nepal,87,62,62.68995554658066
+486,सप्तरी,सप्तरी-3,Independent,69,55,61.864062319822864
+487,सप्तरी,सप्तरी-3,Independent,58,42,58.18650642056348
+488,सप्तरी,सप्तरी-3,Independent,37,60,55.340661164875925
+489,सप्तरी,सप्तरी-3,Independent,33,42,60.1016970980528
+490,सप्तरी,सप्तरी-3,Independent,31,39,61.10408566595893
+491,सप्तरी,सप्तरी-4,Nepali Congress,23491,60,55.15647370110112
+492,सप्तरी,सप्तरी-4,"Janata Samajwadi Party, Nepal",17977,48,64.89549279649438
+493,सप्तरी,सप्तरी-4,Janamat Party,12925,72,60.96337990221171
+494,सप्तरी,सप्तरी-4,Bahujan Shakti Party,3175,61,58.91556204639586
+495,सप्तरी,सप्तरी-4,Independent,1717,60,54.4843743222347
+496,सप्तरी,सप्तरी-4,Nagarik Unmukti Party,1509,52,64.71912622035859
+497,सप्तरी,सप्तरी-4,Rastriya Prajatantra Party,846,46,61.94598151477844
+498,सप्तरी,सप्तरी-4,Independent,546,28,62.05445221055335
+499,सप्तरी,सप्तरी-4,Independent,533,73,61.42462990256364
+500,सप्तरी,सप्तरी-4,Rastriya Swatantra Party,502,30,58.79947673854882
+501,सप्तरी,सप्तरी-4,Rastriya Prajatantra Party Nepal,348,50,58.96691074216836
+502,सप्तरी,सप्तरी-4,Nepal Ama Party (Unified Symbol),184,55,59.31769339029591
+503,सप्तरी,सप्तरी-4,Independent,143,56,59.09029241398476
+504,सप्तरी,सप्तरी-4,Nepal Sadbhavana Party,46,37,62.68995554658066
+505,सप्तरी,सप्तरी-4,Independent,31,56,61.864062319822864
+506,सप्तरी,सप्तरी-4,Independent,19,57,58.18650642056348
+507,Siraha,Siraha-1,Nepal Communist Party (UML),29462,61,55.340661164875925
+508,Siraha,Siraha-1,Nepali Congress,27379,74,60.1016970980528
+509,Siraha,Siraha-1,Janamat Party,6849,42,61.10408566595893
+510,Siraha,Siraha-1,Independent,502,60,55.15647370110112
+511,Siraha,Siraha-1,Rastriya Prajatantra Party,379,32,64.89549279649438
+512,Siraha,Siraha-1,Rastriya Swatantra Party,304,41,60.96337990221171
+513,Siraha,Siraha-1,Bahujan Ekata Party Nepal,256,45,58.91556204639586
+514,Siraha,Siraha-1,Maulik Jarokilo Party,168,28,54.4843743222347
+515,Siraha,Siraha-1,Rastriya Prajatantra Party Nepal,142,75,64.71912622035859
+516,Siraha,Siraha-1,Nepal for Nepali Party,131,43,61.94598151477844
+517,Siraha,Siraha-1,"Janata Pragatisheel Party, Nepal",122,34,62.05445221055335
+518,Siraha,Siraha-1,Nepal Workers and Peasants Party,94,53,61.42462990256364
+519,Siraha,Siraha-1,Independent,61,58,58.79947673854882
+520,Siraha,Siraha-1,Independent,58,26,58.96691074216836
+521,Siraha,Siraha-1,Independent,45,41,59.31769339029591
+522,Siraha,Siraha-1,Federal Democratic National Front,38,54,59.09029241398476
+523,Siraha,Siraha-1,Independent,28,55,62.68995554658066
+524,Siraha,Siraha-1,Nepal Sadbhavana Party,23,52,61.864062319822864
+525,Siraha,Siraha-1,Independent,23,43,58.18650642056348
+526,Siraha,Siraha-1,Independent,17,40,55.340661164875925
+527,Siraha,Siraha-1,Independent,12,34,60.1016970980528
+528,Siraha,Siraha-1,Independent,7,50,61.10408566595893
+529,Siraha,Siraha-1,Independent,6,30,55.15647370110112
+530,Siraha,Siraha-2,"Janata Samajwadi Party, Nepal",24178,49,64.89549279649438
+531,Siraha,Siraha-2,Nepali Congress,23028,57,60.96337990221171
+532,Siraha,Siraha-2,Janamat Party,16902,53,58.91556204639586
+533,Siraha,Siraha-2,Rastriya Prajatantra Party,782,67,54.4843743222347
+534,Siraha,Siraha-2,Hamro Nepali Party,699,27,64.71912622035859
+535,Siraha,Siraha-2,Independent,639,38,61.94598151477844
+536,Siraha,Siraha-2,Independent,312,50,62.05445221055335
+537,Siraha,Siraha-2,Independent,284,62,61.42462990256364
+538,Siraha,Siraha-2,Rastriya Prajatantra Party Nepal,206,50,58.79947673854882
+539,Siraha,Siraha-2,Independent,163,39,58.96691074216836
+540,Siraha,Siraha-2,Nepal Workers and Peasants Party,155,50,59.31769339029591
+541,Siraha,Siraha-2,Independent,87,36,59.09029241398476
+542,Siraha,Siraha-2,Independent,57,49,62.68995554658066
+543,Siraha,Siraha-2,Independent,48,38,61.864062319822864
+544,Siraha,Siraha-2,Federal Democratic National Front,46,44,58.18650642056348
+545,Siraha,Siraha-2,Rastriya Janamukti Party,32,46,55.340661164875925
+546,Siraha,Siraha-2,Independent,32,50,60.1016970980528
+547,Siraha,Siraha-2,Independent,23,28,61.10408566595893
+548,Siraha,Siraha-2,Independent,22,40,55.15647370110112
+549,Siraha,Siraha-2,Independent,21,46,64.89549279649438
+550,Siraha,Siraha-2,Independent,16,34,60.96337990221171
+551,Siraha,Siraha-2,Independent,15,49,58.91556204639586
+552,Siraha,Siraha-2,Independent,13,29,54.4843743222347
+553,Siraha,Siraha-2,Independent,8,30,64.71912622035859
+554,Siraha,Siraha-3,Nepal Communist Party (UML),28064,65,61.94598151477844
+555,Siraha,Siraha-3,Nepal Communist Party (Maoist Center) (Unified Symbol),26882,69,62.05445221055335
+556,Siraha,Siraha-3,Janamat Party,11146,33,61.42462990256364
+557,Siraha,Siraha-3,Rastriya Prajatantra Party,1259,69,58.79947673854882
+558,Siraha,Siraha-3,Rastriya Swatantra Party,463,39,58.96691074216836
+559,Siraha,Siraha-3,Independent,457,40,59.31769339029591
+560,Siraha,Siraha-3,Pichhda Varg Nishad Dalit Janjati Party,253,44,59.09029241398476
+561,Siraha,Siraha-3,Independent,158,34,62.68995554658066
+562,Siraha,Siraha-3,Independent,148,47,61.864062319822864
+563,Siraha,Siraha-3,Independent,148,35,58.18650642056348
+564,Siraha,Siraha-3,Janasamajwadi Party Nepal,147,33,55.340661164875925
+565,Siraha,Siraha-3,Independent,66,67,60.1016970980528
+566,Siraha,Siraha-3,Independent,55,36,61.10408566595893
+567,Siraha,Siraha-3,Independent,42,31,55.15647370110112
+568,Siraha,Siraha-3,Independent,23,40,64.89549279649438
+569,Siraha,Siraha-3,Independent,22,31,60.96337990221171
+570,Siraha,Siraha-3,Independent,19,47,58.91556204639586
+571,Siraha,Siraha-3,Independent,18,31,54.4843743222347
+572,Siraha,Siraha-3,Independent,14,39,64.71912622035859
+573,Siraha,Siraha-3,Independent,13,45,61.94598151477844
+574,Siraha,Siraha-3,Independent,9,27,62.05445221055335
+575,Siraha,Siraha-4,"Janata Samajwadi Party, Nepal",24102,53,61.42462990256364
+576,Siraha,Siraha-4,Janamat Party,16294,53,58.79947673854882
+577,Siraha,Siraha-4,Nepal Communist Party (Unified Socialist),14653,62,58.96691074216836
+578,Siraha,Siraha-4,Rastriya Swatantra Party,1683,45,59.31769339029591
+579,Siraha,Siraha-4,Rastriya Prajatantra Party,1073,36,59.09029241398476
+580,Siraha,Siraha-4,Nepal Communist Party (Marxist-Leninist),725,44,62.68995554658066
+581,Siraha,Siraha-4,Independent,454,57,61.864062319822864
+582,Siraha,Siraha-4,Independent,328,42,58.18650642056348
+583,Siraha,Siraha-4,Independent,314,49,55.340661164875925
+584,Siraha,Siraha-4,Independent,250,36,60.1016970980528
+585,Siraha,Siraha-4,Independent,180,27,61.10408566595893
+586,Siraha,Siraha-4,Rastriya Prajatantra Party Nepal,175,44,55.15647370110112
+587,Siraha,Siraha-4,Nepal for Nepali Party,158,50,64.89549279649438
+588,Siraha,Siraha-4,Nepal Workers and Peasants Party,151,62,60.96337990221171
+589,Siraha,Siraha-4,Independent,118,39,58.91556204639586
+590,Siraha,Siraha-4,Nepal Ama Party (Unified Symbol),113,41,54.4843743222347
+591,Siraha,Siraha-4,Independent,56,33,64.71912622035859
+592,Siraha,Siraha-4,Independent,48,34,61.94598151477844
+593,Siraha,Siraha-4,Independent,47,48,62.05445221055335
+594,दोलखा,दोलखा-1,Nepal Communist Party (Maoist Center) (Unified Symbol),36820,57,61.42462990256364
+595,दोलखा,दोलखा-1,Nepal Communist Party (UML),36505,53,58.79947673854882
+596,दोलखा,दोलखा-1,Rastriya Swatantra Party,3801,33,58.96691074216836
+597,दोलखा,दोलखा-1,Rastriya Prajatantra Party,1561,56,59.31769339029591
+598,दोलखा,दोलखा-1,Nepal Communist Party (Marxist-Leninist),634,32,59.09029241398476
+599,दोलखा,दोलखा-1,"Janata Samajwadi Party, Nepal",361,43,62.68995554658066
+600,दोलखा,दोलखा-1,Hamro Nepali Party,317,51,61.864062319822864
+601,दोलखा,दोलखा-1,Mongol National Organization,269,36,58.18650642056348
+602,दोलखा,दोलखा-1,Rastriya Prajatantra Party Nepal,198,46,55.340661164875925
+603,दोलखा,दोलखा-1,"Democratic Socialist Party, Nepal",122,27,60.1016970980528
+604,दोलखा,दोलखा-1,Independent,118,46,61.10408566595893
+605,दोलखा,दोलखा-1,Nepal Workers and Peasants Party,62,65,55.15647370110112
+606,दोलखा,दोलखा-1,Janasamajwadi Party Nepal,55,62,64.89549279649438
+607,दोलखा,दोलखा-1,Nagarik Unmukti Party,51,41,60.96337990221171
+608,दोलखा,दोलखा-1,Independent,40,33,58.91556204639586
+609,दोलखा,दोलखा-1,Nepali Congress (BP),35,41,54.4843743222347
+610,दोलखा,दोलखा-1,Independent,20,45,64.71912622035859
+611,दोलखा,दोलखा-1,Independent,18,34,61.94598151477844
+612,दोलखा,दोलखा-1,Independent,15,48,62.05445221055335
+613,दोलखा,दोलखा-1,Independent,12,39,61.42462990256364
+614,दोलखा,दोलखा-1,Independent,9,42,58.79947673854882
+615,रामेछाप,रामेछाप-1,Nepali Congress,47099,57,58.96691074216836
+616,रामेछाप,रामेछाप-1,Nepal Communist Party (UML),30730,62,59.31769339029591
+617,रामेछाप,रामेछाप-1,Rastriya Prajatantra Party,1484,49,59.74633815509767
+618,रामेछाप,रामेछाप-1,Rastriya Swatantra Party,1457,35,60.235798864609485
+619,रामेछाप,रामेछाप-1,Nepal Communist Party (Marxist-Leninist),858,39,62.109343606966696
+620,रामेछाप,रामेछाप-1,Independent,425,51,55.61802478842104
+621,रामेछाप,रामेछाप-1,Mongol National Organization,306,45,57.42682549152386
+622,रामेछाप,रामेछाप-1,Nepal Communist Party (Unified Socialist),294,62,51.3167800963995
+623,रामेछाप,रामेछाप-1,Nepali Janata Dal,235,38,56.673505993476894
+624,रामेछाप,रामेछाप-1,Nationalist People's Party,210,39,53.80547060557132
+625,रामेछाप,रामेछाप-1,Nepali Congress (BP),195,59,53.10874082690346
+626,रामेछाप,रामेछाप-1,Rastriya Prajatantra Party Nepal,138,32,52.30464116684519
+627,रामेछाप,रामेछाप-1,Nagarik Unmukti Party,107,53,58.456933108921056
+628,रामेछाप,रामेछाप-1,Nepal Communist Party Maoist Socialist,104,33,51.23923136567161
+629,रामेछाप,रामेछाप-1,Rastriya Samajwadi Party Nepal,60,39,57.673847602286266
+630,रामेछाप,रामेछाप-1,Nepal Workers and Peasants Party,47,39,53.08005607235586
+631,रामेछाप,रामेछाप-1,Federal Democratic National Front,42,30,52.936444361327794
+632,रामेछाप,रामेछाप-1,Independent,31,58,52.85746570798584
+633,रामेछाप,रामेछाप-1,Janasamajwadi Party Nepal,27,59,50.63772525861543
+634,रामेछाप,रामेछाप-1,Independent,27,59,57.79347274657249
+635,रामेछाप,रामेछाप-1,Independent,13,45,53.214017466129086
+636,रामेछाप,रामेछाप-1,Independent,10,61,60.41837895069787
+637,सिन्धुली,सिन्धुली-1,Nepali Congress,30391,58,50.68247071995455
+638,सिन्धुली,सिन्धुली-1,Nepal Communist Party (UML),25546,60,51.68940901902028
+639,सिन्धुली,सिन्धुली-1,Rastriya Swatantra Party,2692,31,60.512862335518896
+640,सिन्धुली,सिन्धुली-1,Rastriya Prajatantra Party,940,36,53.63272570269944
+641,सिन्धुली,सिन्धुली-1,Unified Shakti Nepal,321,48,57.617798095968325
+642,सिन्धुली,सिन्धुली-1,Mongol National Organization,134,29,57.69157073429968
+643,सिन्धुली,सिन्धुली-1,"Janata Samajwadi Party, Nepal",109,36,58.51925528193684
+644,सिन्धुली,सिन्धुली-1,Nepal Workers and Peasants Party,83,41,50.955927577559976
+645,सिन्धुली,सिन्धुली-1,Independent,78,69,59.15795814843515
+646,सिन्धुली,सिन्धुली-1,Nepal Communist Party Marxist (Pushpalal),77,64,55.40764535296782
+647,सिन्धुली,सिन्धुली-1,Independent,28,52,55.14179929613815
+648,सिन्धुली,सिन्धुली-1,Independent,21,29,57.1188340328296
+649,सिन्धुली,सिन्धुली-2,Nepal Communist Party (Maoist Center) (Unified Symbol),27517,46,53.462539377712126
+650,सिन्धुली,सिन्धुली-2,Nepal Communist Party (UML),21687,54,62.25487980889951
+651,सिन्धुली,सिन्धुली-2,Rastriya Swatantra Party,1553,29,61.843067000815886
+652,सिन्धुली,सिन्धुली-2,Rastriya Prajatantra Party,1340,52,60.6035266369584
+653,सिन्धुली,सिन्धुली-2,Independent,701,30,55.47363459866992
+654,सिन्धुली,सिन्धुली-2,Mongol National Organization,438,39,59.50018022679173
+655,सिन्धुली,सिन्धुली-2,Janasamajwadi Party Nepal,125,32,60.69373787493488
+656,सिन्धुली,सिन्धुली-2,Tamang Saling Democratic Party,85,50,51.1505972808969
+657,सिन्धुली,सिन्धुली-2,Nepal Workers and Peasants Party,45,37,54.83583891504279
+658,धनुषा,धनुषा-1,"Janata Samajwadi Party, Nepal",27431,58,59.74633815509767
+659,धनुषा,धनुषा-1,Nepal Communist Party (Maoist Center) (Unified Symbol),21483,64,60.235798864609485
+660,धनुषा,धनुषा-1,Janamat Party,14467,52,62.109343606966696
+661,धनुषा,धनुषा-1,Rastriya Prajatantra Party,8273,53,55.61802478842104
+662,धनुषा,धनुषा-1,Rastriya Swatantra Party,364,49,57.42682549152386
+663,धनुषा,धनुषा-1,Independent,317,43,51.3167800963995
+664,धनुषा,धनुषा-1,Samajik Ekata Party (Unified Symbol),129,37,56.673505993476894
+665,धनुषा,धनुषा-1,Independent,91,48,53.80547060557132
+666,धनुषा,धनुषा-1,Independent,90,30,53.10874082690346
+667,धनुषा,धनुषा-1,Nepal Sadbhavana Party,84,62,52.30464116684519
+668,धनुषा,धनुषा-1,Rastriya Prajatantra Party Nepal,78,61,58.456933108921056
+669,धनुषा,धनुषा-1,Independent,55,51,51.23923136567161
+670,धनुषा,धनुषा-1,Independent,37,41,57.673847602286266
+671,धनुषा,धनुषा-1,Independent,34,39,53.08005607235586
+672,धनुषा,धनुषा-1,Independent,34,50,52.936444361327794
+673,धनुषा,धनुषा-1,Independent,22,53,52.85746570798584
+674,धनुषा,धनुषा-1,Independent,16,64,50.63772525861543
+675,धनुषा,धनुषा-1,Independent,15,39,57.79347274657249
+676,धनुषा,धनुषा-1,Independent,15,37,53.214017466129086
+677,धनुषा,धनुषा-1,Independent,14,49,60.41837895069787
+678,धनुषा,धनुषा-1,Independent,14,36,50.68247071995455
+679,धनुषा,धनुषा-1,Independent,12,38,51.68940901902028
+680,धनुषा,धनुषा-1,Independent,8,35,60.512862335518896
+681,धनुषा,धनुषा-1,Independent,8,55,53.63272570269944
+682,धनुषा,धनुषा-1,Independent,7,35,57.617798095968325
+683,धनुषा,धनुषा-2,Nepali Congress,20112,60,57.69157073429968
+684,धनुषा,धनुषा-2,Nepal Communist Party (UML),19955,45,58.51925528193684
+685,धनुषा,धनुषा-2,Nepal Communist Party (Unified Socialist),13605,68,50.955927577559976
+686,धनुषा,धनुषा-2,"Janata Samajwadi Party, Nepal",12901,73,59.15795814843515
+687,धनुषा,धनुषा-2,Janamat Party,9992,56,55.40764535296782
+688,धनुषा,धनुषा-2,Rastriya Prajatantra Party,366,54,55.14179929613815
+689,धनुषा,धनुषा-2,"Janata Pragatisheel Party, Nepal",256,65,57.1188340328296
+690,धनुषा,धनुषा-2,Rastriya Swatantra Party,246,26,53.462539377712126
+691,धनुषा,धनुषा-2,Independent,57,33,62.25487980889951
+692,धनुषा,धनुषा-2,Independent,42,49,61.843067000815886
+693,धनुषा,धनुषा-2,Independent,31,25,60.6035266369584
+694,धनुषा,धनुषा-2,Independent,26,57,55.47363459866992
+695,धनुषा,धनुषा-2,Independent,24,49,59.50018022679173
+696,धनुषा,धनुषा-2,Independent,23,54,60.69373787493488
+697,धनुषा,धनुषा-2,Independent,18,64,51.1505972808969
+698,धनुषा,धनुषा-2,Independent,11,37,54.83583891504279
+699,धनुषा,धनुषा-3,Nepal Communist Party (UML),33388,46,59.74633815509767
+700,धनुषा,धनुषा-3,"Democratic Socialist Party, Nepal",23686,55,60.235798864609485
+701,धनुषा,धनुषा-3,Janamat Party,7374,44,62.109343606966696
+702,धनुषा,धनुषा-3,Rastriya Prajatantra Party,656,53,55.61802478842104
+703,धनुषा,धनुषा-3,Independent,571,56,57.42682549152386
+704,धनुषा,धनुषा-3,Rastriya Swatantra Party,433,36,51.3167800963995
+705,धनुषा,धनुषा-3,Historic Democratic Janata Party Nepal,359,33,56.673505993476894
+706,धनुषा,धनुषा-3,Rastriya Prajatantra Party Nepal,260,51,53.80547060557132
+707,धनुषा,धनुषा-3,Nepal Janata Party,201,56,53.10874082690346
+708,धनुषा,धनुषा-3,Independent,187,68,52.30464116684519
+709,धनुषा,धनुषा-3,Bahujan Ekata Party Nepal,102,64,58.456933108921056
+710,धनुषा,धनुषा-3,Independent,78,40,51.23923136567161
+711,धनुषा,धनुषा-3,Independent,70,35,57.673847602286266
+712,धनुषा,धनुषा-3,Nepal Workers and Peasants Party,68,47,53.08005607235586
+713,धनुषा,धनुषा-3,Independent,65,46,52.936444361327794
+714,धनुषा,धनुषा-3,Independent,63,26,52.85746570798584
+715,धनुषा,धनुषा-3,Independent,51,46,50.63772525861543
+716,धनुषा,धनुषा-3,Independent,50,50,57.79347274657249
+717,धनुषा,धनुषा-3,Independent,38,46,53.214017466129086
+718,धनुषा,धनुषा-3,Independent,35,54,60.41837895069787
+719,धनुषा,धनुषा-3,Independent,25,35,50.68247071995455
+720,धनुषा,धनुषा-3,Independent,21,41,51.68940901902028
+721,धनुषा,धनुषा-3,Independent,18,47,60.512862335518896
+722,धनुषा,धनुषा-3,Independent,16,53,53.63272570269944
+723,धनुषा,धनुषा-3,Independent,16,28,57.617798095968325
+724,धनुषा,धनुषा-3,Independent,14,47,57.69157073429968
+725,धनुषा,धनुषा-3,Independent,13,34,58.51925528193684
+726,धनुषा,धनुषा-3,Independent,11,25,50.955927577559976
+727,धनुषा,धनुषा-3,Independent,10,25,59.15795814843515
+728,धनुषा,धनुषा-3,Independent,7,25,55.40764535296782
+729,धनुषा,धनुषा-3,Independent,7,55,55.14179929613815
+730,धनुषा,धनुषा-4,Nepal Communist Party (UML),32236,61,57.1188340328296
+731,धनुषा,धनुषा-4,Nepali Congress,32112,60,53.462539377712126
+732,धनुषा,धनुषा-4,"Janata Samajwadi Party, Nepal",5212,66,62.25487980889951
+733,धनुषा,धनुषा-4,Independent,4343,27,61.843067000815886
+734,धनुषा,धनुषा-4,Rastriya Swatantra Party,1121,43,60.6035266369584
+735,धनुषा,धनुषा-4,Rastriya Prajatantra Party,837,59,55.47363459866992
+736,धनुषा,धनुषा-4,Nepal Democratic Party,204,60,59.50018022679173
+737,धनुषा,धनुषा-4,Nepal Communist Party,166,57,60.69373787493488
+738,धनुषा,धनुषा-4,Independent,148,59,51.1505972808969
+739,धनुषा,धनुषा-4,Independent,95,46,54.83583891504279
+740,धनुषा,धनुषा-4,"Janata Pragatisheel Party, Nepal",84,63,59.74633815509767
+741,धनुषा,धनुषा-4,Independent,36,26,60.235798864609485
+742,धनुषा,धनुषा-4,Independent,33,39,62.109343606966696
+743,धनुषा,धनुषा-4,Independent,31,25,55.61802478842104
+744,धनुषा,धनुषा-4,Independent,22,48,57.42682549152386
+745,धनुषा,धनुषा-4,Independent,15,52,51.3167800963995
+746,धनुषा,धनुषा-4,Independent,14,46,56.673505993476894
+747,धनुषा,धनुषा-4,Independent,12,43,53.80547060557132
+748,धनुषा,धनुषा-4,Independent,11,25,53.10874082690346
+749,धनुषा,धनुषा-4,Independent,9,36,52.30464116684519
+750,धनुषा,धनुषा-4,Independent,5,55,58.456933108921056
+751,धनुषा,धनुषा-4,Independent,5,27,51.23923136567161
+752,धनुषा,धनुषा-4,Independent,5,25,57.673847602286266
+753,धनुषा,धनुषा-4,Independent,3,46,53.08005607235586
+754,धनुषा,धनुषा-4,Independent,3,34,52.936444361327794
+755,धनुषा,धनुषा-4,Independent,2,38,52.85746570798584
+756,धनुषा,धनुषा-4,Independent,2,33,50.63772525861543
+757,धनुषा,धनुषा-4,Independent,1,29,57.79347274657249
+758,धनुषा,धनुषा-4,Independent,1,35,53.214017466129086
+759,Mahottari,Mahottari-1,Nepal Communist Party (UML),23402,58,60.41837895069787
+760,Mahottari,Mahottari-1,Nepal Communist Party (Maoist Center) (Unified Symbol),22372,65,50.68247071995455
+761,Mahottari,Mahottari-1,Independent,7812,44,51.68940901902028
+762,Mahottari,Mahottari-1,Janamat Party,3598,40,60.512862335518896
+763,Mahottari,Mahottari-1,Rastriya Swatantra Party,2064,39,53.63272570269944
+764,Mahottari,Mahottari-1,Rastriya Prajatantra Party,974,29,57.617798095968325
+765,Mahottari,Mahottari-1,Nepali Congress (BP),637,66,57.69157073429968
+766,Mahottari,Mahottari-1,Independent,275,30,58.51925528193684
+767,Mahottari,Mahottari-1,Rastriya Janamukti Party,226,51,50.955927577559976
+768,Mahottari,Mahottari-1,Rastriya Prajatantra Party Nepal,179,34,59.15795814843515
+769,Mahottari,Mahottari-1,Independent,64,53,55.40764535296782
+770,Mahottari,Mahottari-1,Independent,39,48,55.14179929613815
+771,Mahottari,Mahottari-1,Independent,38,35,57.1188340328296
+772,Mahottari,Mahottari-1,Independent,37,35,53.462539377712126
+773,Mahottari,Mahottari-1,Independent,21,60,62.25487980889951
+774,Mahottari,Mahottari-2,"Democratic Socialist Party, Nepal",25190,68,61.843067000815886
+775,Mahottari,Mahottari-2,Terai-Madhesh Democratic Party,11120,70,60.6035266369584
+776,Mahottari,Mahottari-2,Nepal Communist Party (UML),10258,63,55.47363459866992
+777,Mahottari,Mahottari-2,Janamat Party,5971,54,59.50018022679173
+778,Mahottari,Mahottari-2,Nepal Federal Socialist Party,818,43,60.69373787493488
+779,Mahottari,Mahottari-2,Rastriya Swatantra Party,360,38,51.1505972808969
+780,Mahottari,Mahottari-2,Independent,312,38,54.83583891504279
+781,Mahottari,Mahottari-2,Rastriya Prajatantra Party Nepal,242,56,59.74633815509767
+782,Mahottari,Mahottari-2,Janajagaran Party Nepal,237,46,60.235798864609485
+783,Mahottari,Mahottari-2,Independent,220,37,62.109343606966696
+784,Mahottari,Mahottari-2,Independent,116,36,55.61802478842104
+785,Mahottari,Mahottari-2,Independent,115,59,57.42682549152386
+786,Mahottari,Mahottari-2,Independent,64,39,51.3167800963995
+787,Mahottari,Mahottari-2,Independent,45,31,56.673505993476894
+788,Mahottari,Mahottari-2,Independent,35,28,53.80547060557132
+789,Mahottari,Mahottari-2,Independent,35,36,53.10874082690346
+790,Mahottari,Mahottari-2,Independent,28,54,52.30464116684519
+791,Mahottari,Mahottari-3,"Democratic Socialist Party, Nepal",16375,80,58.456933108921056
+792,Mahottari,Mahottari-3,"Janata Samajwadi Party, Nepal",14325,60,51.23923136567161
+793,Mahottari,Mahottari-3,Independent,12733,52,57.673847602286266
+794,Mahottari,Mahottari-3,Nepal Federal Socialist Party,4949,68,53.08005607235586
+795,Mahottari,Mahottari-3,Janamat Party,4252,35,52.936444361327794
+796,Mahottari,Mahottari-3,Terai-Madhesh Democratic Party,1083,67,52.85746570798584
+797,Mahottari,Mahottari-3,Nationalist People's Party,342,49,50.63772525861543
+798,Mahottari,Mahottari-3,Rastriya Janamukti Party,342,48,57.79347274657249
+799,Mahottari,Mahottari-3,Independent,212,59,53.214017466129086
+800,Mahottari,Mahottari-3,Independent,111,39,60.41837895069787
+801,Mahottari,Mahottari-3,Nepal Sadbhavana Party,107,35,50.68247071995455
+802,Mahottari,Mahottari-3,Rastriya Prajatantra Party Nepal,99,42,51.68940901902028
+803,Mahottari,Mahottari-3,Unified Shakti Nepal,96,42,60.512862335518896
+804,Mahottari,Mahottari-3,Independent,74,58,53.63272570269944
+805,Mahottari,Mahottari-3,Independent,65,29,57.617798095968325
+806,Mahottari,Mahottari-3,Independent,63,49,57.69157073429968
+807,Mahottari,Mahottari-3,Independent,54,30,58.51925528193684
+808,Mahottari,Mahottari-3,Independent,42,55,50.955927577559976
+809,Mahottari,Mahottari-3,Independent,37,39,59.15795814843515
+810,Mahottari,Mahottari-3,Independent,24,45,55.40764535296782
+811,Mahottari,Mahottari-3,Independent,18,51,55.14179929613815
+812,Mahottari,Mahottari-4,Nepali Congress,25448,63,57.1188340328296
+813,Mahottari,Mahottari-4,"Janata Samajwadi Party, Nepal",21331,51,53.462539377712126
+814,Mahottari,Mahottari-4,Janamat Party,10059,47,62.25487980889951
+815,Mahottari,Mahottari-4,"Janata Pragatisheel Party, Nepal",498,65,61.843067000815886
+816,Mahottari,Mahottari-4,Hamro Nepali Party,450,56,60.6035266369584
+817,Mahottari,Mahottari-4,Nepal for Nepali Party,251,43,55.47363459866992
+818,Mahottari,Mahottari-4,Independent,240,69,59.50018022679173
+819,Mahottari,Mahottari-4,Bahujan Ekata Party Nepal,231,26,60.69373787493488
+820,Mahottari,Mahottari-4,Independent,138,38,51.1505972808969
+821,Mahottari,Mahottari-4,Rastriya Janamukti Party,77,45,54.83583891504279
+822,Mahottari,Mahottari-4,Independent,38,59,59.74633815509767
+823,Mahottari,Mahottari-4,Independent,32,52,60.235798864609485
+824,Mahottari,Mahottari-4,Independent,31,45,62.109343606966696
+825,Mahottari,Mahottari-4,Independent,9,39,55.61802478842104
+826,Sarlahi,Sarlahi-1,"Democratic Socialist Party, Nepal",24838,58,57.42682549152386
+827,Sarlahi,Sarlahi-1,Independent,18404,51,51.3167800963995
+828,Sarlahi,Sarlahi-1,"Janata Samajwadi Party, Nepal",14255,43,56.673505993476894
+829,Sarlahi,Sarlahi-1,Janamat Party,4096,36,53.80547060557132
+830,Sarlahi,Sarlahi-1,Rastriya Swatantra Party,3253,30,53.10874082690346
+831,Sarlahi,Sarlahi-1,Rastriya Prajatantra Party,2229,56,52.30464116684519
+832,Sarlahi,Sarlahi-1,Independent,1722,52,58.456933108921056
+833,Sarlahi,Sarlahi-1,Independent,728,48,51.23923136567161
+834,Sarlahi,Sarlahi-1,Independent,446,42,57.673847602286266
+835,Sarlahi,Sarlahi-1,Janasamajwadi Party Nepal,314,44,53.08005607235586
+836,Sarlahi,Sarlahi-1,Independent,273,35,52.936444361327794
+837,Sarlahi,Sarlahi-1,Independent,191,49,52.85746570798584
+838,Sarlahi,Sarlahi-1,Independent,189,42,50.63772525861543
+839,Sarlahi,Sarlahi-1,Independent,146,41,57.79347274657249
+840,Sarlahi,Sarlahi-1,Nepal Workers and Peasants Party,115,51,53.214017466129086
+841,Sarlahi,Sarlahi-1,Independent,70,42,60.41837895069787
+842,Sarlahi,Sarlahi-1,Independent,38,65,50.68247071995455
+843,Sarlahi,Sarlahi-1,Independent,35,60,51.68940901902028
+844,Sarlahi,Sarlahi-1,Independent,32,27,60.512862335518896
+845,Sarlahi,Sarlahi-2,Nepal Communist Party (Maoist Center) (Unified Symbol),23529,85,53.63272570269944
+846,Sarlahi,Sarlahi-2,"Democratic Socialist Party, Nepal",21518,63,57.617798095968325
+847,Sarlahi,Sarlahi-2,Nepal Communist Party (UML),14819,58,57.69157073429968
+848,Sarlahi,Sarlahi-2,Janamat Party,6554,42,58.51925528193684
+849,Sarlahi,Sarlahi-2,Nepal Federal Socialist Party,1064,62,50.955927577559976
+850,Sarlahi,Sarlahi-2,Hamro Nepali Party,906,58,59.15795814843515
+851,Sarlahi,Sarlahi-2,Rastriya Prajatantra Party,676,35,55.40764535296782
+852,Sarlahi,Sarlahi-2,Rastriya Swatantra Party,569,31,55.14179929613815
+853,Sarlahi,Sarlahi-2,Bahujan Ekata Party Nepal,412,51,57.1188340328296
+854,Sarlahi,Sarlahi-2,Independent,113,28,53.462539377712126
+855,Sarlahi,Sarlahi-2,Independent,78,54,62.25487980889951
+856,Sarlahi,Sarlahi-2,Independent,56,42,61.843067000815886
+857,Sarlahi,Sarlahi-2,Independent,45,33,60.6035266369584
+858,Sarlahi,Sarlahi-2,Independent,44,51,55.47363459866992
+859,Sarlahi,Sarlahi-2,Independent,34,31,59.50018022679173
+860,Sarlahi,Sarlahi-2,Independent,32,51,60.69373787493488
+861,Sarlahi,Sarlahi-2,Independent,20,27,51.1505972808969
+862,Sarlahi,Sarlahi-3,Nepal Communist Party (UML),32938,55,54.83583891504279
+863,Sarlahi,Sarlahi-3,Nepal Communist Party (Maoist Center) (Unified Symbol),32168,50,59.74633815509767
+864,Sarlahi,Sarlahi-3,Janamat Party,5519,49,60.235798864609485
+865,Sarlahi,Sarlahi-3,Rastriya Swatantra Party,3566,40,62.109343606966696
+866,Sarlahi,Sarlahi-3,Bahujan Ekata Party Nepal,1115,43,55.61802478842104
+867,Sarlahi,Sarlahi-3,Hamro Nepali Party,578,44,57.42682549152386
+868,Sarlahi,Sarlahi-3,Mongol National Organization,486,53,51.3167800963995
+869,Sarlahi,Sarlahi-3,Independent,454,25,56.673505993476894
+870,Sarlahi,Sarlahi-3,Independent,138,51,53.80547060557132
+871,Sarlahi,Sarlahi-3,Independent,118,42,53.10874082690346
+872,Sarlahi,Sarlahi-3,Independent,52,33,52.30464116684519
+873,Sarlahi,Sarlahi-3,Independent,49,48,58.456933108921056
+874,Sarlahi,Sarlahi-3,Independent,18,26,51.23923136567161
+875,Sarlahi,Sarlahi-4,Independent,20017,52,57.673847602286266
+876,Sarlahi,Sarlahi-4,Nepali Congress,18253,69,53.08005607235586
+877,Sarlahi,Sarlahi-4,Independent,14622,26,52.936444361327794
+878,Sarlahi,Sarlahi-4,"Janata Samajwadi Party, Nepal",5813,48,52.85746570798584
+879,Sarlahi,Sarlahi-4,Bahujan Ekata Party Nepal,5158,47,50.63772525861543
+880,Sarlahi,Sarlahi-4,Janamat Party,3429,66,57.79347274657249
+881,Sarlahi,Sarlahi-4,Rastriya Prajatantra Party,537,42,53.214017466129086
+882,Sarlahi,Sarlahi-4,Nepal Janata Party,318,60,60.41837895069787
+883,Sarlahi,Sarlahi-4,Rastriya Swatantra Party,306,29,50.68247071995455
+884,Sarlahi,Sarlahi-4,"Janata Pragatisheel Party, Nepal",238,54,51.68940901902028
+885,Sarlahi,Sarlahi-4,Hamro Nepali Party,147,28,60.512862335518896
+886,Sarlahi,Sarlahi-4,Independent,145,39,53.63272570269944
+887,Sarlahi,Sarlahi-4,Nepal Federal Socialist Party,94,57,57.617798095968325
+888,Sarlahi,Sarlahi-4,Independent,58,37,57.69157073429968
+889,Sarlahi,Sarlahi-4,Independent,54,44,58.51925528193684
+890,Sarlahi,Sarlahi-4,Independent,49,39,50.955927577559976
+891,Sarlahi,Sarlahi-4,Gandhiwadi Party Nepal,16,27,59.15795814843515
+892,Sarlahi,Sarlahi-4,Independent,13,40,55.40764535296782
+893,Sarlahi,Sarlahi-4,Independent,10,66,55.14179929613815
+894,Sarlahi,Sarlahi-4,Independent,6,29,57.1188340328296
+895,रसुवा,रसुवा-1,Nepali Congress,18235,45,53.462539377712126
+896,रसुवा,रसुवा-1,Nepal Communist Party (UML),8614,62,62.25487980889951
+897,रसुवा,रसुवा-1,Mongol National Organization,210,34,61.843067000815886
+898,रसुवा,रसुवा-1,Rastriya Swatantra Party,165,57,60.6035266369584
+899,रसुवा,रसुवा-1,Rastriya Prajatantra Party,75,37,55.47363459866992
+900,रसुवा,रसुवा-1,Independent,71,53,59.50018022679173
+901,रसुवा,रसुवा-1,Independent,28,41,60.69373787493488
+902,रसुवा,रसुवा-1,Janasamajwadi Party Nepal,13,26,51.1505972808969
+903,रसुवा,रसुवा-1,Nepal Workers and Peasants Party,9,46,54.83583891504279
+904,रसुवा,रसुवा-1,Independent,7,37,59.74633815509767
+905,Dhading,Dhading-1,Nepal Communist Party (Unified Socialist),36018,66,60.235798864609485
+906,Dhading,Dhading-1,Nepal Communist Party (UML),27997,57,62.109343606966696
+907,Dhading,Dhading-1,Rastriya Swatantra Party,12494,25,55.61802478842104
+908,Dhading,Dhading-1,Mongol National Organization,882,29,57.42682549152386
+909,Dhading,Dhading-1,"Janata Samajwadi Party, Nepal",129,45,51.3167800963995
+910,Dhading,Dhading-1,Independent,117,62,56.673505993476894
+911,Dhading,Dhading-1,Nepal Workers and Peasants Party,108,62,53.80547060557132
+912,Dhading,Dhading-1,Janasamajwadi Party Nepal,94,32,53.10874082690346
+913,Dhading,Dhading-1,Independent,53,33,52.30464116684519
+914,Dhading,Dhading-1,Independent,12,32,58.456933108921056
+915,Dhading,Dhading-1,Independent,9,32,51.23923136567161
+916,Dhading,Dhading-1,Independent,9,43,57.673847602286266
+917,Dhading,Dhading-1,Independent,8,37,53.08005607235586
+918,Dhading,Dhading-1,Independent,5,31,52.936444361327794
+919,Dhading,Dhading-2,Nepali Congress,34736,61,52.85746570798584
+920,Dhading,Dhading-2,Nepal Communist Party (UML),24190,63,50.63772525861543
+921,Dhading,Dhading-2,Rastriya Swatantra Party,5569,51,57.79347274657249
+922,Dhading,Dhading-2,Mongol National Organization,1111,30,53.214017466129086
+923,Dhading,Dhading-2,"Janata Samajwadi Party, Nepal",248,41,60.41837895069787
+924,Dhading,Dhading-2,Nepali Congress (BP),214,60,50.68247071995455
+925,Dhading,Dhading-2,Independent,92,49,51.68940901902028
+926,Dhading,Dhading-2,Independent,69,48,60.512862335518896
+927,Dhading,Dhading-2,Independent,52,34,53.63272570269944
+928,Dhading,Dhading-2,Independent,30,49,57.617798095968325
+929,Dhading,Dhading-2,Independent,20,46,57.69157073429968
+930,Dhading,Dhading-2,Independent,16,35,58.51925528193684
+931,Dhading,Dhading-2,Independent,14,38,50.955927577559976
+932,Dhading,Dhading-2,Independent,8,61,59.15795814843515
+933,नुवाकोट,नुवाकोट-1,Nepal Communist Party (Maoist Center) (Unified Symbol),26548,59,55.40764535296782
+934,नुवाकोट,नुवाकोट-1,Nepal Communist Party (UML),23465,46,55.14179929613815
+935,नुवाकोट,नुवाकोट-1,Rastriya Swatantra Party,6113,41,57.1188340328296
+936,नुवाकोट,नुवाकोट-1,Rastriya Prajatantra Party,1611,50,53.462539377712126
+937,नुवाकोट,नुवाकोट-1,Nepal Communist Party (Marxist-Leninist),970,37,62.25487980889951
+938,नुवाकोट,नुवाकोट-1,Mongol National Organization,246,28,61.843067000815886
+939,नुवाकोट,नुवाकोट-1,Independent,188,43,60.6035266369584
+940,नुवाकोट,नुवाकोट-1,Hamro Nepali Party,184,28,55.47363459866992
+941,नुवाकोट,नुवाकोट-1,"Janata Samajwadi Party, Nepal",149,48,59.50018022679173
+942,नुवाकोट,नुवाकोट-1,Independent,132,28,60.69373787493488
+943,नुवाकोट,नुवाकोट-1,Nepal Workers and Peasants Party,116,35,51.1505972808969
+944,नुवाकोट,नुवाकोट-1,Janasamajwadi Party Nepal,78,37,54.83583891504279
+945,नुवाकोट,नुवाकोट-1,Federal Democratic National Front,71,26,59.74633815509767
+946,नुवाकोट,नुवाकोट-1,Rastriya Prajatantra Party Nepal,52,45,60.235798864609485
+947,नुवाकोट,नुवाकोट-1,"Democratic Socialist Party, Nepal",47,29,62.109343606966696
+948,नुवाकोट,नुवाकोट-1,Nepali Congress (BP),45,55,55.61802478842104
+949,नुवाकोट,नुवाकोट-1,Independent,6,39,57.42682549152386
+950,नुवाकोट,नुवाकोट-2,Nepali Congress,28107,75,51.3167800963995
+951,नुवाकोट,नुवाकोट-2,Rastriya Swatantra Party,16477,57,56.673505993476894
+952,नुवाकोट,नुवाकोट-2,Nepal Communist Party (UML),15561,65,53.80547060557132
+953,नुवाकोट,नुवाकोट-2,Rastriya Prajatantra Party,1571,54,53.10874082690346
+954,नुवाकोट,नुवाकोट-2,Mongol National Organization,713,29,52.30464116684519
+955,नुवाकोट,नुवाकोट-2,Independent,187,30,58.456933108921056
+956,नुवाकोट,नुवाकोट-2,Independent,108,26,51.23923136567161
+957,नुवाकोट,नुवाकोट-2,"Democratic Socialist Party, Nepal",98,35,57.673847602286266
+958,नुवाकोट,नुवाकोट-2,Independent,89,40,53.08005607235586
+959,नुवाकोट,नुवाकोट-2,Janasamajwadi Party Nepal,53,32,52.936444361327794
+960,नुवाकोट,नुवाकोट-2,Nepal Workers and Peasants Party,40,61,52.85746570798584
+961,काठमाडौं,काठमाडौं-1,Nepali Congress,7143,66,50.63772525861543
+962,काठमाडौं,काठमाडौं-1,Rastriya Prajatantra Party,7018,57,57.79347274657249
+963,काठमाडौं,काठमाडौं-1,Rastriya Swatantra Party,4115,35,53.214017466129086
+964,काठमाडौं,काठमाडौं-1,Nepal Communist Party (UML),3532,41,60.41837895069787
+965,काठमाडौं,काठमाडौं-1,Nepal Sushasan Party (Unified Symbol),3124,58,50.68247071995455
+966,काठमाडौं,काठमाडौं-1,Nepal for Nepali Party,590,65,51.68940901902028
+967,काठमाडौं,काठमाडौं-1,Hamro Nepali Party,150,39,60.512862335518896
+968,काठमाडौं,काठमाडौं-1,Nepal Communist Party (Marxist-Leninist),92,63,53.63272570269944
+969,काठमाडौं,काठमाडौं-1,Nepali Congress (BP),76,39,57.617798095968325
+970,काठमाडौं,काठमाडौं-1,Nepal Workers and Peasants Party,50,62,57.69157073429968
+971,काठमाडौं,काठमाडौं-1,Independent,36,33,58.51925528193684
+972,काठमाडौं,काठमाडौं-1,Bibeksheel Sajha Party,30,40,50.955927577559976
+973,काठमाडौं,काठमाडौं-1,Maulik Jarokilo Party,23,37,59.15795814843515
+974,काठमाडौं,काठमाडौं-1,"Democratic Socialist Party, Nepal",22,44,55.40764535296782
+975,काठमाडौं,काठमाडौं-1,Janamat Party,22,35,55.14179929613815
+976,काठमाडौं,काठमाडौं-1,Independent,20,50,57.1188340328296
+977,काठमाडौं,काठमाडौं-1,Nepalism,19,64,53.462539377712126
+978,काठमाडौं,काठमाडौं-1,Nationalist People's Party,18,64,62.25487980889951
+979,काठमाडौं,काठमाडौं-1,Rastriya Prajatantra Party Nepal,17,63,61.843067000815886
+980,काठमाडौं,काठमाडौं-1,Rastriya Janamukti Party,16,50,60.6035266369584
+981,काठमाडौं,काठमाडौं-1,Independent,12,51,55.47363459866992
+982,काठमाडौं,काठमाडौं-1,Janasamajwadi Party Nepal,8,49,59.50018022679173
+983,काठमाडौं,काठमाडौं-1,Amul Parivartan Masiha Party Nepal,7,51,60.69373787493488
+984,काठमाडौं,काठमाडौं-1,Federal Democratic National Front,6,43,51.1505972808969
+985,काठमाडौं,काठमाडौं-1,Independent,5,39,54.83583891504279
+986,काठमाडौं,काठमाडौं-1,Independent,3,30,59.74633815509767
+987,काठमाडौं,काठमाडौं-1,Independent,3,39,60.235798864609485
+988,काठमाडौं,काठमाडौं-1,Independent,3,45,62.109343606966696
+989,काठमाडौं,काठमाडौं-1,Independent,2,49,55.61802478842104
+990,काठमाडौं,काठमाडौं-1,Independent,2,49,57.42682549152386
+991,काठमाडौं,काठमाडौं-1,Independent,1,29,51.3167800963995
+992,काठमाडौं,काठमाडौं-1,Independent,1,42,56.673505993476894
+993,काठमाडौं,काठमाडौं-2,Rastriya Swatantra Party,15238,27,53.80547060557132
+994,काठमाडौं,काठमाडौं-2,Nepal Communist Party (UML),11566,56,53.10874082690346
+995,काठमाडौं,काठमाडौं-2,Rastriya Prajatantra Party,11024,35,52.30464116684519
+996,काठमाडौं,काठमाडौं-2,Nepal Communist Party (Maoist Center) (Unified Symbol),9459,44,58.456933108921056
+997,काठमाडौं,काठमाडौं-2,Sachet Nepali Party (Unified Symbol),949,51,51.23923136567161
+998,काठमाडौं,काठमाडौं-2,Hamro Nepali Party,633,42,57.673847602286266
+999,काठमाडौं,काठमाडौं-2,Independent,242,30,53.08005607235586
+1000,काठमाडौं,काठमाडौं-2,Nepal Workers and Peasants Party,236,41,52.936444361327794
+1001,काठमाडौं,काठमाडौं-2,Independent,218,58,52.85746570798584
+1002,काठमाडौं,काठमाडौं-2,Bibeksheel Sajha Party,202,40,50.63772525861543
+1003,काठमाडौं,काठमाडौं-2,Janamat Party,164,57,57.79347274657249
+1004,काठमाडौं,काठमाडौं-2,Independent,119,37,53.214017466129086
+1005,काठमाडौं,काठमाडौं-2,Independent,94,31,60.41837895069787
+1006,काठमाडौं,काठमाडौं-2,"Janata Samajwadi Party, Nepal",82,58,50.68247071995455
+1007,काठमाडौं,काठमाडौं-2,Nepal for Nepali Party,73,46,51.68940901902028
+1008,काठमाडौं,काठमाडौं-2,Punarjagaran Party Nepal,68,36,60.512862335518896
+1009,काठमाडौं,काठमाडौं-2,Maulik Jarokilo Party,66,50,53.63272570269944
+1010,काठमाडौं,काठमाडौं-2,Independent,51,28,57.617798095968325
+1011,काठमाडौं,काठमाडौं-2,Nepali Congress (BP),48,44,57.69157073429968
+1012,काठमाडौं,काठमाडौं-2,Nepalism,44,28,58.51925528193684
+1013,काठमाडौं,काठमाडौं-2,"Democratic Socialist Party, Nepal",43,46,50.955927577559976
+1014,काठमाडौं,काठमाडौं-2,Rastriya Prajatantra Party Nepal,41,35,59.15795814843515
+1015,काठमाडौं,काठमाडौं-2,Mongol National Organization,30,55,55.40764535296782
+1016,काठमाडौं,काठमाडौं-2,Rastriya Janamukti Party,29,62,55.14179929613815
+1017,काठमाडौं,काठमाडौं-2,Independent,28,40,57.1188340328296
+1018,काठमाडौं,काठमाडौं-2,Independent,25,36,53.462539377712126
+1019,काठमाडौं,काठमाडौं-2,Independent,17,36,62.25487980889951
+1020,काठमाडौं,काठमाडौं-2,Independent,12,52,61.843067000815886
+1021,काठमाडौं,काठमाडौं-2,Gandhiwadi Party Nepal,10,61,60.6035266369584
+1022,काठमाडौं,काठमाडौं-2,Independent,6,40,55.47363459866992
+1023,काठमाडौं,काठमाडौं-3,Nepali Congress,15158,64,59.50018022679173
+1024,काठमाडौं,काठमाडौं-3,Nepal Communist Party (UML),11196,53,60.69373787493488
+1025,काठमाडौं,काठमाडौं-3,Rastriya Swatantra Party,5865,54,51.1505972808969
+1026,काठमाडौं,काठमाडौं-3,Rastriya Prajatantra Party,2511,48,54.83583891504279
+1027,काठमाडौं,काठमाडौं-3,Independent,605,43,59.74633815509767
+1028,काठमाडौं,काठमाडौं-3,Hamro Nepali Party,547,36,60.235798864609485
+1029,काठमाडौं,काठमाडौं-3,Nepal Communist Party (Maoist Center) (Unified Symbol),518,48,62.109343606966696
+1030,काठमाडौं,काठमाडौं-3,Independent,261,45,55.61802478842104
+1031,काठमाडौं,काठमाडौं-3,Independent,148,52,57.42682549152386
+1032,काठमाडौं,काठमाडौं-3,Independent,97,53,51.3167800963995
+1033,काठमाडौं,काठमाडौं-3,Nepal Workers and Peasants Party,87,37,56.673505993476894
+1034,काठमाडौं,काठमाडौं-3,Mongol National Organization,67,63,53.80547060557132
+1035,काठमाडौं,काठमाडौं-3,Amul Parivartan Masiha Party Nepal,51,38,53.10874082690346
+1036,काठमाडौं,काठमाडौं-3,"Janata Samajwadi Party, Nepal",44,47,52.30464116684519
+1037,काठमाडौं,काठमाडौं-3,Independent,36,55,58.456933108921056
+1038,काठमाडौं,काठमाडौं-3,Janamat Party,34,58,51.23923136567161
+1039,काठमाडौं,काठमाडौं-3,Maulik Jarokilo Party,30,34,57.673847602286266
+1040,काठमाडौं,काठमाडौं-3,Independent,17,66,53.08005607235586
+1041,काठमाडौं,काठमाडौं-3,Federal Democratic National Front,11,44,52.936444361327794
+1042,काठमाडौं,काठमाडौं-3,Social Democratic Party,11,35,52.85746570798584
+1043,काठमाडौं,काठमाडौं-3,"Democratic Socialist Party, Nepal",9,60,50.63772525861543
+1044,काठमाडौं,काठमाडौं-3,Independent,8,32,57.79347274657249
+1045,काठमाडौं,काठमाडौं-3,Independent,8,55,53.214017466129086
+1046,काठमाडौं,काठमाडौं-4,Nepali Congress,21302,46,60.41837895069787
+1047,काठमाडौं,काठमाडौं-4,Nepal Communist Party (UML),13855,54,50.68247071995455
+1048,काठमाडौं,काठमाडौं-4,Rastriya Prajatantra Party,4050,58,51.68940901902028
+1049,काठमाडौं,काठमाडौं-4,Independent,2308,58,60.512862335518896
+1050,काठमाडौं,काठमाडौं-4,Hamro Nepali Party,1214,39,53.63272570269944
+1051,काठमाडौं,काठमाडौं-4,Independent,231,52,57.617798095968325
+1052,काठमाडौं,काठमाडौं-4,Nepal Workers and Peasants Party,151,36,57.69157073429968
+1053,काठमाडौं,काठमाडौं-4,Independent,151,51,58.51925528193684
+1054,काठमाडौं,काठमाडौं-4,Independent,116,35,50.955927577559976
+1055,काठमाडौं,काठमाडौं-4,Nepal for Nepali Party,115,45,59.15795814843515
+1056,काठमाडौं,काठमाडौं-4,Punarjagaran Party Nepal,73,32,55.40764535296782
+1057,काठमाडौं,काठमाडौं-4,Independent,73,49,55.14179929613815
+1058,काठमाडौं,काठमाडौं-4,Independent,56,59,57.1188340328296
+1059,काठमाडौं,काठमाडौं-4,Nepal Communist Party (Marxist-Leninist),41,51,53.462539377712126
+1060,काठमाडौं,काठमाडौं-4,Unified Shakti Nepal,40,42,62.25487980889951
+1061,काठमाडौं,काठमाडौं-4,Maulik Jarokilo Party,36,46,61.843067000815886
+1062,काठमाडौं,काठमाडौं-4,Amul Parivartan Masiha Party Nepal,30,50,60.6035266369584
+1063,काठमाडौं,काठमाडौं-4,Rastriya Janamukti Party,28,47,55.47363459866992
+1064,काठमाडौं,काठमाडौं-4,Mongol National Organization,26,36,59.50018022679173
+1065,काठमाडौं,काठमाडौं-4,Miteri Party Nepal,22,52,60.69373787493488
+1066,काठमाडौं,काठमाडौं-4,Janasamajwadi Party Nepal,22,43,51.1505972808969
+1067,काठमाडौं,काठमाडौं-4,Federal Democratic National Front,21,38,54.83583891504279
+1068,काठमाडौं,काठमाडौं-4,Independent,18,63,59.74633815509767
+1069,काठमाडौं,काठमाडौं-4,Independent,14,32,60.235798864609485
+1070,काठमाडौं,काठमाडौं-4,Independent,14,59,62.109343606966696
+1071,काठमाडौं,काठमाडौं-4,"Democratic Socialist Party, Nepal",13,56,55.61802478842104
+1072,काठमाडौं,काठमाडौं-4,Independent,7,45,57.42682549152386
+1073,काठमाडौं,काठमाडौं-4,Independent,6,25,51.3167800963995
+1074,काठमाडौं,काठमाडौं-4,Independent,3,32,56.673505993476894
+1075,काठमाडौं,काठमाडौं-4,Independent,2,45,53.80547060557132
+1076,काठमाडौं,काठमाडौं-4,Independent,1,33,53.10874082690346
+1077,काठमाडौं,काठमाडौं-5,Nepali Congress,15269,47,52.30464116684519
+1078,काठमाडौं,काठमाडौं-5,Nepal Communist Party (UML),10190,68,58.456933108921056
+1079,काठमाडौं,काठमाडौं-5,Rastriya Swatantra Party,5477,38,51.23923136567161
+1080,काठमाडौं,काठमाडौं-5,Rastriya Prajatantra Party,3162,64,57.673847602286266
+1081,काठमाडौं,काठमाडौं-5,Independent,2761,39,53.08005607235586
+1082,काठमाडौं,काठमाडौं-5,Independent,2446,30,52.936444361327794
+1083,काठमाडौं,काठमाडौं-5,Independent,1712,33,52.85746570798584
+1084,काठमाडौं,काठमाडौं-5,Nepal Workers and Peasants Party,1122,40,50.63772525861543
+1085,काठमाडौं,काठमाडौं-5,Independent,600,27,57.79347274657249
+1086,काठमाडौं,काठमाडौं-5,Hamro Nepali Party,364,34,53.214017466129086
+1087,काठमाडौं,काठमाडौं-5,Independent,216,44,60.41837895069787
+1088,काठमाडौं,काठमाडौं-5,Independent,167,38,50.68247071995455
+1089,काठमाडौं,काठमाडौं-5,"Janata Samajwadi Party, Nepal",131,46,51.68940901902028
+1090,काठमाडौं,काठमाडौं-5,Nepal for Nepali Party,110,37,60.512862335518896
+1091,काठमाडौं,काठमाडौं-5,Independent,93,57,53.63272570269944
+1092,काठमाडौं,काठमाडौं-5,Nepal Communist Party Marxist (Pushpalal),85,57,57.617798095968325
+1093,काठमाडौं,काठमाडौं-5,Independent,82,40,57.69157073429968
+1094,काठमाडौं,काठमाडौं-5,Nepalism,68,55,58.51925528193684
+1095,काठमाडौं,काठमाडौं-5,Janasamajwadi Party Nepal,48,54,50.955927577559976
+1096,काठमाडौं,काठमाडौं-5,Unified Shakti Nepal,39,46,59.15795814843515
+1097,काठमाडौं,काठमाडौं-5,Maulik Jarokilo Party,38,52,55.40764535296782
+1098,काठमाडौं,काठमाडौं-5,"Democratic Socialist Party, Nepal",37,46,55.14179929613815
+1099,काठमाडौं,काठमाडौं-5,Nationalist People's Party,29,38,57.1188340328296
+1100,काठमाडौं,काठमाडौं-5,Independent,25,31,53.462539377712126
+1101,काठमाडौं,काठमाडौं-5,Independent,20,61,62.25487980889951
+1102,काठमाडौं,काठमाडौं-5,Independent,12,45,61.843067000815886
+1103,काठमाडौं,काठमाडौं-5,Independent,5,53,60.6035266369584
+1104,काठमाडौं,काठमाडौं-5,Independent,4,46,55.47363459866992
+1105,काठमाडौं,काठमाडौं-5,Independent,4,60,59.50018022679173
+1106,काठमाडौं,काठमाडौं-6,Rastriya Swatantra Party,14221,43,60.69373787493488
+1107,काठमाडौं,काठमाडौं-6,Nepal Communist Party (UML),8917,56,51.1505972808969
+1108,काठमाडौं,काठमाडौं-6,Nepali Congress,8812,69,54.83583891504279
+1109,काठमाडौं,काठमाडौं-6,Rastriya Prajatantra Party,2185,72,59.74633815509767
+1110,काठमाडौं,काठमाडौं-6,Independent,577,54,60.235798864609485
+1111,काठमाडौं,काठमाडौं-6,Nepal Workers and Peasants Party,576,56,62.109343606966696
+1112,काठमाडौं,काठमाडौं-6,Hamro Nepali Party,544,30,55.61802478842104
+1113,काठमाडौं,काठमाडौं-6,Independent,517,57,57.42682549152386
+1114,काठमाडौं,काठमाडौं-6,"Janata Samajwadi Party, Nepal",184,41,51.3167800963995
+1115,काठमाडौं,काठमाडौं-6,Rastriya Prajatantra Party Nepal,149,33,56.673505993476894
+1116,काठमाडौं,काठमाडौं-6,Independent,127,32,53.80547060557132
+1117,काठमाडौं,काठमाडौं-6,Independent,123,28,53.10874082690346
+1118,काठमाडौं,काठमाडौं-6,Independent,111,64,52.30464116684519
+1119,काठमाडौं,काठमाडौं-6,Nepal Ama Party (Unified Symbol),67,44,58.456933108921056
+1120,काठमाडौं,काठमाडौं-6,Bibeksheel Sajha Party,63,58,51.23923136567161
+1121,काठमाडौं,काठमाडौं-6,Independent,50,52,57.673847602286266
+1122,काठमाडौं,काठमाडौं-6,Rastriya Janamukti Party,41,49,53.08005607235586
+1123,काठमाडौं,काठमाडौं-6,Maulik Jarokilo Party,35,35,52.936444361327794
+1124,काठमाडौं,काठमाडौं-6,Independent,33,85,52.85746570798584
+1125,काठमाडौं,काठमाडौं-6,Unified Shakti Nepal,31,32,50.63772525861543
+1126,काठमाडौं,काठमाडौं-6,Independent,18,47,57.79347274657249
+1127,काठमाडौं,काठमाडौं-6,Independent,15,50,53.214017466129086
+1128,काठमाडौं,काठमाडौं-6,Independent,12,44,60.41837895069787
+1129,काठमाडौं,काठमाडौं-6,Independent,3,63,50.68247071995455
+1130,काठमाडौं,काठमाडौं-7,Rastriya Swatantra Party,8743,43,51.68940901902028
+1131,काठमाडौं,काठमाडौं-7,Nepal Communist Party (UML),6800,68,60.512862335518896
+1132,काठमाडौं,काठमाडौं-7,Nepal Communist Party (Maoist Center) (Unified Symbol),6063,36,53.63272570269944
+1133,काठमाडौं,काठमाडौं-7,Rastriya Prajatantra Party,2863,54,57.617798095968325
+1134,काठमाडौं,काठमाडौं-7,Independent,2782,42,57.69157073429968
+1135,काठमाडौं,काठमाडौं-7,"Janata Samajwadi Party, Nepal",2461,62,58.51925528193684
+1136,काठमाडौं,काठमाडौं-7,Independent,1570,28,50.955927577559976
+1137,काठमाडौं,काठमाडौं-7,Hamro Nepali Party,1510,34,59.15795814843515
+1138,काठमाडौं,काठमाडौं-7,Independent,1215,59,55.40764535296782
+1139,काठमाडौं,काठमाडौं-7,Independent,828,42,55.14179929613815
+1140,काठमाडौं,काठमाडौं-7,Nepal Workers and Peasants Party,248,47,57.1188340328296
+1141,काठमाडौं,काठमाडौं-7,Rastriya Janamukti Party,211,48,53.462539377712126
+1142,काठमाडौं,काठमाडौं-7,Nepal for Nepali Party,115,35,62.25487980889951
+1143,काठमाडौं,काठमाडौं-7,Independent,107,32,61.843067000815886
+1144,काठमाडौं,काठमाडौं-7,Independent,102,44,60.6035266369584
+1145,काठमाडौं,काठमाडौं-7,Rastriya Prajatantra Party Nepal,92,50,55.47363459866992
+1146,काठमाडौं,काठमाडौं-7,Nepal Ama Party (Unified Symbol),77,52,59.50018022679173
+1147,काठमाडौं,काठमाडौं-7,Independent,75,48,60.69373787493488
+1148,काठमाडौं,काठमाडौं-7,Independent,38,59,51.1505972808969
+1149,काठमाडौं,काठमाडौं-7,Independent,33,33,54.83583891504279
+1150,काठमाडौं,काठमाडौं-7,Nepali Congress (BP),31,52,59.74633815509767
+1151,काठमाडौं,काठमाडौं-7,Janasamajwadi Party Nepal,28,56,60.235798864609485
+1152,काठमाडौं,काठमाडौं-7,Independent,28,49,62.109343606966696
+1153,काठमाडौं,काठमाडौं-7,Independent,13,59,55.61802478842104
+1154,काठमाडौं,काठमाडौं-7,Independent,8,30,57.42682549152386
+1155,काठमाडौं,काठमाडौं-7,Independent,7,51,51.3167800963995
+1156,काठमाडौं,काठमाडौं-7,Independent,6,50,56.673505993476894
+1157,काठमाडौं,काठमाडौं-7,Independent,4,34,53.80547060557132
+1158,काठमाडौं,काठमाडौं-7,Independent,3,54,53.10874082690346
+1159,काठमाडौं,काठमाडौं-8,Rastriya Swatantra Party,10112,41,52.30464116684519
+1160,काठमाडौं,काठमाडौं-8,Hamro Nepali Party,6179,49,58.456933108921056
+1161,काठमाडौं,काठमाडौं-8,Nepal Communist Party (Unified Socialist),4881,56,51.23923136567161
+1162,काठमाडौं,काठमाडौं-8,Rastriya Prajatantra Party,4388,50,57.673847602286266
+1163,काठमाडौं,काठमाडौं-8,Nepal Communist Party (UML),3891,65,53.08005607235586
+1164,काठमाडौं,काठमाडौं-8,"Janata Samajwadi Party, Nepal",392,51,52.936444361327794
+1165,काठमाडौं,काठमाडौं-8,Nepal Workers and Peasants Party,221,47,52.85746570798584
+1166,काठमाडौं,काठमाडौं-8,Rastriya Prajatantra Party Nepal,101,46,50.63772525861543
+1167,काठमाडौं,काठमाडौं-8,Independent,100,63,57.79347274657249
+1168,काठमाडौं,काठमाडौं-8,Janamat Party,90,53,53.214017466129086
+1169,काठमाडौं,काठमाडौं-8,Sachet Nepali Party (Unified Symbol),80,37,60.41837895069787
+1170,काठमाडौं,काठमाडौं-8,Amul Parivartan Masiha Party Nepal,45,40,50.68247071995455
+1171,काठमाडौं,काठमाडौं-8,Rastriya Janamukti Party,43,65,51.68940901902028
+1172,काठमाडौं,काठमाडौं-8,"Democratic Socialist Party, Nepal",34,35,60.512862335518896
+1173,काठमाडौं,काठमाडौं-8,Nepali Janata Dal,29,53,53.63272570269944
+1174,काठमाडौं,काठमाडौं-8,Independent,29,39,57.617798095968325
+1175,काठमाडौं,काठमाडौं-8,"Janata Pragatisheel Party, Nepal",28,62,57.69157073429968
+1176,काठमाडौं,काठमाडौं-8,Independent,21,38,58.51925528193684
+1177,काठमाडौं,काठमाडौं-8,Nepal Federal Socialist Party,10,47,50.955927577559976
+1178,काठमाडौं,काठमाडौं-9,Nepal Communist Party (UML),11956,64,59.15795814843515
+1179,काठमाडौं,काठमाडौं-9,Rastriya Swatantra Party,10961,58,55.40764535296782
+1180,काठमाडौं,काठमाडौं-9,Nepal Communist Party (Maoist Center) (Unified Symbol),6402,47,55.14179929613815
+1181,काठमाडौं,काठमाडौं-9,Rastriya Prajatantra Party,4785,51,57.1188340328296
+1182,काठमाडौं,काठमाडौं-9,Sajha Party Nepal,2327,33,53.462539377712126
+1183,काठमाडौं,काठमाडौं-9,Hamro Nepali Party,1586,39,62.25487980889951
+1184,काठमाडौं,काठमाडौं-9,Nepal Workers and Peasants Party,1552,43,61.843067000815886
+1185,काठमाडौं,काठमाडौं-9,Independent,833,31,60.6035266369584
+1186,काठमाडौं,काठमाडौं-9,"Janata Samajwadi Party, Nepal",792,46,55.47363459866992
+1187,काठमाडौं,काठमाडौं-9,Independent,314,45,59.50018022679173
+1188,काठमाडौं,काठमाडौं-9,Nepali Congress (BP),247,39,60.69373787493488
+1189,काठमाडौं,काठमाडौं-9,Independent,151,46,51.1505972808969
+1190,काठमाडौं,काठमाडौं-9,Rastriya Janamukti Party,123,33,54.83583891504279
+1191,काठमाडौं,काठमाडौं-9,Independent,94,49,59.74633815509767
+1192,काठमाडौं,काठमाडौं-9,Independent,82,46,60.235798864609485
+1193,काठमाडौं,काठमाडौं-9,"Democratic Socialist Party, Nepal",81,37,62.109343606966696
+1194,काठमाडौं,काठमाडौं-9,Independent,64,73,55.61802478842104
+1195,काठमाडौं,काठमाडौं-9,Independent,60,39,57.42682549152386
+1196,काठमाडौं,काठमाडौं-9,Independent,31,38,51.3167800963995
+1197,काठमाडौं,काठमाडौं-9,Independent,31,61,56.673505993476894
+1198,काठमाडौं,काठमाडौं-9,Maulik Jarokilo Party,23,41,53.80547060557132
+1199,काठमाडौं,काठमाडौं-9,Independent,22,36,53.10874082690346
+1200,काठमाडौं,काठमाडौं-10,Nepali Congress,14463,64,52.30464116684519
+1201,काठमाडौं,काठमाडौं-10,Nepal Communist Party (UML),11791,39,58.456933108921056
+1202,काठमाडौं,काठमाडौं-10,Rastriya Swatantra Party,8739,47,51.23923136567161
+1203,काठमाडौं,काठमाडौं-10,Rastriya Prajatantra Party,6959,47,57.673847602286266
+1204,काठमाडौं,काठमाडौं-10,Nepal Communist Party (Maoist Center) (Unified Symbol),5265,48,53.08005607235586
+1205,काठमाडौं,काठमाडौं-10,Nepal Workers and Peasants Party,1884,58,52.936444361327794
+1206,काठमाडौं,काठमाडौं-10,Hamro Nepali Party,669,69,52.85746570798584
+1207,काठमाडौं,काठमाडौं-10,Bibeksheel Sajha Party,353,36,50.63772525861543
+1208,काठमाडौं,काठमाडौं-10,Nepali Congress (BP),229,51,57.79347274657249
+1209,काठमाडौं,काठमाडौं-10,Nepal Ama Party (Unified Symbol),187,46,53.214017466129086
+1210,काठमाडौं,काठमाडौं-10,Rastriya Prajatantra Party Nepal,178,61,60.41837895069787
+1211,काठमाडौं,काठमाडौं-10,Amul Parivartan Masiha Party Nepal,170,40,50.68247071995455
+1212,काठमाडौं,काठमाडौं-10,Independent,78,50,51.68940901902028
+1213,काठमाडौं,काठमाडौं-10,Nagarik Unmukti Party,63,59,60.512862335518896
+1214,काठमाडौं,काठमाडौं-10,Independent,46,55,53.63272570269944
+1215,काठमाडौं,काठमाडौं-10,Independent,30,50,57.617798095968325
+1216,काठमाडौं,काठमाडौं-10,Maulik Jarokilo Party,27,35,57.69157073429968
+1217,काठमाडौं,काठमाडौं-10,Rastriya Janamukti Party,24,65,58.51925528193684
+1218,भक्तपुर,भक्तपुर-1,Nepal Workers and Peasants Party,42761,62,50.955927577559976
+1219,भक्तपुर,भक्तपुर-1,Nepal Communist Party (UML),11968,57,59.15795814843515
+1220,भक्तपुर,भक्तपुर-1,Rastriya Prajatantra Party,9303,60,55.40764535296782
+1221,भक्तपुर,भक्तपुर-1,Nepal Communist Party (Maoist Center) (Unified Symbol),5283,40,55.14179929613815
+1222,भक्तपुर,भक्तपुर-1,Rastriya Prajatantra Party Nepal,717,46,57.1188340328296
+1223,भक्तपुर,भक्तपुर-1,Maulik Jarokilo Party,336,36,53.462539377712126
+1224,भक्तपुर,भक्तपुर-1,Nepal Communist Party (Marxist-Leninist),277,53,62.25487980889951
+1225,भक्तपुर,भक्तपुर-1,Amul Parivartan Masiha Party Nepal,250,38,61.843067000815886
+1226,भक्तपुर,भक्तपुर-1,"Janata Samajwadi Party, Nepal",246,55,60.6035266369584
+1227,भक्तपुर,भक्तपुर-1,Nepal for Nepali Party,240,59,55.47363459866992
+1228,भक्तपुर,भक्तपुर-1,Independent,140,39,59.50018022679173
+1229,भक्तपुर,भक्तपुर-1,Independent,78,31,60.69373787493488
+1230,भक्तपुर,भक्तपुर-1,Independent,75,39,51.1505972808969
+1231,भक्तपुर,भक्तपुर-1,Independent,35,36,54.83583891504279
+1232,भक्तपुर,भक्तपुर-2,Nepali Congress,24239,54,53.839956224389866
+1233,भक्तपुर,भक्तपुर-2,Nepal Communist Party (UML),23282,47,59.84752590739891
+1234,भक्तपुर,भक्तपुर-2,Nepal Workers and Peasants Party,7127,40,58.81378646417016
+1235,भक्तपुर,भक्तपुर-2,Rastriya Swatantra Party,4098,29,54.854410361461134
+1236,भक्तपुर,भक्तपुर-2,Rastriya Prajatantra Party,2569,65,57.79439035858273
+1237,भक्तपुर,भक्तपुर-2,Nepal Ama Party (Unified Symbol),845,44,61.96878670162153
+1238,भक्तपुर,भक्तपुर-2,"Janata Samajwadi Party, Nepal",223,42,59.47319309626391
+1239,भक्तपुर,भक्तपुर-2,Independent,213,44,62.02057835653491
+1240,भक्तपुर,भक्तपुर-2,Hamro Nepali Party,194,43,55.29587966828258
+1241,भक्तपुर,भक्तपुर-2,Independent,167,44,59.05018417180824
+1242,भक्तपुर,भक्तपुर-2,Rastriya Prajatantra Party Nepal,140,45,58.250594791364406
+1243,भक्तपुर,भक्तपुर-2,Nepal Bibeksheel Party,127,40,58.26908052067889
+1244,भक्तपुर,भक्तपुर-2,Maulik Jarokilo Party,102,61,57.71752606151969
+1245,भक्तपुर,भक्तपुर-2,Nepal for Nepali Party,99,35,55.373012087671576
+1246,भक्तपुर,भक्तपुर-2,Independent,82,38,58.10756485201789
+1247,भक्तपुर,भक्तपुर-2,Amul Parivartan Masiha Party Nepal,57,44,50.63270171081018
+1248,भक्तपुर,भक्तपुर-2,Rastriya Janamukti Party,30,48,55.12563629709789
+1249,भक्तपुर,भक्तपुर-2,Nationalist People's Party,24,51,56.57487304506748
+1250,भक्तपुर,भक्तपुर-2,Independent,18,47,56.90091483090769
+1251,भक्तपुर,भक्तपुर-2,Independent,16,41,54.90755714594248
+1252,भक्तपुर,भक्तपुर-2,Independent,16,51,58.96772253964103
+1253,भक्तपुर,भक्तपुर-2,Independent,9,41,52.71172892390052
+1254,भक्तपुर,भक्तपुर-2,Independent,6,39,53.58446595182376
+1255,भक्तपुर,भक्तपुर-2,Independent,4,47,59.48847853320518
+1256,भक्तपुर,भक्तपुर-2,Independent,3,51,53.47166502262563
+1257,भक्तपुर,भक्तपुर-2,Independent,3,46,53.01714215247813
+1258,ललितपुर,ललितपुर-1,Nepali Congress,23892,52,60.246498952632976
+1259,ललितपुर,ललितपुर-1,Nepal Communist Party (UML),19278,59,60.13859813646847
+1260,ललितपुर,ललितपुर-1,Rastriya Swatantra Party,3277,44,53.88996701476894
+1261,ललितपुर,ललितपुर-1,Rastriya Prajatantra Party,1641,27,60.4663124772414
+1262,ललितपुर,ललितपुर-1,Mongol National Organization,172,36,61.64164361801969
+1263,ललितपुर,ललितपुर-1,Nepal Workers and Peasants Party,149,43,57.219098598671046
+1264,ललितपुर,ललितपुर-1,"Janata Samajwadi Party, Nepal",146,49,59.53147740829762
+1265,ललितपुर,ललितपुर-1,Independent,83,40,57.995921641438656
+1266,ललितपुर,ललितपुर-1,Amul Parivartan Masiha Party Nepal,32,32,60.8245759139914
+1267,ललितपुर,ललितपुर-1,"Democratic Socialist Party, Nepal",24,41,57.46347013758108
+1268,ललितपुर,ललितपुर-1,Nationalist People's Party,13,47,59.09679955054329
+1269,ललितपुर,ललितपुर-1,Independent,12,47,56.02269076359845
+1270,ललितपुर,ललितपुर-1,Independent,10,53,54.425764726703335
+1271,ललितपुर,ललितपुर-1,Independent,10,32,57.87380364277264
+1272,ललितपुर,ललितपुर-1,Independent,9,41,53.8889460414876
+1273,ललितपुर,ललितपुर-1,Rastriya Janamukti Party,8,57,52.28527040682239
+1274,ललितपुर,ललितपुर-1,Independent,7,49,58.92979121739078
+1275,ललितपुर,ललितपुर-1,Independent,6,42,53.839956224389866
+1276,ललितपुर,ललितपुर-1,Independent,5,47,59.84752590739891
+1277,ललितपुर,ललितपुर-1,Independent,4,29,58.81378646417016
+1278,ललितपुर,ललितपुर-1,Independent,3,49,54.854410361461134
+1279,ललितपुर,ललितपुर-2,Nepal Communist Party (UML),15025,56,57.79439035858273
+1280,ललितपुर,ललितपुर-2,Hamro Nepali Party,8886,45,61.96878670162153
+1281,ललितपुर,ललितपुर-2,Rastriya Swatantra Party,8666,44,59.47319309626391
+1282,ललितपुर,ललितपुर-2,Nepal Communist Party (Unified Socialist),8264,67,62.02057835653491
+1283,ललितपुर,ललितपुर-2,Rastriya Prajatantra Party,6646,53,55.29587966828258
+1284,ललितपुर,ललितपुर-2,Independent,1392,39,59.05018417180824
+1285,ललितपुर,ललितपुर-2,Unified Shakti Nepal,912,40,58.250594791364406
+1286,ललितपुर,ललितपुर-2,Nepal Workers and Peasants Party,596,49,58.26908052067889
+1287,ललितपुर,ललितपुर-2,Nepal Sushasan Party (Unified Symbol),139,68,57.71752606151969
+1288,ललितपुर,ललितपुर-2,Independent,129,42,55.373012087671576
+1289,ललितपुर,ललितपुर-2,Independent,111,39,58.10756485201789
+1290,ललितपुर,ललितपुर-2,Rastriya Janamukti Party,104,41,50.63270171081018
+1291,ललितपुर,ललितपुर-2,Independent,70,52,55.12563629709789
+1292,ललितपुर,ललितपुर-2,Janasamajwadi Party Nepal,68,45,56.57487304506748
+1293,ललितपुर,ललितपुर-2,Independent,63,40,56.90091483090769
+1294,ललितपुर,ललितपुर-2,Nationalist People's Party,58,55,54.90755714594248
+1295,ललितपुर,ललितपुर-2,"Democratic Socialist Party, Nepal",46,37,58.96772253964103
+1296,ललितपुर,ललितपुर-2,Federal Democratic National Front,43,59,52.71172892390052
+1297,ललितपुर,ललितपुर-2,Independent,43,45,53.58446595182376
+1298,ललितपुर,ललितपुर-2,Mongol National Organization,40,61,59.48847853320518
+1299,ललितपुर,ललितपुर-2,Independent,35,49,53.47166502262563
+1300,ललितपुर,ललितपुर-2,Independent,19,48,53.01714215247813
+1301,ललितपुर,ललितपुर-3,Rastriya Swatantra Party,31136,33,60.246498952632976
+1302,ललितपुर,ललितपुर-3,Nepal Communist Party (UML),12963,49,60.13859813646847
+1303,ललितपुर,ललितपुर-3,Nepal Communist Party (Maoist Center) (Unified Symbol),8769,60,53.88996701476894
+1304,ललितपुर,ललितपुर-3,Rastriya Prajatantra Party,2130,40,60.4663124772414
+1305,ललितपुर,ललितपुर-3,Hamro Nepali Party,1554,49,61.64164361801969
+1306,ललितपुर,ललितपुर-3,Nepal Workers and Peasants Party,503,37,57.219098598671046
+1307,ललितपुर,ललितपुर-3,Independent,360,47,59.53147740829762
+1308,ललितपुर,ललितपुर-3,Independent,144,53,57.995921641438656
+1309,ललितपुर,ललितपुर-3,Rastriya Prajatantra Party Nepal,91,56,60.8245759139914
+1310,ललितपुर,ललितपुर-3,Amul Parivartan Masiha Party Nepal,81,36,57.46347013758108
+1311,ललितपुर,ललितपुर-3,Federal Democratic National Front,70,70,59.09679955054329
+1312,ललितपुर,ललितपुर-3,Independent,63,46,56.02269076359845
+1313,ललितपुर,ललितपुर-3,Nepal Ama Party (Unified Symbol),54,44,54.425764726703335
+1314,ललितपुर,ललितपुर-3,Independent,46,51,57.87380364277264
+1315,ललितपुर,ललितपुर-3,Maulik Jarokilo Party,43,29,53.8889460414876
+1316,ललितपुर,ललितपुर-3,"Democratic Socialist Party, Nepal",39,34,52.28527040682239
+1317,ललितपुर,ललितपुर-3,Independent,34,44,58.92979121739078
+1318,ललितपुर,ललितपुर-3,Independent,29,56,53.839956224389866
+1319,ललितपुर,ललितपुर-3,Nationalist People's Party,27,39,59.84752590739891
+1320,ललितपुर,ललितपुर-3,Independent,9,33,58.81378646417016
+1321,Kavrepalanchok,Kavrepalanchok-1,Nepal Communist Party (Maoist Center) (Unified Symbol),34512,52,54.854410361461134
+1322,Kavrepalanchok,Kavrepalanchok-1,Nepal Communist Party (UML),30548,50,57.79439035858273
+1323,Kavrepalanchok,Kavrepalanchok-1,Rastriya Swatantra Party,8697,54,61.96878670162153
+1324,Kavrepalanchok,Kavrepalanchok-1,Rastriya Prajatantra Party,1853,32,59.47319309626391
+1325,Kavrepalanchok,Kavrepalanchok-1,Nepal Communist Party (Marxist-Leninist),1127,55,62.02057835653491
+1326,Kavrepalanchok,Kavrepalanchok-1,Independent,483,56,55.29587966828258
+1327,Kavrepalanchok,Kavrepalanchok-1,Mongol National Organization,357,38,59.05018417180824
+1328,Kavrepalanchok,Kavrepalanchok-1,"Janata Samajwadi Party, Nepal",350,39,58.250594791364406
+1329,Kavrepalanchok,Kavrepalanchok-1,Nepal Communist Party Parivartan,278,50,58.26908052067889
+1330,Kavrepalanchok,Kavrepalanchok-1,Independent,239,41,57.71752606151969
+1331,Kavrepalanchok,Kavrepalanchok-1,Independent,184,31,55.373012087671576
+1332,Kavrepalanchok,Kavrepalanchok-1,Nepal Communist Party Maoist Socialist,101,44,58.10756485201789
+1333,Kavrepalanchok,Kavrepalanchok-1,Nepal Workers and Peasants Party,94,55,50.63270171081018
+1334,Kavrepalanchok,Kavrepalanchok-1,Rastriya Prajatantra Party Nepal,85,70,55.12563629709789
+1335,Kavrepalanchok,Kavrepalanchok-1,Independent,59,45,56.57487304506748
+1336,Kavrepalanchok,Kavrepalanchok-1,"Democratic Socialist Party, Nepal",46,35,56.90091483090769
+1337,Kavrepalanchok,Kavrepalanchok-1,Independent,33,37,54.90755714594248
+1338,Kavrepalanchok,Kavrepalanchok-2,Nepal Communist Party (UML),45345,52,58.96772253964103
+1339,Kavrepalanchok,Kavrepalanchok-2,Nepali Congress,39482,61,52.71172892390052
+1340,Kavrepalanchok,Kavrepalanchok-2,Rastriya Swatantra Party,10573,45,53.58446595182376
+1341,Kavrepalanchok,Kavrepalanchok-2,Rastriya Prajatantra Party,1933,42,59.48847853320518
+1342,Kavrepalanchok,Kavrepalanchok-2,Nepal Workers and Peasants Party,802,60,53.47166502262563
+1343,Kavrepalanchok,Kavrepalanchok-2,Independent,173,43,53.01714215247813
+1344,Kavrepalanchok,Kavrepalanchok-2,"Janata Samajwadi Party, Nepal",162,64,60.246498952632976
+1345,Kavrepalanchok,Kavrepalanchok-2,Independent,115,61,60.13859813646847
+1346,Kavrepalanchok,Kavrepalanchok-2,Nepal Naulo Janwadi Party (Unified Symbol),100,48,53.88996701476894
+1347,Kavrepalanchok,Kavrepalanchok-2,Independent,100,39,60.4663124772414
+1348,Kavrepalanchok,Kavrepalanchok-2,Nepal Communist Party Maoist Socialist,99,43,61.64164361801969
+1349,Kavrepalanchok,Kavrepalanchok-2,Mongol National Organization,92,28,57.219098598671046
+1350,Kavrepalanchok,Kavrepalanchok-2,Nepal Communist Party Parivartan,86,54,59.53147740829762
+1351,Kavrepalanchok,Kavrepalanchok-2,Independent,83,48,57.995921641438656
+1352,Kavrepalanchok,Kavrepalanchok-2,Independent,45,41,60.8245759139914
+1353,Kavrepalanchok,Kavrepalanchok-2,Federal Democratic National Front,35,28,57.46347013758108
+1354,सिन्धुपाल्चोक,सिन्धुपाल्चोक-1,Nepal Communist Party (Maoist Center) (Unified Symbol),30408,41,59.09679955054329
+1355,सिन्धुपाल्चोक,सिन्धुपाल्चोक-1,Nepal Communist Party (UML),27066,61,56.02269076359845
+1356,सिन्धुपाल्चोक,सिन्धुपाल्चोक-1,Rastriya Swatantra Party,3503,36,54.425764726703335
+1357,सिन्धुपाल्चोक,सिन्धुपाल्चोक-1,Rastriya Prajatantra Party,1651,66,57.87380364277264
+1358,सिन्धुपाल्चोक,सिन्धुपाल्चोक-1,Nepal Communist Party (Marxist-Leninist),1111,70,53.8889460414876
+1359,सिन्धुपाल्चोक,सिन्धुपाल्चोक-1,Independent,552,38,52.28527040682239
+1360,सिन्धुपाल्चोक,सिन्धुपाल्चोक-1,Independent,430,30,58.92979121739078
+1361,सिन्धुपाल्चोक,सिन्धुपाल्चोक-1,Mongol National Organization,413,34,53.839956224389866
+1362,सिन्धुपाल्चोक,सिन्धुपाल्चोक-1,"Janata Samajwadi Party, Nepal",308,33,59.84752590739891
+1363,सिन्धुपाल्चोक,सिन्धुपाल्चोक-1,Federal Democratic National Front,193,42,58.81378646417016
+1364,सिन्धुपाल्चोक,सिन्धुपाल्चोक-1,Rastriya Prajatantra Party Nepal,121,54,54.854410361461134
+1365,सिन्धुपाल्चोक,सिन्धुपाल्चोक-1,Nepal Workers and Peasants Party,94,38,57.79439035858273
+1366,सिन्धुपाल्चोक,सिन्धुपाल्चोक-1,Amul Parivartan Masiha Party Nepal,90,38,61.96878670162153
+1367,सिन्धुपाल्चोक,सिन्धुपाल्चोक-1,Independent,88,43,59.47319309626391
+1368,सिन्धुपाल्चोक,सिन्धुपाल्चोक-2,Nepali Congress,39381,64,62.02057835653491
+1369,सिन्धुपाल्चोक,सिन्धुपाल्चोक-2,Nepal Communist Party (UML),27515,53,55.29587966828258
+1370,सिन्धुपाल्चोक,सिन्धुपाल्चोक-2,Rastriya Prajatantra Party,2820,59,59.05018417180824
+1371,सिन्धुपाल्चोक,सिन्धुपाल्चोक-2,Rastriya Swatantra Party,2453,42,58.250594791364406
+1372,सिन्धुपाल्चोक,सिन्धुपाल्चोक-2,Nepal Communist Party (Marxist-Leninist),612,56,58.26908052067889
+1373,सिन्धुपाल्चोक,सिन्धुपाल्चोक-2,Independent,378,56,57.71752606151969
+1374,सिन्धुपाल्चोक,सिन्धुपाल्चोक-2,Mongol National Organization,184,36,55.373012087671576
+1375,सिन्धुपाल्चोक,सिन्धुपाल्चोक-2,Janamat Party,109,39,58.10756485201789
+1376,सिन्धुपाल्चोक,सिन्धुपाल्चोक-2,Rastriya Prajatantra Party Nepal,88,43,50.63270171081018
+1377,सिन्धुपाल्चोक,सिन्धुपाल्चोक-2,Amul Parivartan Masiha Party Nepal,37,48,55.12563629709789
+1378,सिन्धुपाल्चोक,सिन्धुपाल्चोक-2,Nepal Workers and Peasants Party,18,49,56.57487304506748
+1379,सिन्धुपाल्चोक,सिन्धुपाल्चोक-2,Independent,15,47,56.90091483090769
+1380,सिन्धुपाल्चोक,सिन्धुपाल्चोक-2,Federal Democratic National Front,12,46,54.90755714594248
+1381,मकवानपुर,मकवानपुर-1,Rastriya Prajatantra Party,27851,61,58.96772253964103
+1382,मकवानपुर,मकवानपुर-1,Nepali Congress,25464,58,52.71172892390052
+1383,मकवानपुर,मकवानपुर-1,Nepal Communist Party (UML),25460,67,53.58446595182376
+1384,मकवानपुर,मकवानपुर-1,Rastriya Swatantra Party,5703,35,59.48847853320518
+1385,मकवानपुर,मकवानपुर-1,Nepal Communist Party (Marxist-Leninist),759,60,53.47166502262563
+1386,मकवानपुर,मकवानपुर-1,Hamro Nepali Party,422,46,53.01714215247813
+1387,मकवानपुर,मकवानपुर-1,Independent,414,43,60.246498952632976
+1388,मकवानपुर,मकवानपुर-1,"Janata Samajwadi Party, Nepal",362,37,60.13859813646847
+1389,मकवानपुर,मकवानपुर-1,Mongol National Organization,293,40,53.88996701476894
+1390,मकवानपुर,मकवानपुर-1,Nepali Congress (BP),174,43,60.4663124772414
+1391,मकवानपुर,मकवानपुर-1,Janasamajwadi Party Nepal,86,53,61.64164361801969
+1392,मकवानपुर,मकवानपुर-1,Sachet Nepali Party (Unified Symbol),69,42,57.219098598671046
+1393,मकवानपुर,मकवानपुर-1,Nepal Workers and Peasants Party,46,60,59.53147740829762
+1394,मकवानपुर,मकवानपुर-1,"Democratic Socialist Party, Nepal",39,44,57.995921641438656
+1395,मकवानपुर,मकवानपुर-1,Maulik Jarokilo Party,24,38,60.8245759139914
+1396,मकवानपुर,मकवानपुर-1,Independent,8,36,57.46347013758108
+1397,मकवानपुर,मकवानपुर-2,Nepal Communist Party (UML),34950,40,59.09679955054329
+1398,मकवानपुर,मकवानपुर-2,Nepal Communist Party (Unified Socialist),30432,62,56.02269076359845
+1399,मकवानपुर,मकवानपुर-2,Rastriya Swatantra Party,12059,54,54.425764726703335
+1400,मकवानपुर,मकवानपुर-2,Rastriya Prajatantra Party,2196,57,57.87380364277264
+1401,मकवानपुर,मकवानपुर-2,Nepal Communist Party (Marxist-Leninist),1807,60,53.8889460414876
+1402,मकवानपुर,मकवानपुर-2,Mongol National Organization,423,40,52.28527040682239
+1403,मकवानपुर,मकवानपुर-2,Sachet Nepali Party (Unified Symbol),275,39,58.92979121739078
+1404,मकवानपुर,मकवानपुर-2,Nationalist People's Party,68,46,53.839956224389866
+1405,मकवानपुर,मकवानपुर-2,Nepal Workers and Peasants Party,53,51,59.84752590739891
+1406,मकवानपुर,मकवानपुर-2,Independent,31,33,58.81378646417016
+1407,Rautahat,Rautahat-1,Nepal Communist Party (Unified Socialist),33522,69,54.854410361461134
+1408,Rautahat,Rautahat-1,Nepal Communist Party (UML),26922,48,57.79439035858273
+1409,Rautahat,Rautahat-1,Janamat Party,1411,62,61.96878670162153
+1410,Rautahat,Rautahat-1,Independent,454,25,59.47319309626391
+1411,Rautahat,Rautahat-1,Rastriya Prajatantra Party Nepal,353,42,62.02057835653491
+1412,Rautahat,Rautahat-1,Nepal Sushasan Party (Unified Symbol),318,28,55.29587966828258
+1413,Rautahat,Rautahat-1,Nepali Janata Dal,259,31,59.05018417180824
+1414,Rautahat,Rautahat-1,Independent,181,64,58.250594791364406
+1415,Rautahat,Rautahat-1,Independent,176,43,58.26908052067889
+1416,Rautahat,Rautahat-1,Rastriya Swatantra Party,163,29,57.71752606151969
+1417,Rautahat,Rautahat-1,Nepal Workers and Peasants Party,103,48,55.373012087671576
+1418,Rautahat,Rautahat-1,Independent,32,38,58.10756485201789
+1419,Rautahat,Rautahat-1,Independent,32,52,50.63270171081018
+1420,Rautahat,Rautahat-1,Independent,28,50,55.12563629709789
+1421,Rautahat,Rautahat-1,Independent,20,37,56.57487304506748
+1422,Rautahat,Rautahat-1,Independent,18,30,56.90091483090769
+1423,Rautahat,Rautahat-1,Independent,17,46,54.90755714594248
+1424,Rautahat,Rautahat-2,Independent,32842,44,58.96772253964103
+1425,Rautahat,Rautahat-2,Nepali Congress,28248,35,52.71172892390052
+1426,Rautahat,Rautahat-2,"Janata Samajwadi Party, Nepal",2122,51,53.58446595182376
+1427,Rautahat,Rautahat-2,Janamat Party,1004,67,59.48847853320518
+1428,Rautahat,Rautahat-2,Rastriya Prajatantra Party Nepal,152,78,53.47166502262563
+1429,Rautahat,Rautahat-2,Nepal Workers and Peasants Party,74,50,53.01714215247813
+1430,Rautahat,Rautahat-2,Independent,60,68,60.246498952632976
+1431,Rautahat,Rautahat-2,Independent,57,26,60.13859813646847
+1432,Rautahat,Rautahat-2,Independent,30,63,53.88996701476894
+1433,Rautahat,Rautahat-2,Gandhiwadi Party Nepal,19,29,60.4663124772414
+1434,Rautahat,Rautahat-2,Independent,12,44,61.64164361801969
+1435,Rautahat,Rautahat-2,Independent,9,57,57.219098598671046
+1436,Rautahat,Rautahat-2,Independent,7,41,59.53147740829762
+1437,Rautahat,Rautahat-3,Independent,32437,51,57.995921641438656
+1438,Rautahat,Rautahat-3,Independent,25200,49,60.8245759139914
+1439,Rautahat,Rautahat-3,Nepal Communist Party (Maoist Center) (Unified Symbol),8558,44,57.46347013758108
+1440,Rautahat,Rautahat-3,Nagarik Unmukti Party,1723,45,59.09679955054329
+1441,Rautahat,Rautahat-3,Rastriya Swatantra Party,1006,32,56.02269076359845
+1442,Rautahat,Rautahat-3,Janamat Party,817,63,54.425764726703335
+1443,Rautahat,Rautahat-3,Rastriya Prajatantra Party,456,51,57.87380364277264
+1444,Rautahat,Rautahat-3,Independent,146,70,53.8889460414876
+1445,Rautahat,Rautahat-3,Independent,87,26,52.28527040682239
+1446,Rautahat,Rautahat-3,Nepal Workers and Peasants Party,84,45,58.92979121739078
+1447,Rautahat,Rautahat-3,Independent,69,41,53.839956224389866
+1448,Rautahat,Rautahat-3,Independent,67,25,59.84752590739891
+1449,Rautahat,Rautahat-3,Nepal Sadbhavana Party,59,28,58.81378646417016
+1450,Rautahat,Rautahat-3,Independent,56,32,54.854410361461134
+1451,Rautahat,Rautahat-3,Independent,47,30,57.79439035858273
+1452,Rautahat,Rautahat-3,Independent,38,27,61.96878670162153
+1453,Rautahat,Rautahat-3,Independent,36,50,59.47319309626391
+1454,Rautahat,Rautahat-3,Independent,28,50,62.02057835653491
+1455,Rautahat,Rautahat-3,Independent,21,40,55.29587966828258
+1456,Rautahat,Rautahat-4,Nepali Congress,34161,52,59.05018417180824
+1457,Rautahat,Rautahat-4,Nepal Communist Party (UML),26559,57,58.250594791364406
+1458,Rautahat,Rautahat-4,Rastriya Prajatantra Party,2375,44,58.26908052067889
+1459,Rautahat,Rautahat-4,Independent,2268,60,57.71752606151969
+1460,Rautahat,Rautahat-4,Rastriya Swatantra Party,1876,47,55.373012087671576
+1461,Rautahat,Rautahat-4,Nepal Communist Party (Marxist-Leninist),950,49,58.10756485201789
+1462,Rautahat,Rautahat-4,Maulik Jarokilo Party,451,32,50.63270171081018
+1463,Rautahat,Rautahat-4,Independent,317,29,55.12563629709789
+1464,Rautahat,Rautahat-4,Bahujan Shakti Party,279,47,56.57487304506748
+1465,Rautahat,Rautahat-4,Nepal Janata Party,211,48,56.90091483090769
+1466,Rautahat,Rautahat-4,Independent,114,67,54.90755714594248
+1467,Rautahat,Rautahat-4,Amul Parivartan Masiha Party Nepal,107,54,58.96772253964103
+1468,Rautahat,Rautahat-4,Nepal Workers and Peasants Party,85,29,52.71172892390052
+1469,Rautahat,Rautahat-4,Independent,67,39,53.58446595182376
+1470,Rautahat,Rautahat-4,Independent,62,26,59.48847853320518
+1471,Rautahat,Rautahat-4,Independent,47,38,53.47166502262563
+1472,Rautahat,Rautahat-4,Independent,25,34,53.01714215247813
+1473,Rautahat,Rautahat-4,Independent,16,76,60.246498952632976
+1474,Bara,Bara-1,Nepal Communist Party (UML),39195,57,60.13859813646847
+1475,Bara,Bara-1,Nepali Congress,30056,56,53.88996701476894
+1476,Bara,Bara-1,Rastriya Swatantra Party,3319,39,60.4663124772414
+1477,Bara,Bara-1,Rastriya Prajatantra Party,1792,43,61.64164361801969
+1478,Bara,Bara-1,Independent,1133,39,57.219098598671046
+1479,Bara,Bara-1,Janamat Party,1063,28,59.53147740829762
+1480,Bara,Bara-1,Hamro Nepali Party,732,31,57.995921641438656
+1481,Bara,Bara-1,Rastriya Prajatantra Party Nepal,170,58,60.8245759139914
+1482,Bara,Bara-1,Nepali Congress (BP),133,58,57.46347013758108
+1483,Bara,Bara-1,Independent,90,51,59.09679955054329
+1484,Bara,Bara-1,Nepal Janata Party,89,62,56.02269076359845
+1485,Bara,Bara-1,Mongol National Organization,86,34,54.425764726703335
+1486,Bara,Bara-1,Nepal Democratic Party,55,38,57.87380364277264
+1487,Bara,Bara-1,Independent,38,27,53.8889460414876
+1488,Bara,Bara-1,Independent,29,51,52.28527040682239
+1489,Bara,Bara-1,Independent,25,46,58.92979121739078
+1490,Bara,Bara-1,Independent,24,81,53.839956224389866
+1491,Bara,Bara-2,"Janata Samajwadi Party, Nepal",13822,52,59.84752590739891
+1492,Bara,Bara-2,Nepal Communist Party (Maoist Center) (Unified Symbol),13468,56,58.81378646417016
+1493,Bara,Bara-2,Independent,11043,52,54.854410361461134
+1494,Bara,Bara-2,Independent,10750,50,57.79439035858273
+1495,Bara,Bara-2,Independent,7698,50,61.96878670162153
+1496,Bara,Bara-2,Janamat Party,2725,36,59.47319309626391
+1497,Bara,Bara-2,Nagarik Unmukti Party,1111,41,62.02057835653491
+1498,Bara,Bara-2,Independent,777,47,55.29587966828258
+1499,Bara,Bara-2,Independent,574,54,59.05018417180824
+1500,Bara,Bara-2,Rastriya Prajatantra Party,459,52,58.250594791364406
+1501,Bara,Bara-2,Hamro Nepali Party,242,54,58.26908052067889
+1502,Bara,Bara-2,Nepal Democratic Party,212,57,57.71752606151969
+1503,Bara,Bara-2,Independent,210,45,55.373012087671576
+1504,Bara,Bara-2,Independent,175,60,58.10756485201789
+1505,Bara,Bara-2,Nepal Sushasan Party (Unified Symbol),150,38,50.63270171081018
+1506,Bara,Bara-2,Independent,104,35,55.12563629709789
+1507,Bara,Bara-2,Nepal Workers and Peasants Party,71,28,56.57487304506748
+1508,Bara,Bara-2,Rastriya Prajatantra Party Nepal,64,44,56.90091483090769
+1509,Bara,Bara-2,Independent,45,28,54.90755714594248
+1510,Bara,Bara-2,Independent,27,32,58.96772253964103
+1511,Bara,Bara-2,Independent,15,49,52.71172892390052
+1512,Bara,Bara-3,Nepal Communist Party (UML),20251,40,53.58446595182376
+1513,Bara,Bara-3,"Janata Samajwadi Party, Nepal",17279,47,59.48847853320518
+1514,Bara,Bara-3,"Democratic Socialist Party, Nepal",11964,61,53.47166502262563
+1515,Bara,Bara-3,Rastriya Swatantra Party,3579,29,53.01714215247813
+1516,Bara,Bara-3,Janamat Party,3331,50,60.246498952632976
+1517,Bara,Bara-3,Independent,1878,49,60.13859813646847
+1518,Bara,Bara-3,Unified Shakti Nepal,1075,40,53.88996701476894
+1519,Bara,Bara-3,Nepal Democratic Party,1044,68,60.4663124772414
+1520,Bara,Bara-3,Rastriya Prajatantra Party,765,52,61.64164361801969
+1521,Bara,Bara-3,Hamro Nepali Party,672,56,57.219098598671046
+1522,Bara,Bara-3,Rastriya Prajatantra Party Nepal,604,53,59.53147740829762
+1523,Bara,Bara-3,Mongol National Organization,373,39,57.995921641438656
+1524,Bara,Bara-3,Nagarik Unmukti Party,336,41,60.8245759139914
+1525,Bara,Bara-3,Bibeksheel Sajha Party,193,58,57.46347013758108
+1526,Bara,Bara-3,Nepal Workers and Peasants Party,118,52,59.09679955054329
+1527,Bara,Bara-3,Nepal Janata Party,117,58,56.02269076359845
+1528,Bara,Bara-3,Independent,22,70,54.425764726703335
+1529,Bara,Bara-3,Independent,14,39,57.87380364277264
+1530,Bara,Bara-4,Nepal Communist Party (Unified Socialist),30341,54,53.8889460414876
+1531,Bara,Bara-4,Nepal Communist Party (UML),20336,53,52.28527040682239
+1532,Bara,Bara-4,Independent,5542,66,58.92979121739078
+1533,Bara,Bara-4,Rastriya Swatantra Party,3884,33,53.839956224389866
+1534,Bara,Bara-4,Rastriya Prajatantra Party,3205,55,59.84752590739891
+1535,Bara,Bara-4,Janamat Party,2211,63,58.81378646417016
+1536,Bara,Bara-4,Bibeksheel Sajha Party,1549,41,54.854410361461134
+1537,Bara,Bara-4,Hamro Nepali Party,1042,49,57.79439035858273
+1538,Bara,Bara-4,Nepal Sadbhavana Party,315,74,61.96878670162153
+1539,Bara,Bara-4,Rastriya Prajatantra Party Nepal,295,33,59.47319309626391
+1540,Bara,Bara-4,"Janata Pragatisheel Party, Nepal",221,42,62.02057835653491
+1541,Bara,Bara-4,Independent,135,42,55.29587966828258
+1542,Bara,Bara-4,Independent,42,42,59.05018417180824
+1543,Bara,Bara-4,Independent,38,56,58.250594791364406
+1544,Bara,Bara-4,Independent,27,52,58.26908052067889
+1545,Bara,Bara-4,Independent,25,29,57.71752606151969
+1546,Bara,Bara-4,Independent,19,50,55.373012087671576
+1547,Bara,Bara-4,Independent,17,56,58.10756485201789
+1548,Bara,Bara-4,Independent,13,51,50.63270171081018
+1549,Bara,Bara-4,Independent,9,38,55.12563629709789
+1550,पर्सा,पर्सा-1,"Janata Samajwadi Party, Nepal",22537,47,56.57487304506748
+1551,पर्सा,पर्सा-1,Independent,20917,59,56.90091483090769
+1552,पर्सा,पर्सा-1,Rastriya Prajatantra Party,2659,64,54.90755714594248
+1553,पर्सा,पर्सा-1,"Democratic Socialist Party, Nepal",1117,75,58.96772253964103
+1554,पर्सा,पर्सा-1,Nepal Democratic Party,237,49,52.71172892390052
+1555,पर्सा,पर्सा-1,Independent,227,27,53.58446595182376
+1556,पर्सा,पर्सा-1,Nepal Communist Party Marxist (Pushpalal),173,65,59.48847853320518
+1557,पर्सा,पर्सा-1,Nepal Sushasan Party (Unified Symbol),140,55,53.47166502262563
+1558,पर्सा,पर्सा-1,Nepal for Nepali Party,94,35,53.01714215247813
+1559,पर्सा,पर्सा-1,Independent,94,80,60.246498952632976
+1560,पर्सा,पर्सा-1,Nepal Janata Party,84,52,60.13859813646847
+1561,पर्सा,पर्सा-1,Independent,55,32,53.88996701476894
+1562,पर्सा,पर्सा-1,Independent,55,36,60.4663124772414
+1563,पर्सा,पर्सा-1,Independent,49,28,61.64164361801969
+1564,पर्सा,पर्सा-1,Rastriya Janamukti Party,44,55,57.219098598671046
+1565,पर्सा,पर्सा-1,Independent,33,34,59.53147740829762
+1566,पर्सा,पर्सा-1,Nepal Workers and Peasants Party,29,38,57.995921641438656
+1567,पर्सा,पर्सा-1,Independent,22,47,60.8245759139914
+1568,पर्सा,पर्सा-1,Independent,21,36,57.46347013758108
+1569,पर्सा,पर्सा-1,Independent,17,38,59.09679955054329
+1570,पर्सा,पर्सा-1,Independent,16,68,56.02269076359845
+1571,पर्सा,पर्सा-2,Nepali Congress,28451,57,54.425764726703335
+1572,पर्सा,पर्सा-2,"Janata Samajwadi Party, Nepal",22445,56,57.87380364277264
+1573,पर्सा,पर्सा-2,Rastriya Prajatantra Party,2741,46,53.8889460414876
+1574,पर्सा,पर्सा-2,Rastriya Swatantra Party,971,29,52.28527040682239
+1575,पर्सा,पर्सा-2,Nepal Democratic Party,349,68,58.92979121739078
+1576,पर्सा,पर्सा-2,Janasamajwadi Party Nepal,240,56,53.839956224389866
+1577,पर्सा,पर्सा-2,Independent,193,41,59.84752590739891
+1578,पर्सा,पर्सा-2,Nepal Workers and Peasants Party,40,39,58.81378646417016
+1579,पर्सा,पर्सा-2,Independent,28,55,54.854410361461134
+1580,पर्सा,पर्सा-2,Nepal Sadbhavana Party,26,39,57.79439035858273
+1581,पर्सा,पर्सा-2,Independent,17,44,61.96878670162153
+1582,पर्सा,पर्सा-3,Nepal Communist Party (UML),24319,51,59.47319309626391
+1583,पर्सा,पर्सा-3,Nepali Congress,24152,64,62.02057835653491
+1584,पर्सा,पर्सा-3,Nepal Sushasan Party (Unified Symbol),10503,54,55.29587966828258
+1585,पर्सा,पर्सा-3,Rastriya Prajatantra Party,1458,51,59.05018417180824
+1586,पर्सा,पर्सा-3,Rastriya Swatantra Party,923,29,58.250594791364406
+1587,पर्सा,पर्सा-3,Independent,108,35,58.26908052067889
+1588,पर्सा,पर्सा-3,Independent,69,31,57.71752606151969
+1589,पर्सा,पर्सा-3,Nepal Workers and Peasants Party,66,45,55.373012087671576
+1590,पर्सा,पर्सा-3,Independent,35,43,58.10756485201789
+1591,पर्सा,पर्सा-3,Independent,25,41,50.63270171081018
+1592,पर्सा,पर्सा-3,Independent,15,51,55.12563629709789
+1593,पर्सा,पर्सा-4,Nepali Congress,31224,65,56.57487304506748
+1594,पर्सा,पर्सा-4,Nepal Communist Party (UML),25671,75,56.90091483090769
+1595,पर्सा,पर्सा-4,Rastriya Prajatantra Party,1283,65,54.90755714594248
+1596,पर्सा,पर्सा-4,Janamat Party,941,41,58.96772253964103
+1597,पर्सा,पर्सा-4,Nepali Janata Dal,682,66,52.71172892390052
+1598,पर्सा,पर्सा-4,Independent,120,44,53.58446595182376
+1599,पर्सा,पर्सा-4,Nepal Workers and Peasants Party,88,48,59.48847853320518
+1600,पर्सा,पर्सा-4,Independent,57,78,53.47166502262563
+1601,पर्सा,पर्सा-4,Independent,35,36,53.01714215247813
+1602,पर्सा,पर्सा-4,Independent,15,41,60.246498952632976
+1603,चितवन,चितवन-1,Rastriya Swatantra Party,34218,39,60.13859813646847
+1604,चितवन,चितवन-1,Nepal Communist Party (UML),26634,64,53.88996701476894
+1605,चितवन,चितवन-1,Nepali Congress,25022,47,60.4663124772414
+1606,चितवन,चितवन-1,Rastriya Prajatantra Party,2751,58,61.64164361801969
+1607,चितवन,चितवन-1,Independent,1421,54,57.219098598671046
+1608,चितवन,चितवन-1,Independent,630,29,59.53147740829762
+1609,चितवन,चितवन-1,Nepal Sushasan Party (Unified Symbol),164,60,57.995921641438656
+1610,चितवन,चितवन-1,Mongol National Organization,152,29,60.8245759139914
+1611,चितवन,चितवन-1,"Janata Samajwadi Party, Nepal",123,36,57.46347013758108
+1612,चितवन,चितवन-1,Independent,116,49,59.09679955054329
+1613,चितवन,चितवन-1,Independent,81,63,56.02269076359845
+1614,चितवन,चितवन-1,Nepal Workers and Peasants Party,71,26,54.425764726703335
+1615,चितवन,चितवन-1,Unified Shakti Nepal,43,39,57.87380364277264
+1616,चितवन,चितवन-1,Independent,20,40,53.8889460414876
+1617,चितवन,चितवन-1,Independent,20,63,52.28527040682239
+1618,चितवन,चितवन-1,Independent,18,40,58.92979121739078
+1619,चितवन,चितवन-1,Independent,17,28,53.839956224389866
+1620,चितवन,चितवन-1,Independent,12,45,59.84752590739891
+1621,चितवन,चितवन-1,Independent,1,30,58.81378646417016
+1622,चितवन,चितवन-2,Rastriya Swatantra Party,49300,47,54.854410361461134
+1623,चितवन,चितवन-2,Nepali Congress,14988,66,57.79439035858273
+1624,चितवन,चितवन-2,Nepal Communist Party (UML),14652,55,61.96878670162153
+1625,चितवन,चितवन-2,Rastriya Prajatantra Party,955,36,59.47319309626391
+1626,चितवन,चितवन-2,Mongol National Organization,277,47,62.02057835653491
+1627,चितवन,चितवन-2,Hamro Nepali Party,149,41,55.29587966828258
+1628,चितवन,चितवन-2,Independent,82,51,59.05018417180824
+1629,चितवन,चितवन-2,Independent,63,29,58.250594791364406
+1630,चितवन,चितवन-2,"Janata Samajwadi Party, Nepal",62,64,58.26908052067889
+1631,चितवन,चितवन-2,Janasamajwadi Party Nepal,58,41,57.71752606151969
+1632,चितवन,चितवन-2,Nepal Workers and Peasants Party,55,31,55.373012087671576
+1633,चितवन,चितवन-2,Independent,46,43,58.10756485201789
+1634,चितवन,चितवन-2,Independent,26,35,50.63270171081018
+1635,चितवन,चितवन-2,Rastriya Prajatantra Party Nepal,20,45,55.12563629709789
+1636,चितवन,चितवन-2,Independent,16,59,56.57487304506748
+1637,चितवन,चितवन-2,Independent,4,48,56.90091483090769
+1638,चितवन,चितवन-3,Rastriya Prajatantra Party,35060,69,54.90755714594248
+1639,चितवन,चितवन-3,Nepal Communist Party (Maoist Center) (Unified Symbol),25824,42,58.96772253964103
+1640,चितवन,चितवन-3,Rastriya Swatantra Party,14843,43,52.71172892390052
+1641,चितवन,चितवन-3,Independent,12275,51,53.58446595182376
+1642,चितवन,चितवन-3,Mongol National Organization,486,52,59.48847853320518
+1643,चितवन,चितवन-3,Independent,373,71,53.47166502262563
+1644,चितवन,चितवन-3,Rastriya Nagarik Party,149,47,53.01714215247813
+1645,चितवन,चितवन-3,Independent,88,33,60.246498952632976
+1646,चितवन,चितवन-3,"Janata Samajwadi Party, Nepal",79,34,60.13859813646847
+1647,चितवन,चितवन-3,Independent,74,41,53.88996701476894
+1648,चितवन,चितवन-3,Independent,69,26,60.4663124772414
+1649,चितवन,चितवन-3,Rastriya Janamukti Party,63,56,61.64164361801969
+1650,चितवन,चितवन-3,Independent,62,32,57.219098598671046
+1651,चितवन,चितवन-3,Nepal Workers and Peasants Party,23,34,59.53147740829762
+1652,चितवन,चितवन-3,Independent,22,50,57.995921641438656
+1653,चितवन,चितवन-3,Independent,12,34,60.8245759139914
+1654,चितवन,चितवन-3,Independent,12,32,57.46347013758108
+1655,चितवन,चितवन-3,Independent,9,42,59.09679955054329
+1656,चितवन,चितवन-3,Independent,5,61,56.02269076359845
+1657,चितवन,चितवन-3,Independent,1,47,54.425764726703335
+1658,गोरखा,गोरखा-1,Nepali Congress,33428,49,57.87380364277264
+1659,गोरखा,गोरखा-1,Nepal Communist Party (UML),16785,60,53.8889460414876
+1660,गोरखा,गोरखा-1,Rastriya Swatantra Party,4892,43,52.28527040682239
+1661,गोरखा,गोरखा-1,Rastriya Prajatantra Party,852,47,58.92979121739078
+1662,गोरखा,गोरखा-1,Mongol National Organization,623,26,53.839956224389866
+1663,गोरखा,गोरखा-1,"Janata Samajwadi Party, Nepal",236,36,59.84752590739891
+1664,गोरखा,गोरखा-1,Janasamajwadi Party Nepal,167,51,58.81378646417016
+1665,गोरखा,गोरखा-1,Nepal Sushasan Party (Unified Symbol),145,38,54.854410361461134
+1666,गोरखा,गोरखा-1,Independent,52,28,57.79439035858273
+1667,गोरखा,गोरखा-1,Nepal Workers and Peasants Party,51,50,61.96878670162153
+1668,गोरखा,गोरखा-2,Nepal Communist Party (Maoist Center) (Unified Symbol),26109,66,59.47319309626391
+1669,गोरखा,गोरखा-2,Rastriya Swatantra Party,12639,42,62.02057835653491
+1670,गोरखा,गोरखा-2,Nepal Communist Party (UML),7395,29,55.29587966828258
+1671,गोरखा,गोरखा-2,Rastriya Prajatantra Party,1813,46,59.05018417180824
+1672,गोरखा,गोरखा-2,Mongol National Organization,1164,40,58.250594791364406
+1673,गोरखा,गोरखा-2,Independent,648,52,58.26908052067889
+1674,गोरखा,गोरखा-2,Nepal Communist Party (Marxist-Leninist),529,58,57.71752606151969
+1675,गोरखा,गोरखा-2,Hamro Nepali Party,246,56,55.373012087671576
+1676,गोरखा,गोरखा-2,Nepali Congress (BP),130,99,58.10756485201789
+1677,गोरखा,गोरखा-2,Rastriya Prajatantra Party Nepal,109,54,50.63270171081018
+1678,गोरखा,गोरखा-2,Independent,105,44,55.12563629709789
+1679,गोरखा,गोरखा-2,Nepal Workers and Peasants Party,31,46,56.57487304506748
+1680,Manang,Manang-1,Nepali Congress,2575,67,56.90091483090769
+1681,Manang,Manang-1,Nepal Communist Party (UML),2247,63,54.90755714594248
+1682,Manang,Manang-1,Rastriya Swatantra Party,5,38,58.96772253964103
+1683,Lamjung,Lamjung-1,Nepal Communist Party (UML),34985,64,52.71172892390052
+1684,Lamjung,Lamjung-1,Nepal Communist Party (Maoist Center) (Unified Symbol),31791,64,53.58446595182376
+1685,Lamjung,Lamjung-1,Rastriya Swatantra Party,9033,41,59.48847853320518
+1686,Lamjung,Lamjung-1,Rastriya Prajatantra Party,1234,70,53.47166502262563
+1687,Lamjung,Lamjung-1,Mongol National Organization,457,47,53.01714215247813
+1688,Lamjung,Lamjung-1,"Janata Samajwadi Party, Nepal",148,64,60.246498952632976
+1689,Lamjung,Lamjung-1,Amul Parivartan Masiha Party Nepal,60,39,60.13859813646847
+1690,Lamjung,Lamjung-1,Nepali Congress (BP),49,52,53.88996701476894
+1691,Lamjung,Lamjung-1,Rastriya Prajatantra Party Nepal,33,56,60.4663124772414
+1692,Lamjung,Lamjung-1,Independent,31,28,61.64164361801969
+1693,Lamjung,Lamjung-1,Nepal Workers and Peasants Party,20,57,57.219098598671046
+1694,कास्की,कास्की-1,Nepal Communist Party (UML),25708,56,59.53147740829762
+1695,कास्की,कास्की-1,Nepali Congress,23189,57,57.995921641438656
+1696,कास्की,कास्की-1,Rastriya Swatantra Party,10941,43,60.8245759139914
+1697,कास्की,कास्की-1,Rastriya Prajatantra Party,3008,64,57.46347013758108
+1698,कास्की,कास्की-1,Hamro Nepali Party,1029,41,59.09679955054329
+1699,कास्की,कास्की-1,Mongol National Organization,434,38,56.02269076359845
+1700,कास्की,कास्की-1,Independent,301,27,54.425764726703335
+1701,कास्की,कास्की-1,"Janata Samajwadi Party, Nepal",265,34,57.87380364277264
+1702,कास्की,कास्की-1,Unified Shakti Nepal,106,41,53.8889460414876
+1703,कास्की,कास्की-1,Amul Parivartan Masiha Party Nepal,80,40,52.28527040682239
+1704,कास्की,कास्की-1,Nepal Communist Party Maoist Socialist,36,43,58.92979121739078
+1705,कास्की,कास्की-1,Rastriya Janamukti Party,19,35,53.839956224389866
+1706,कास्की,कास्की-1,Nepal Workers and Peasants Party,16,42,59.84752590739891
+1707,कास्की,कास्की-1,Independent,5,46,58.81378646417016
+1708,कास्की,कास्की-2,Nepal Communist Party (UML),16998,49,54.854410361461134
+1709,कास्की,कास्की-2,Rastriya Swatantra Party,12495,53,57.79439035858273
+1710,कास्की,कास्की-2,Nepal Communist Party (Unified Socialist),9659,54,61.96878670162153
+1711,कास्की,कास्की-2,Rastriya Prajatantra Party,3993,32,59.47319309626391
+1712,कास्की,कास्की-2,Independent,1340,66,62.02057835653491
+1713,कास्की,कास्की-2,Independent,915,34,55.29587966828258
+1714,कास्की,कास्की-2,Hamro Nepali Party,762,36,59.05018417180824
+1715,कास्की,कास्की-2,"Janata Samajwadi Party, Nepal",357,61,58.250594791364406
+1716,कास्की,कास्की-2,Mongol National Organization,259,53,58.26908052067889
+1717,कास्की,कास्की-2,Janamat Party,139,52,57.71752606151969
+1718,कास्की,कास्की-2,Independent,75,78,55.373012087671576
+1719,कास्की,कास्की-2,Amul Parivartan Masiha Party Nepal,65,43,58.10756485201789
+1720,कास्की,कास्की-2,Federal Democratic National Front,33,30,50.63270171081018
+1721,कास्की,कास्की-2,Nepal Workers and Peasants Party,26,55,55.12563629709789
+1722,कास्की,कास्की-2,Rastriya Janamukti Party,24,49,56.57487304506748
+1723,कास्की,कास्की-2,Independent,12,32,56.90091483090769
+1724,कास्की,कास्की-2,Independent,4,35,54.90755714594248
+1725,कास्की,कास्की-3,Nepal Communist Party (UML),22980,56,58.96772253964103
+1726,कास्की,कास्की-3,Nepal Communist Party (Maoist Center) (Unified Symbol),17535,56,52.71172892390052
+1727,कास्की,कास्की-3,Rastriya Swatantra Party,12180,41,53.58446595182376
+1728,कास्की,कास्की-3,Rastriya Prajatantra Party,2442,67,59.48847853320518
+1729,कास्की,कास्की-3,Independent,865,50,53.47166502262563
+1730,कास्की,कास्की-3,"Janata Samajwadi Party, Nepal",535,58,53.01714215247813
+1731,कास्की,कास्की-3,Hamro Nepali Party,451,33,60.246498952632976
+1732,कास्की,कास्की-3,Mongol National Organization,366,37,60.13859813646847
+1733,कास्की,कास्की-3,Independent,238,36,53.88996701476894
+1734,कास्की,कास्की-3,Independent,210,61,60.4663124772414
+1735,कास्की,कास्की-3,Independent,180,50,61.64164361801969
+1736,कास्की,कास्की-3,Independent,24,52,57.219098598671046
+1737,कास्की,कास्की-3,Nepal Workers and Peasants Party,19,45,59.53147740829762
+1738,कास्की,कास्की-3,Independent,16,84,57.995921641438656
+1739,कास्की,कास्की-3,Independent,10,38,60.8245759139914
+1740,Tanahun,Tanahun-1,Nepali Congress,25361,78,57.46347013758108
+1741,Tanahun,Tanahun-1,Nepal Communist Party (UML),19981,63,59.09679955054329
+1742,Tanahun,Tanahun-1,Independent,6886,73,56.02269076359845
+1743,Tanahun,Tanahun-1,Rastriya Swatantra Party,6044,30,54.425764726703335
+1744,Tanahun,Tanahun-1,Rastriya Prajatantra Party,2484,39,57.87380364277264
+1745,Tanahun,Tanahun-1,Mongol National Organization,360,41,53.8889460414876
+1746,Tanahun,Tanahun-1,Rastriya Janamukti Party,301,70,52.28527040682239
+1747,Tanahun,Tanahun-1,Independent,292,51,58.92979121739078
+1748,Tanahun,Tanahun-1,Hamro Nepali Party,284,31,53.839956224389866
+1749,Tanahun,Tanahun-1,"Janata Samajwadi Party, Nepal",260,35,59.84752590739891
+1750,Tanahun,Tanahun-1,Independent,194,52,58.81378646417016
+1751,Tanahun,Tanahun-1,Independent,105,35,54.854410361461134
+1752,Tanahun,Tanahun-1,Rastriya Prajatantra Party Nepal,92,65,57.79439035858273
+1753,Tanahun,Tanahun-1,Nationalist People's Party,30,37,61.96878670162153
+1754,Tanahun,Tanahun-1,Nepal Workers and Peasants Party,21,54,59.47319309626391
+1755,Tanahun,Tanahun-2,Nepali Congress,30604,54,62.02057835653491
+1756,Tanahun,Tanahun-2,Nepal Communist Party (UML),25130,61,55.29587966828258
+1757,Tanahun,Tanahun-2,Rastriya Swatantra Party,5373,36,59.05018417180824
+1758,Tanahun,Tanahun-2,Rastriya Prajatantra Party,1421,64,58.250594791364406
+1759,Tanahun,Tanahun-2,Hamro Nepali Party,582,36,58.26908052067889
+1760,Tanahun,Tanahun-2,Mongol National Organization,566,36,57.71752606151969
+1761,Tanahun,Tanahun-2,Rastriya Janamukti Party,418,37,55.373012087671576
+1762,Tanahun,Tanahun-2,Janasamajwadi Party Nepal,84,50,58.10756485201789
+1763,Tanahun,Tanahun-2,Nepali Congress (BP),34,57,50.63270171081018
+1764,Tanahun,Tanahun-2,Nepal Workers and Peasants Party,24,57,55.12563629709789
+1765,Syangja,Syangja-1,Nepali Congress,31999,43,56.57487304506748
+1766,Syangja,Syangja-1,Nepal Communist Party (UML),28744,54,56.90091483090769
+1767,Syangja,Syangja-1,Rastriya Swatantra Party,6065,32,54.90755714594248
+1768,Syangja,Syangja-1,Rastriya Prajatantra Party,684,50,58.96772253964103
+1769,Syangja,Syangja-1,Mongol National Organization,576,39,52.71172892390052
+1770,Syangja,Syangja-1,Hamro Nepali Party,175,55,53.58446595182376
+1771,Syangja,Syangja-1,Independent,121,70,59.48847853320518
+1772,Syangja,Syangja-1,Maulik Jarokilo Party,104,44,53.47166502262563
+1773,Syangja,Syangja-1,Janasamajwadi Party Nepal,50,30,53.01714215247813
+1774,Syangja,Syangja-1,Nepal Communist Party Maoist Socialist,33,56,60.246498952632976
+1775,Syangja,Syangja-1,Rastriya Janamukti Party,26,65,60.13859813646847
+1776,Syangja,Syangja-1,Nepali Congress (BP),17,67,53.88996701476894
+1777,Syangja,Syangja-2,Nepali Congress,31466,55,60.4663124772414
+1778,Syangja,Syangja-2,Nepal Communist Party (UML),25839,53,61.64164361801969
+1779,Syangja,Syangja-2,Rastriya Swatantra Party,8113,53,57.219098598671046
+1780,Syangja,Syangja-2,Rastriya Prajatantra Party,884,76,59.53147740829762
+1781,Syangja,Syangja-2,Mongol National Organization,654,57,57.995921641438656
+1782,Syangja,Syangja-2,Rastriya Janamukti Party,335,38,60.8245759139914
+1783,Syangja,Syangja-2,Unified Shakti Nepal,154,53,57.46347013758108
+1784,Syangja,Syangja-2,Independent,129,36,59.09679955054329
+1785,Syangja,Syangja-2,Nepali Congress (BP),26,52,56.02269076359845
+1786,Syangja,Syangja-2,Nepal Communist Party Marxist (Pushpalal),20,65,54.425764726703335
+1787,Syangja,Syangja-2,Independent,19,54,57.87380364277264
+1788,Syangja,Syangja-2,Independent,18,71,53.8889460414876
+1789,गुल्मी,गुल्मी-1,Nepali Congress,33744,61,52.28527040682239
+1790,गुल्मी,गुल्मी-1,Nepal Communist Party (UML),32152,61,58.92979121739078
+1791,गुल्मी,गुल्मी-1,Rastriya Swatantra Party,1882,44,53.839956224389866
+1792,गुल्मी,गुल्मी-1,Rastriya Prajatantra Party,354,31,59.84752590739891
+1793,गुल्मी,गुल्मी-1,Mongol National Organization,265,36,58.81378646417016
+1794,गुल्मी,गुल्मी-1,Hamro Nepali Party,174,52,54.854410361461134
+1795,गुल्मी,गुल्मी-1,Rastriya Janamukti Party,54,44,57.79439035858273
+1796,गुल्मी,गुल्मी-1,Nepal Workers and Peasants Party,32,31,61.96878670162153
+1797,गुल्मी,गुल्मी-1,Independent,5,36,59.47319309626391
+1798,गुल्मी,गुल्मी-1,Independent,2,27,62.02057835653491
+1799,गुल्मी,गुल्मी-2,Nepal Communist Party (UML),28476,57,55.29587966828258
+1800,गुल्मी,गुल्मी-2,Nepal Communist Party (Unified Socialist),26441,44,59.05018417180824
+1801,गुल्मी,गुल्मी-2,Independent,504,36,58.250594791364406
+1802,गुल्मी,गुल्मी-2,Rastriya Prajatantra Party,434,48,58.26908052067889
+1803,गुल्मी,गुल्मी-2,Rastriya Prajatantra Party Nepal,313,57,57.71752606151969
+1804,गुल्मी,गुल्मी-2,Hamro Nepali Party,173,50,55.373012087671576
+1805,गुल्मी,गुल्मी-2,Independent,135,26,58.10756485201789
+1806,गुल्मी,गुल्मी-2,Mongol National Organization,76,45,50.63270171081018
+1807,गुल्मी,गुल्मी-2,Independent,15,28,55.12563629709789
+1808,गुल्मी,गुल्मी-2,Independent,12,62,56.57487304506748
+1809,गुल्मी,गुल्मी-2,Independent,8,30,56.90091483090769
+1810,गुल्मी,गुल्मी-2,Independent,4,27,54.90755714594248
+1811,गुल्मी,गुल्मी-2,Independent,2,49,58.96772253964103
+1812,पाल्पा,पाल्पा-1,Nepal Communist Party (UML),31103,52,52.71172892390052
+1813,पाल्पा,पाल्पा-1,Nepali Congress,20256,49,53.58446595182376
+1814,पाल्पा,पाल्पा-1,Independent,2863,29,59.48847853320518
+1815,पाल्पा,पाल्पा-1,Mongol National Organization,2045,36,53.47166502262563
+1816,पाल्पा,पाल्पा-1,Rastriya Prajatantra Party,258,63,53.01714215247813
+1817,पाल्पा,पाल्पा-1,Rastriya Janamukti Party,121,45,60.246498952632976
+1818,पाल्पा,पाल्पा-1,"Janata Samajwadi Party, Nepal",87,39,60.13859813646847
+1819,पाल्पा,पाल्पा-1,Independent,68,33,53.88996701476894
+1820,पाल्पा,पाल्पा-1,Independent,27,35,60.4663124772414
+1821,पाल्पा,पाल्पा-1,Independent,10,51,61.64164361801969
+1822,पाल्पा,पाल्पा-2,Nepal Communist Party (UML),28645,54,57.219098598671046
+1823,पाल्पा,पाल्पा-2,Nepal Communist Party (Unified Socialist),24899,67,59.53147740829762
+1824,पाल्पा,पाल्पा-2,Rastriya Swatantra Party,5349,29,57.995921641438656
+1825,पाल्पा,पाल्पा-2,Mongol National Organization,1604,48,60.8245759139914
+1826,पाल्पा,पाल्पा-2,Rastriya Janamukti Party,517,62,57.46347013758108
+1827,पाल्पा,पाल्पा-2,Independent,513,33,59.09679955054329
+1828,पाल्पा,पाल्पा-2,Rastriya Prajatantra Party Nepal,215,45,56.02269076359845
+1829,पाल्पा,पाल्पा-2,Janasamajwadi Party Nepal,117,45,54.425764726703335
+1830,पाल्पा,पाल्पा-2,"Janata Samajwadi Party, Nepal",112,54,57.87380364277264
+1831,पाल्पा,पाल्पा-2,Nepal Ama Party (Unified Symbol),102,59,53.8889460414876
+1832,पाल्पा,पाल्पा-2,Independent,90,50,52.28527040682239
+1833,पाल्पा,पाल्पा-2,Nepal Workers and Peasants Party,36,46,58.92979121739078
+1834,पाल्पा,पाल्पा-2,Independent,7,37,53.839956224389866
+1835,Arghakhanchi,Arghakhanchi-1,Nepal Communist Party (UML),42675,60,59.84752590739891
+1836,Arghakhanchi,Arghakhanchi-1,Nepali Congress,40945,61,58.81378646417016
+1837,Arghakhanchi,Arghakhanchi-1,Rastriya Swatantra Party,3200,33,54.854410361461134
+1838,Arghakhanchi,Arghakhanchi-1,Rastriya Prajatantra Party,408,48,57.79439035858273
+1839,Arghakhanchi,Arghakhanchi-1,"Janata Samajwadi Party, Nepal",163,45,61.96878670162153
+1840,Arghakhanchi,Arghakhanchi-1,Hamro Nepali Party,116,35,59.47319309626391
+1841,Arghakhanchi,Arghakhanchi-1,Mongol National Organization,97,51,62.02057835653491
+1842,Arghakhanchi,Arghakhanchi-1,Janasamajwadi Party Nepal,81,33,55.29587966828258
+1843,Arghakhanchi,Arghakhanchi-1,Nepal Workers and Peasants Party,58,34,59.05018417180824
+1844,Arghakhanchi,Arghakhanchi-1,Rastriya Janamukti Party,40,52,58.250594791364406
+1845,Arghakhanchi,Arghakhanchi-1,Rastriya Prajatantra Party Nepal,26,52,58.26908052067889
+1846,Nawalparasi East,Nawalparasi East-1,Nepali Congress,27067,64,57.71752606151969
+1847,Nawalparasi East,Nawalparasi East-1,Nepal Communist Party (UML),25047,58,55.373012087671576
+1848,Nawalparasi East,Nawalparasi East-1,Rastriya Swatantra Party,24305,36,58.10756485201789
+1849,Nawalparasi East,Nawalparasi East-1,Rastriya Prajatantra Party,3469,71,50.63270171081018
+1850,Nawalparasi East,Nawalparasi East-1,Mongol National Organization,661,40,55.12563629709789
+1851,Nawalparasi East,Nawalparasi East-1,Rastriya Janamukti Party,554,64,56.57487304506748
+1852,Nawalparasi East,Nawalparasi East-1,Hamro Nepali Party,423,43,56.90091483090769
+1853,Nawalparasi East,Nawalparasi East-1,Nagarik Unmukti Party,315,50,54.90755714594248
+1854,Nawalparasi East,Nawalparasi East-1,Independent,276,41,58.96772253964103
+1855,Nawalparasi East,Nawalparasi East-1,"Janata Samajwadi Party, Nepal",215,38,52.71172892390052
+1856,Nawalparasi East,Nawalparasi East-1,Independent,106,38,53.58446595182376
+1857,Nawalparasi East,Nawalparasi East-1,Nepal for Nepali Party,99,43,59.48847853320518
+1858,Nawalparasi East,Nawalparasi East-1,Independent,15,39,53.47166502262563
+1859,Nawalparasi East,Nawalparasi East-1,Independent,9,46,53.01714215247813
+1860,Nawalparasi East,Nawalparasi East-1,Independent,6,51,60.246498952632976
+1861,Nawalparasi East,Nawalparasi East-2,Nepali Congress,36132,59,60.13859813646847
+1862,Nawalparasi East,Nawalparasi East-2,Nepal Communist Party (UML),34110,58,53.88996701476894
+1863,Nawalparasi East,Nawalparasi East-2,Rastriya Swatantra Party,6449,36,60.4663124772414
+1864,Nawalparasi East,Nawalparasi East-2,Rastriya Prajatantra Party,3246,62,61.64164361801969
+1865,Nawalparasi East,Nawalparasi East-2,Rastriya Janamukti Party,601,63,57.219098598671046
+1866,Nawalparasi East,Nawalparasi East-2,Hamro Nepali Party,366,34,59.53147740829762
+1867,Nawalparasi East,Nawalparasi East-2,Nagarik Unmukti Party,365,46,57.995921641438656
+1868,Nawalparasi East,Nawalparasi East-2,Mongol National Organization,251,29,60.8245759139914
+1869,Nawalparasi East,Nawalparasi East-2,Nepal Democratic Party,48,47,57.46347013758108
+1870,Nawalparasi East,Nawalparasi East-2,Independent,46,44,59.09679955054329
+1871,Nawalparasi East,Nawalparasi East-2,Independent,8,38,56.02269076359845
+1872,Nawalparasi East,Nawalparasi East-2,Independent,4,62,54.425764726703335
+1873,Rupandehi,Rupandehi-1,Nepal Communist Party (UML),24882,59,57.87380364277264
+1874,Rupandehi,Rupandehi-1,Independent,21318,61,53.8889460414876
+1875,Rupandehi,Rupandehi-1,Rastriya Swatantra Party,14145,47,52.28527040682239
+1876,Rupandehi,Rupandehi-1,Nagarik Unmukti Party,13962,53,58.92979121739078
+1877,Rupandehi,Rupandehi-1,Janamat Party,5169,56,53.839956224389866
+1878,Rupandehi,Rupandehi-1,Independent,3489,52,59.84752590739891
+1879,Rupandehi,Rupandehi-1,Independent,1713,63,58.81378646417016
+1880,Rupandehi,Rupandehi-1,Rastriya Janamukti Party,1397,44,54.854410361461134
+1881,Rupandehi,Rupandehi-1,Hamro Nepali Party,1097,29,57.79439035858273
+1882,Rupandehi,Rupandehi-1,Mongol National Organization,1072,57,61.96878670162153
+1883,Rupandehi,Rupandehi-1,Independent,455,30,59.47319309626391
+1884,Rupandehi,Rupandehi-1,Rastriya Prajatantra Party Nepal,427,35,62.02057835653491
+1885,Rupandehi,Rupandehi-1,Independent,259,57,55.29587966828258
+1886,Rupandehi,Rupandehi-1,Independent,244,35,59.05018417180824
+1887,Rupandehi,Rupandehi-1,Independent,159,41,58.250594791364406
+1888,Rupandehi,Rupandehi-1,Independent,149,48,58.26908052067889
+1889,Rupandehi,Rupandehi-1,Independent,100,74,57.71752606151969
+1890,Rupandehi,Rupandehi-1,Nepal Workers and Peasants Party,80,50,55.373012087671576
+1891,Rupandehi,Rupandehi-1,Independent,54,27,58.10756485201789
+1892,Rupandehi,Rupandehi-1,Independent,33,32,50.63270171081018
+1893,Rupandehi,Rupandehi-1,Independent,23,49,55.12563629709789
+1894,Rupandehi,Rupandehi-2,Nepal Communist Party (UML),27165,62,56.57487304506748
+1895,Rupandehi,Rupandehi-2,Rastriya Swatantra Party,25795,27,56.90091483090769
+1896,Rupandehi,Rupandehi-2,Rastriya Janamukti Party,22027,52,54.90755714594248
+1897,Rupandehi,Rupandehi-2,Independent,1029,62,58.96772253964103
+1898,Rupandehi,Rupandehi-2,Independent,488,39,52.71172892390052
+1899,Rupandehi,Rupandehi-2,Mongol National Organization,319,38,53.58446595182376
+1900,Rupandehi,Rupandehi-2,Nepal Workers and Peasants Party,263,41,59.48847853320518
+1901,Rupandehi,Rupandehi-2,Nepali Congress (BP),148,48,53.47166502262563
+1902,Rupandehi,Rupandehi-2,Nepal Dalit Party (Unified Symbol),123,43,53.01714215247813
+1903,Rupandehi,Rupandehi-2,Independent,38,30,60.246498952632976
+1904,Rupandehi,Rupandehi-2,Independent,29,45,60.13859813646847
+1905,Rupandehi,Rupandehi-2,Independent,24,38,53.88996701476894
+1906,Rupandehi,Rupandehi-2,Independent,23,26,60.4663124772414
+1907,Rupandehi,Rupandehi-2,Independent,19,40,61.64164361801969
+1908,Rupandehi,Rupandehi-2,Independent,18,45,57.219098598671046
+1909,Rupandehi,Rupandehi-3,Rastriya Prajatantra Party,36717,71,59.53147740829762
+1910,Rupandehi,Rupandehi-3,Nepali Congress,34036,62,57.995921641438656
+1911,Rupandehi,Rupandehi-3,Rastriya Swatantra Party,5796,40,60.8245759139914
+1912,Rupandehi,Rupandehi-3,Nagarik Unmukti Party,4751,37,57.46347013758108
+1913,Rupandehi,Rupandehi-3,Janamat Party,3317,43,59.09679955054329
+1914,Rupandehi,Rupandehi-3,Hamro Nepali Party,1384,47,56.02269076359845
+1915,Rupandehi,Rupandehi-3,Independent,1056,60,54.425764726703335
+1916,Rupandehi,Rupandehi-3,Rastriya Janamukti Party,551,38,57.87380364277264
+1917,Rupandehi,Rupandehi-3,Mongol National Organization,219,42,53.8889460414876
+1918,Rupandehi,Rupandehi-3,Rastriya Prajatantra Party Nepal,141,43,52.28527040682239
+1919,Rupandehi,Rupandehi-3,Nepal Workers and Peasants Party,56,34,58.92979121739078
+1920,Rupandehi,Rupandehi-3,Independent,34,45,53.839956224389866
+1921,Rupandehi,Rupandehi-3,Independent,32,32,59.84752590739891
+1922,Rupandehi,Rupandehi-3,Independent,20,26,58.81378646417016
+1923,Rupandehi,Rupandehi-3,Independent,17,36,54.854410361461134
+1924,Rupandehi,Rupandehi-3,Gandhiwadi Party Nepal,15,38,57.79439035858273
+1925,Rupandehi,Rupandehi-3,Independent,14,49,61.96878670162153
+1926,Rupandehi,Rupandehi-3,Independent,14,40,59.47319309626391
+1927,Rupandehi,Rupandehi-3,Independent,13,40,62.02057835653491
+1928,Rupandehi,Rupandehi-3,Independent,11,53,55.29587966828258
+1929,Rupandehi,Rupandehi-3,Independent,10,41,59.05018417180824
+1930,Rupandehi,Rupandehi-3,Independent,8,45,58.250594791364406
+1931,Rupandehi,Rupandehi-4,"Democratic Socialist Party, Nepal",28000,72,58.26908052067889
+1932,Rupandehi,Rupandehi-4,Nepali Congress,22704,43,57.71752606151969
+1933,Rupandehi,Rupandehi-4,Janamat Party,15526,37,55.373012087671576
+1934,Rupandehi,Rupandehi-4,"Janata Samajwadi Party, Nepal",2623,42,58.10756485201789
+1935,Rupandehi,Rupandehi-4,Nepal Janata Party,1086,46,50.63270171081018
+1936,Rupandehi,Rupandehi-4,Nagarik Unmukti Party,465,42,55.12563629709789
+1937,Rupandehi,Rupandehi-4,Rastriya Janamukti Party,199,50,56.57487304506748
+1938,Rupandehi,Rupandehi-4,Independent,114,66,56.90091483090769
+1939,Rupandehi,Rupandehi-4,Independent,70,38,54.90755714594248
+1940,Rupandehi,Rupandehi-4,Independent,66,31,58.96772253964103
+1941,Rupandehi,Rupandehi-4,Independent,62,69,52.71172892390052
+1942,Rupandehi,Rupandehi-4,Mongol National Organization,53,51,53.58446595182376
+1943,Rupandehi,Rupandehi-4,Independent,34,38,59.48847853320518
+1944,Rupandehi,Rupandehi-5,Nepal Communist Party (UML),36822,54,53.47166502262563
+1945,Rupandehi,Rupandehi-5,Nepali Congress,27120,68,53.01714215247813
+1946,Rupandehi,Rupandehi-5,Janamat Party,8390,38,60.246498952632976
+1947,Rupandehi,Rupandehi-5,Hamro Nepali Party,5876,46,60.13859813646847
+1948,Rupandehi,Rupandehi-5,Independent,536,59,53.88996701476894
+1949,Rupandehi,Rupandehi-5,Rastriya Janamukti Party,411,57,60.4663124772414
+1950,Rupandehi,Rupandehi-5,Mongol National Organization,343,36,61.64164361801969
+1951,Rupandehi,Rupandehi-5,Independent,337,29,57.219098598671046
+1952,Rupandehi,Rupandehi-5,Independent,146,56,59.53147740829762
+1953,Rupandehi,Rupandehi-5,Janasamajwadi Party Nepal,118,56,57.995921641438656
+1954,Rupandehi,Rupandehi-5,Nepal Workers and Peasants Party,117,34,60.8245759139914
+1955,Rupandehi,Rupandehi-5,Independent,99,55,57.46347013758108
+1956,Rupandehi,Rupandehi-5,Independent,98,47,59.09679955054329
+1957,Rupandehi,Rupandehi-5,Independent,28,65,56.02269076359845
+1958,Rupandehi,Rupandehi-5,Independent,27,54,54.425764726703335
+1959,Rupandehi,Rupandehi-5,Independent,26,56,57.87380364277264
+1960,Rupandehi,Rupandehi-5,Independent,10,37,53.8889460414876
+1961,कपिलवस्तु,कपिलवस्तु-1,Nepal Communist Party (UML),34675,62,52.28527040682239
+1962,कपिलवस्तु,कपिलवस्तु-1,Nepal Communist Party (Maoist Center) (Unified Symbol),18983,60,58.92979121739078
+1963,कपिलवस्तु,कपिलवस्तु-1,Janamat Party,8396,52,53.839956224389866
+1964,कपिलवस्तु,कपिलवस्तु-1,Nagarik Unmukti Party,6075,53,59.84752590739891
+1965,कपिलवस्तु,कपिलवस्तु-1,Rastriya Prajatantra Party,4341,47,58.81378646417016
+1966,कपिलवस्तु,कपिलवस्तु-1,Rastriya Swatantra Party,3376,48,54.854410361461134
+1967,कपिलवस्तु,कपिलवस्तु-1,Hamro Nepali Party,2508,26,57.79439035858273
+1968,कपिलवस्तु,कपिलवस्तु-1,Bahujan Shakti Party,2248,64,61.96878670162153
+1969,कपिलवस्तु,कपिलवस्तु-1,Independent,2217,62,59.47319309626391
+1970,कपिलवस्तु,कपिलवस्तु-1,Nepal Communist Party (Marxist-Leninist),1093,75,62.02057835653491
+1971,कपिलवस्तु,कपिलवस्तु-1,"Democratic Socialist Party, Nepal",558,64,55.29587966828258
+1972,कपिलवस्तु,कपिलवस्तु-1,"Janata Pragatisheel Party, Nepal",522,39,59.05018417180824
+1973,कपिलवस्तु,कपिलवस्तु-1,Rastriya Prajatantra Party Nepal,468,36,58.250594791364406
+1974,कपिलवस्तु,कपिलवस्तु-1,Rastriya Janamukti Party,458,43,58.26908052067889
+1975,कपिलवस्तु,कपिलवस्तु-1,Independent,251,35,57.71752606151969
+1976,कपिलवस्तु,कपिलवस्तु-1,Mongol National Organization,132,51,55.373012087671576
+1977,कपिलवस्तु,कपिलवस्तु-1,Nepal Workers and Peasants Party,119,37,58.10756485201789
+1978,कपिलवस्तु,कपिलवस्तु-1,Unified Shakti Nepal,76,38,50.63270171081018
+1979,कपिलवस्तु,कपिलवस्तु-1,Nepal Federal Socialist Party,21,30,55.12563629709789
+1980,कपिलवस्तु,कपिलवस्तु-1,Independent,19,30,56.57487304506748
+1981,कपिलवस्तु,कपिलवस्तु-1,Independent,13,44,56.90091483090769
+1982,कपिलवस्तु,कपिलवस्तु-2,Nepali Congress,39014,64,54.90755714594248
+1983,कपिलवस्तु,कपिलवस्तु-2,Nepal Communist Party (UML),38697,51,58.96772253964103
+1984,कपिलवस्तु,कपिलवस्तु-2,Rastriya Prajatantra Party,1574,30,52.71172892390052
+1985,कपिलवस्तु,कपिलवस्तु-2,"Democratic Socialist Party, Nepal",1123,62,53.58446595182376
+1986,कपिलवस्तु,कपिलवस्तु-2,Nepal for Nepali Party,128,51,59.48847853320518
+1987,कपिलवस्तु,कपिलवस्तु-2,Mongol National Organization,107,77,53.47166502262563
+1988,कपिलवस्तु,कपिलवस्तु-2,Independent,34,45,53.01714215247813
+1989,कपिलवस्तु,कपिलवस्तु-2,Independent,26,29,60.246498952632976
+1990,कपिलवस्तु,कपिलवस्तु-2,Independent,11,59,60.13859813646847
+1991,कपिलवस्तु,कपिलवस्तु-2,Independent,9,38,53.88996701476894
+1992,कपिलवस्तु,कपिलवस्तु-2,Independent,7,29,60.4663124772414
+1993,कपिलवस्तु,कपिलवस्तु-3,Nepal Communist Party (UML),22619,77,61.64164361801969
+1994,कपिलवस्तु,कपिलवस्तु-3,Nepali Congress,18983,40,57.219098598671046
+1995,कपिलवस्तु,कपिलवस्तु-3,Rastriya Prajatantra Party,14030,49,59.53147740829762
+1996,कपिलवस्तु,कपिलवस्तु-3,"Janata Pragatisheel Party, Nepal",12557,56,57.995921641438656
+1997,कपिलवस्तु,कपिलवस्तु-3,Janamat Party,2245,70,60.8245759139914
+1998,कपिलवस्तु,कपिलवस्तु-3,Rastriya Swatantra Party,1056,29,57.46347013758108
+1999,कपिलवस्तु,कपिलवस्तु-3,Bahujan Shakti Party,565,45,59.09679955054329
+2000,कपिलवस्तु,कपिलवस्तु-3,Mongol National Organization,224,79,56.02269076359845
+2001,कपिलवस्तु,कपिलवस्तु-3,Maulik Jarokilo Party,169,32,54.425764726703335
+2002,कपिलवस्तु,कपिलवस्तु-3,Nepal Janata Party,136,58,57.87380364277264
+2003,कपिलवस्तु,कपिलवस्तु-3,Independent,53,50,53.8889460414876
+2004,कपिलवस्तु,कपिलवस्तु-3,Independent,46,49,52.28527040682239
+2005,कपिलवस्तु,कपिलवस्तु-3,Independent,26,55,58.92979121739078
+2006,कपिलवस्तु,कपिलवस्तु-3,Independent,22,38,57.65
+2007,कपिलवस्तु,कपिलवस्तु-3,Independent,15,42,57.65
+2008,कपिलवस्तु,कपिलवस्तु-3,Independent,11,47,57.65
+2009,कपिलवस्तु,कपिलवस्तु-3,Independent,9,45,57.65
+2010,कपिलवस्तु,कपिलवस्तु-3,Independent,8,57,57.65
+2011,Mustang,Mustang-1,Nepali Congress,3992,29,57.65
+2012,Mustang,Mustang-1,Nepal Communist Party (UML),3078,60,57.65
+2013,Mustang,Mustang-1,Rastriya Swatantra Party,87,25,57.65
+2014,Mustang,Mustang-1,Rastriya Prajatantra Party Nepal,13,58,57.65
+2015,म्याग्दी,म्याग्दी-1,Nepali Congress,24021,57,57.65
+2016,म्याग्दी,म्याग्दी-1,Nepal Communist Party (UML),20189,57,57.65
+2017,म्याग्दी,म्याग्दी-1,Rastriya Swatantra Party,1424,37,57.65
+2018,म्याग्दी,म्याग्दी-1,Rastriya Prajatantra Party,975,66,57.65
+2019,म्याग्दी,म्याग्दी-1,Mongol National Organization,768,31,57.65
+2020,म्याग्दी,म्याग्दी-1,Independent,112,58,57.65
+2021,म्याग्दी,म्याग्दी-1,Nationalist People's Party,53,28,57.65
+2022,म्याग्दी,म्याग्दी-1,Independent,37,31,57.65
+2023,म्याग्दी,म्याग्दी-1,Independent,35,47,57.65
+2024,बागलुङ,बागलुङ-1,Rastriya Janamorcha,21464,80,56.57
+2025,बागलुङ,बागलुङ-1,Nepal Communist Party (UML),18845,46,56.57
+2026,बागलुङ,बागलुङ-1,Rastriya Swatantra Party,9191,42,56.57
+2027,बागलुङ,बागलुङ-1,Rastriya Prajatantra Party,904,52,56.57
+2028,बागलुङ,बागलुङ-1,Independent,194,46,56.57
+2029,बागलुङ,बागलुङ-1,Nepali Congress (BP),125,61,56.57
+2030,बागलुङ,बागलुङ-2,Nepal Communist Party (Maoist Center) (Unified Symbol),24794,57,56.57
+2031,बागलुङ,बागलुङ-2,Nepal Communist Party (UML),20193,48,56.57
+2032,बागलुङ,बागलुङ-2,Rastriya Swatantra Party,2327,41,56.57
+2033,बागलुङ,बागलुङ-2,Independent,407,56,56.57
+2034,बागलुङ,बागलुङ-2,Nepal Dalit Party (Unified Symbol),223,55,56.57
+2035,बागलुङ,बागलुङ-2,Rastriya Janamukti Party,109,59,56.57
+2036,बागलुङ,बागलुङ-2,Independent,37,56,56.57
+2037,पर्वत,पर्वत-1,Nepal Communist Party (UML),29872,45,56.57
+2038,पर्वत,पर्वत-1,Nepali Congress,27609,66,56.57
+2039,पर्वत,पर्वत-1,Rastriya Swatantra Party,4173,33,56.57
+2040,पर्वत,पर्वत-1,Rastriya Prajatantra Party,1034,42,56.57
+2041,पर्वत,पर्वत-1,Independent,271,46,56.57
+2042,पर्वत,पर्वत-1,Mongol National Organization,233,37,56.92
+2043,पर्वत,पर्वत-1,Nepal Sushasan Party (Unified Symbol),175,66,56.92
+2044,पर्वत,पर्वत-1,Nepali Congress (BP),128,38,56.92
+2045,पर्वत,पर्वत-1,Rastriya Janamukti Party,120,72,56.92
+2046,पर्वत,पर्वत-1,Rastriya Prajatantra Party Nepal,75,63,56.92
+2047,पर्वत,पर्वत-1,Independent,22,39,56.92
+2048,पर्वत,पर्वत-1,Independent,4,31,56.92
+2049,Rukum East,Rukum East-1,Nepal Communist Party (Maoist Center) (Unified Symbol),12262,55,56.92
+2050,Rukum East,Rukum East-1,Nepal Communist Party (UML),5211,47,56.92
+2051,Rukum East,Rukum East-1,Independent,896,44,56.92
+2052,Rukum East,Rukum East-1,Rastriya Prajatantra Party,586,61,56.92
+2053,Rukum East,Rukum East-1,Mongol National Organization,464,65,56.92
+2054,Rukum East,Rukum East-1,Nationalist People's Party,303,51,56.92
+2055,रोल्पा,रोल्पा-1,Nepal Communist Party (Maoist Center) (Unified Symbol),41714,51,56.92
+2056,रोल्पा,रोल्पा-1,Nepal Communist Party (UML),16485,36,56.92
+2057,रोल्पा,रोल्पा-1,Rastriya Prajatantra Party,2556,38,56.92
+2058,रोल्पा,रोल्पा-1,Rastriya Prajatantra Party Nepal,803,64,56.92
+2059,रोल्पा,रोल्पा-1,Nepal Workers and Peasants Party,152,56,56.92
+2060,Pyuthan,Pyuthan-1,Nepal Communist Party (UML),41118,48,56.92
+2061,Pyuthan,Pyuthan-1,Rastriya Janamorcha,35814,51,56.92
+2062,Pyuthan,Pyuthan-1,Rastriya Swatantra Party,3318,64,56.92
+2063,Pyuthan,Pyuthan-1,Rastriya Prajatantra Party,1472,49,56.92
+2064,Pyuthan,Pyuthan-1,Nepal Communist Party (Marxist-Leninist),1121,52,56.92
+2065,Pyuthan,Pyuthan-1,Mongol National Organization,263,46,56.92
+2066,Pyuthan,Pyuthan-1,Independent,177,34,56.92
+2067,सल्यान,सल्यान-1,Nepal Communist Party (Unified Socialist),35707,55,57.543963231519214
+2068,सल्यान,सल्यान-1,Independent,19792,70,52.52705651910061
+2069,सल्यान,सल्यान-1,Nepal Communist Party (UML),13039,63,51.76328030071933
+2070,सल्यान,सल्यान-1,Rastriya Swatantra Party,3695,42,51.04127166114526
+2071,सल्यान,सल्यान-1,Rastriya Prajatantra Party,2293,66,55.32671309243409
+2072,सल्यान,सल्यान-1,Nepal Communist Party (Marxist-Leninist),1597,47,57.722119978491
+2073,सल्यान,सल्यान-1,Independent,205,26,48.46278763342202
+2074,दाङ,दाङ-1,Nepal Communist Party (Unified Socialist),26576,49,58.04402608076479
+2075,दाङ,दाङ-1,Nepal Communist Party (UML),21493,43,57.543963231519214
+2076,दाङ,दाङ-1,Rastriya Swatantra Party,13798,56,52.52705651910061
+2077,दाङ,दाङ-1,Nagarik Unmukti Party,8019,50,51.76328030071933
+2078,दाङ,दाङ-1,Rastriya Prajatantra Party,1439,49,51.04127166114526
+2079,दाङ,दाङ-1,Hamro Nepali Party,1093,43,55.32671309243409
+2080,दाङ,दाङ-1,Mongol National Organization,583,70,57.722119978491
+2081,दाङ,दाङ-1,Federal Democratic National Front (Tharuhat),293,45,48.46278763342202
+2082,दाङ,दाङ-1,Nepali Congress (BP),199,44,58.04402608076479
+2083,दाङ,दाङ-1,"Democratic Socialist Party, Nepal",134,30,57.543963231519214
+2084,दाङ,दाङ-1,Independent,34,46,52.52705651910061
+2085,दाङ,दाङ-1,Nepal Workers and Peasants Party,26,56,51.76328030071933
+2086,दाङ,दाङ-2,Nepal Communist Party (Maoist Center) (Unified Symbol),26880,53,51.04127166114526
+2087,दाङ,दाङ-2,Nepal Communist Party (UML),26687,59,55.32671309243409
+2088,दाङ,दाङ-2,Rastriya Swatantra Party,15861,29,57.722119978491
+2089,दाङ,दाङ-2,Rastriya Prajatantra Party,2273,61,48.46278763342202
+2090,दाङ,दाङ-2,Mongol National Organization,967,59,58.04402608076479
+2091,दाङ,दाङ-2,Nepal Communist Party (Marxist-Leninist),484,37,57.543963231519214
+2092,दाङ,दाङ-2,Nagarik Unmukti Party,482,41,52.52705651910061
+2093,दाङ,दाङ-2,Hamro Nepali Party,271,47,51.76328030071933
+2094,दाङ,दाङ-2,Nepal Ama Party (Unified Symbol),197,46,51.04127166114526
+2095,दाङ,दाङ-2,Independent,158,49,55.32671309243409
+2096,दाङ,दाङ-2,Nepali Congress (BP),91,64,57.722119978491
+2097,दाङ,दाङ-2,Independent,88,43,48.46278763342202
+2098,दाङ,दाङ-2,Maulik Jarokilo Party,52,36,58.04402608076479
+2099,दाङ,दाङ-2,Nepal Workers and Peasants Party,24,55,57.543963231519214
+2100,दाङ,दाङ-2,Independent,15,42,52.52705651910061
+2101,दाङ,दाङ-3,Nepali Congress,36911,60,51.76328030071933
+2102,दाङ,दाङ-3,Nepal Communist Party (UML),29092,53,51.04127166114526
+2103,दाङ,दाङ-3,Rastriya Swatantra Party,15326,35,55.32671309243409
+2104,दाङ,दाङ-3,Rastriya Prajatantra Party,1536,63,57.722119978491
+2105,दाङ,दाङ-3,Nepal Communist Party (Marxist-Leninist),762,52,48.46278763342202
+2106,दाङ,दाङ-3,Nagarik Unmukti Party,528,30,58.04402608076479
+2107,दाङ,दाङ-3,Mongol National Organization,457,41,57.543963231519214
+2108,दाङ,दाङ-3,"Janata Samajwadi Party, Nepal",193,40,52.52705651910061
+2109,दाङ,दाङ-3,Independent,94,56,51.76328030071933
+2110,दाङ,दाङ-3,Rastriya Janamukti Party,66,67,51.04127166114526
+2111,दाङ,दाङ-3,Independent,60,54,55.32671309243409
+2112,दाङ,दाङ-3,Independent,31,38,57.722119978491
+2113,दाङ,दाङ-3,Nepal Workers and Peasants Party,28,34,48.46278763342202
+2114,दाङ,दाङ-3,Independent,15,49,58.04402608076479
+2115,दाङ,दाङ-3,Independent,8,36,57.543963231519214
+2116,दाङ,दाङ-3,Independent,5,35,52.52705651910061
+2117,डोल्पा,डोल्पा-1,Nepal Communist Party (Unified Socialist),11292,47,51.76328030071933
+2118,डोल्पा,डोल्पा-1,Nepal Communist Party (UML),5505,49,51.04127166114526
+2119,डोल्पा,डोल्पा-1,Rastriya Prajatantra Party,661,50,55.32671309243409
+2120,डोल्पा,डोल्पा-1,Nepal Communist Party Marxist (Pushpalal),53,63,57.722119978491
+2121,डोल्पा,डोल्पा-1,Independent,10,52,48.46278763342202
+2122,मुगु,मुगु-1,Nepali Congress,14706,52,58.04402608076479
+2123,मुगु,मुगु-1,Nepal Communist Party (UML),10710,43,57.543963231519214
+2124,मुगु,मुगु-1,Rastriya Prajatantra Party,299,54,52.52705651910061
+2125,मुगु,मुगु-1,Independent,67,55,51.76328030071933
+2126,मुगु,मुगु-1,Independent,38,72,51.04127166114526
+2127,जुम्ला,जुम्ला-1,Rastriya Prajatantra Party,22819,30,55.32671309243409
+2128,जुम्ला,जुम्ला-1,Nepal Communist Party (Maoist Center) (Unified Symbol),11959,39,57.722119978491
+2129,जुम्ला,जुम्ला-1,Nepal Communist Party (UML),6528,44,48.46278763342202
+2130,जुम्ला,जुम्ला-1,Nepal Workers and Peasants Party,955,61,58.04402608076479
+2131,जुम्ला,जुम्ला-1,Independent,545,57,57.543963231519214
+2132,Kalikot,Kalikot-1,Nepal Communist Party (Maoist Center) (Unified Symbol),23727,45,52.52705651910061
+2133,Kalikot,Kalikot-1,Nepal Communist Party (UML),16718,43,51.76328030071933
+2134,Kalikot,Kalikot-1,Rastriya Prajatantra Party,1593,48,51.04127166114526
+2135,Kalikot,Kalikot-1,Nepal Workers and Peasants Party,1102,35,55.32671309243409
+2136,Kalikot,Kalikot-1,Independent,906,50,57.722119978491
+2137,Kalikot,Kalikot-1,Nepali Congress (BP),138,62,48.46278763342202
+2138,Kalikot,Kalikot-1,Independent,82,59,58.04402608076479
+2139,हुम्ला,हुम्ला-1,Nepal Communist Party (Maoist Center) (Unified Symbol),14371,55,57.543963231519214
+2140,हुम्ला,हुम्ला-1,Nepal Communist Party (UML),9516,51,52.52705651910061
+2141,हुम्ला,हुम्ला-1,Rastriya Prajatantra Party,378,28,51.76328030071933
+2142,Jajarkot,Jajarkot-1,Nepal Communist Party (Maoist Center) (Unified Symbol),34151,53,51.04127166114526
+2143,Jajarkot,Jajarkot-1,Nepal Communist Party (UML),25120,45,55.32671309243409
+2144,Jajarkot,Jajarkot-1,Independent,1191,49,57.722119978491
+2145,Jajarkot,Jajarkot-1,Rastriya Prajatantra Party,738,50,48.46278763342202
+2146,Jajarkot,Jajarkot-1,Rastriya Swatantra Party,295,40,58.04402608076479
+2147,Jajarkot,Jajarkot-1,Nepali Congress (BP),142,64,57.543963231519214
+2148,Dailekh,Dailekh-1,Nepal Communist Party (Unified Socialist),18297,66,52.52705651910061
+2149,Dailekh,Dailekh-1,Nepal Communist Party (UML),17445,58,51.76328030071933
+2150,Dailekh,Dailekh-1,Rastriya Prajatantra Party,4612,45,51.04127166114526
+2151,Dailekh,Dailekh-1,Nepal Workers and Peasants Party,698,30,55.32671309243409
+2152,Dailekh,Dailekh-1,Rastriya Swatantra Party,387,41,57.722119978491
+2153,Dailekh,Dailekh-1,Independent,210,58,48.46278763342202
+2154,Dailekh,Dailekh-1,Independent,106,65,58.04402608076479
+2155,Dailekh,Dailekh-1,Nepali Congress (BP),66,63,57.543963231519214
+2156,Dailekh,Dailekh-2,Nepali Congress,20183,61,52.52705651910061
+2157,Dailekh,Dailekh-2,Nepal Communist Party (UML),20016,60,51.76328030071933
+2158,Dailekh,Dailekh-2,Nepal Workers and Peasants Party,3086,63,51.04127166114526
+2159,Dailekh,Dailekh-2,Rastriya Swatantra Party,713,52,55.32671309243409
+2160,Dailekh,Dailekh-2,Rastriya Prajatantra Party,488,33,57.722119978491
+2161,सुर्खेत,सुर्खेत-1,Nepali Congress,42607,66,48.46278763342202
+2162,सुर्खेत,सुर्खेत-1,Nepal Communist Party (UML),30988,52,58.04402608076479
+2163,सुर्खेत,सुर्खेत-1,Rastriya Swatantra Party,897,32,53.7
+2164,सुर्खेत,सुर्खेत-1,Rastriya Prajatantra Party,653,67,53.7
+2165,सुर्खेत,सुर्खेत-1,"Janata Samajwadi Party, Nepal",350,61,53.7
+2166,सुर्खेत,सुर्खेत-1,Nepal Workers and Peasants Party,59,46,53.7
+2167,सुर्खेत,सुर्खेत-1,Rastriya Prajatantra Party Nepal,32,33,53.7
+2168,सुर्खेत,सुर्खेत-1,Mongol National Organization,29,48,53.7
+2169,सुर्खेत,सुर्खेत-2,Nepali Congress,34625,62,53.7
+2170,सुर्खेत,सुर्खेत-2,Nepal Communist Party (UML),29558,63,53.7
+2171,सुर्खेत,सुर्खेत-2,Rastriya Swatantra Party,4601,44,53.7
+2172,सुर्खेत,सुर्खेत-2,Rastriya Prajatantra Party,2632,39,53.7
+2173,सुर्खेत,सुर्खेत-2,"Janata Samajwadi Party, Nepal",313,60,49.84808715506724
+2174,सुर्खेत,सुर्खेत-2,Nepal Workers and Peasants Party,278,39,47.32551752066236
+2175,सुर्खेत,सुर्खेत-2,Rastriya Prajatantra Party Nepal,264,45,49.30472818709404
+2176,सुर्खेत,सुर्खेत-2,Nepal Communist Party Maoist Socialist,105,45,65.96260214270124
+2177,सुर्खेत,सुर्खेत-2,Nationalist People's Party,50,41,62.91200990002503
+2178,बाँके,बाँके-1,Nepal Communist Party (UML),25026,50,59.62496566264472
+2179,बाँके,बाँके-1,Nepal Communist Party (Maoist Center) (Unified Symbol),19632,51,60.543844153719625
+2180,बाँके,बाँके-1,Nagarik Unmukti Party,11465,53,49.84808715506724
+2181,बाँके,बाँके-1,Rastriya Swatantra Party,10071,42,47.32551752066236
+2182,बाँके,बाँके-1,"Janata Samajwadi Party, Nepal",2693,56,49.30472818709404
+2183,बाँके,बाँके-1,Independent,925,60,65.96260214270124
+2184,बाँके,बाँके-1,"Democratic Socialist Party, Nepal",388,39,62.91200990002503
+2185,बाँके,बाँके-1,Nepal Workers and Peasants Party,257,46,59.62496566264472
+2186,बाँके,बाँके-1,Nepal for Nepali Party,142,66,60.543844153719625
+2187,बाँके,बाँके-1,Nepali Congress (BP),134,32,49.84808715506724
+2188,बाँके,बाँके-1,Nepal Communist Party Maoist Socialist,78,49,47.32551752066236
+2189,बाँके,बाँके-2,Rastriya Prajatantra Party,29577,61,49.30472818709404
+2190,बाँके,बाँके-2,"Janata Samajwadi Party, Nepal",23520,42,65.96260214270124
+2191,बाँके,बाँके-2,Nepali Congress,4403,58,62.91200990002503
+2192,बाँके,बाँके-2,Rastriya Swatantra Party,1333,48,59.62496566264472
+2193,बाँके,बाँके-2,Independent,1289,37,60.543844153719625
+2194,बाँके,बाँके-2,Nepal Communist Party Marxist (Pushpalal),596,74,49.84808715506724
+2195,बाँके,बाँके-2,Independent,528,64,47.32551752066236
+2196,बाँके,बाँके-2,"Democratic Socialist Party, Nepal",512,42,49.30472818709404
+2197,बाँके,बाँके-2,Janamat Party,223,61,65.96260214270124
+2198,बाँके,बाँके-2,Rastriya Prajatantra Party Nepal,207,64,62.91200990002503
+2199,बाँके,बाँके-2,Janasamajwadi Party Nepal,141,73,59.62496566264472
+2200,बाँके,बाँके-2,Independent,133,42,60.543844153719625
+2201,बाँके,बाँके-2,Nepal Workers and Peasants Party,76,46,49.84808715506724
+2202,बाँके,बाँके-2,Independent,26,33,47.32551752066236
+2203,बाँके,बाँके-2,Rastriya Janamukti Party,22,43,49.30472818709404
+2204,बाँके,बाँके-2,Independent,15,27,65.96260214270124
+2205,बाँके,बाँके-3,Nepali Congress,29097,53,62.91200990002503
+2206,बाँके,बाँके-3,Nepal Communist Party (UML),24305,62,59.62496566264472
+2207,बाँके,बाँके-3,Rastriya Swatantra Party,7467,57,60.543844153719625
+2208,बाँके,बाँके-3,"Janata Samajwadi Party, Nepal",4291,31,49.84808715506724
+2209,बाँके,बाँके-3,Janamat Party,2527,38,47.32551752066236
+2210,बाँके,बाँके-3,Nepal Communist Party Marxist (Pushpalal),620,62,49.30472818709404
+2211,बाँके,बाँके-3,"Democratic Socialist Party, Nepal",331,68,65.96260214270124
+2212,बाँके,बाँके-3,Nepali Congress (BP),263,73,62.91200990002503
+2213,बाँके,बाँके-3,Nepal Workers and Peasants Party,173,36,59.62496566264472
+2214,बर्दिया,बर्दिया-1,Nepali Congress,30611,59,60.543844153719625
+2215,बर्दिया,बर्दिया-1,Nepal Communist Party (UML),26155,62,49.84808715506724
+2216,बर्दिया,बर्दिया-1,Nagarik Unmukti Party,23993,48,47.32551752066236
+2217,बर्दिया,बर्दिया-1,Rastriya Swatantra Party,11004,29,49.30472818709404
+2218,बर्दिया,बर्दिया-1,Janamat Party,2355,61,65.96260214270124
+2219,बर्दिया,बर्दिया-1,Rastriya Prajatantra Party,2266,52,62.91200990002503
+2220,बर्दिया,बर्दिया-1,"Janata Samajwadi Party, Nepal",1000,59,59.62496566264472
+2221,बर्दिया,बर्दिया-1,Independent,224,38,60.543844153719625
+2222,बर्दिया,बर्दिया-1,Nationalist People's Party,207,46,49.84808715506724
+2223,बर्दिया,बर्दिया-1,Nepal Workers and Peasants Party,166,69,47.32551752066236
+2224,बर्दिया,बर्दिया-2,Independent,26520,67,49.30472818709404
+2225,बर्दिया,बर्दिया-2,Nepal Communist Party (Maoist Center) (Unified Symbol),26384,46,65.96260214270124
+2226,बर्दिया,बर्दिया-2,Nepal Communist Party (UML),16090,55,62.91200990002503
+2227,बर्दिया,बर्दिया-2,Rastriya Prajatantra Party,13292,45,59.62496566264472
+2228,बर्दिया,बर्दिया-2,Rastriya Swatantra Party,3891,37,60.543844153719625
+2229,बर्दिया,बर्दिया-2,"Democratic Socialist Party, Nepal",368,44,49.84808715506724
+2230,बर्दिया,बर्दिया-2,Independent,144,25,47.32551752066236
+2231,बर्दिया,बर्दिया-2,Nepal Workers and Peasants Party,123,48,49.30472818709404
+2232,बाजुरा,बाजुरा-1,Nepali Congress,31786,48,65.96260214270124
+2233,बाजुरा,बाजुरा-1,Nepal Communist Party (UML),26349,54,62.91200990002503
+2234,बाजुरा,बाजुरा-1,Rastriya Prajatantra Party,207,46,59.62496566264472
+2235,बाजुरा,बाजुरा-1,Independent,114,39,60.543844153719625
+2236,बाजुरा,बाजुरा-1,Janasamajwadi Party Nepal,73,45,49.84808715506724
+2237,अछाम,अछाम-1,Nepal Communist Party (Unified Socialist),19534,56,47.32551752066236
+2238,अछाम,अछाम-1,Nepal Communist Party (UML),15045,54,49.30472818709404
+2239,अछाम,अछाम-1,Independent,4392,46,65.96260214270124
+2240,अछाम,अछाम-1,Hamro Nepali Party,171,60,62.91200990002503
+2241,अछाम,अछाम-1,Independent,171,32,59.62496566264472
+2242,अछाम,अछाम-1,Independent,102,43,60.543844153719625
+2243,अछाम,अछाम-2,Nepali Congress,22954,61,49.84808715506724
+2244,अछाम,अछाम-2,Nepal Communist Party (UML),16114,46,47.32551752066236
+2245,अछाम,अछाम-2,Independent,311,43,49.30472818709404
+2246,अछाम,अछाम-2,Rastriya Prajatantra Party,286,49,65.96260214270124
+2247,अछाम,अछाम-2,Nepal Workers and Peasants Party,108,40,62.91200990002503
+2248,Bajhang,Bajhang-1,Nepal Communist Party (Unified Socialist),28413,63,59.62496566264472
+2249,Bajhang,Bajhang-1,Nepal Communist Party (UML),27412,38,60.543844153719625
+2250,Bajhang,Bajhang-1,Rastriya Prajatantra Party,1208,51,49.84808715506724
+2251,Bajhang,Bajhang-1,Independent,637,68,47.32551752066236
+2252,Bajhang,Bajhang-1,Rastriya Swatantra Party,528,30,49.30472818709404
+2253,Bajhang,Bajhang-1,Independent,212,64,65.96260214270124
+2254,Bajhang,Bajhang-1,"Janata Samajwadi Party, Nepal",203,43,62.91200990002503
+2255,Doti,Doti-1,Nepal Communist Party (Unified Socialist),27210,51,59.62496566264472
+2256,Doti,Doti-1,Nepal Communist Party (UML),23004,49,60.543844153719625
+2257,Doti,Doti-1,Independent,6689,50,61.27873150424195
+2258,Doti,Doti-1,Rastriya Prajatantra Party,802,65,53.86997401235332
+2259,Doti,Doti-1,Rastriya Swatantra Party,774,27,57.16780546935475
+2260,Doti,Doti-1,Independent,104,68,57.55188408302422
+2261,कैलाली,कैलाली-1,Nagarik Unmukti Party,30404,39,59.46527888447489
+2262,कैलाली,कैलाली-1,Nepali Congress,18081,62,57.058476163275934
+2263,कैलाली,कैलाली-1,Nepal Communist Party (UML),5910,49,63.11062609286516
+2264,कैलाली,कैलाली-1,Rastriya Prajatantra Party,3648,33,61.27873150424195
+2265,कैलाली,कैलाली-1,Rastriya Swatantra Party,1869,41,53.86997401235332
+2266,कैलाली,कैलाली-1,Independent,363,40,57.16780546935475
+2267,कैलाली,कैलाली-1,Independent,230,44,57.55188408302422
+2268,कैलाली,कैलाली-1,Federal Democratic National Front,122,44,59.46527888447489
+2269,कैलाली,कैलाली-1,Nepal Workers and Peasants Party,107,70,57.058476163275934
+2270,कैलाली,कैलाली-1,Nepal for Nepali Party,90,40,63.11062609286516
+2271,कैलाली,कैलाली-1,Rastriya Janamukti Party,54,69,61.27873150424195
+2272,कैलाली,कैलाली-2,Nagarik Unmukti Party,21871,37,53.86997401235332
+2273,कैलाली,कैलाली-2,Nepal Communist Party (UML),16128,47,57.16780546935475
+2274,कैलाली,कैलाली-2,Nepal Communist Party (Maoist Center) (Unified Symbol),15116,50,57.55188408302422
+2275,कैलाली,कैलाली-2,Rastriya Prajatantra Party,2784,42,59.46527888447489
+2276,कैलाली,कैलाली-2,Nepal Workers and Peasants Party,318,45,57.058476163275934
+2277,कैलाली,कैलाली-2,Mongol National Organization,210,25,63.11062609286516
+2278,कैलाली,कैलाली-2,Nepal Communist Party Maoist Socialist,131,50,61.27873150424195
+2279,कैलाली,कैलाली-2,Nepal Democratic Party,104,45,53.86997401235332
+2280,कैलाली,कैलाली-2,"Democratic Socialist Party, Nepal",48,33,57.16780546935475
+2281,कैलाली,कैलाली-3,Nagarik Unmukti Party,23120,44,57.55188408302422
+2282,कैलाली,कैलाली-3,Nepal Communist Party (Maoist Center) (Unified Symbol),17749,44,59.46527888447489
+2283,कैलाली,कैलाली-3,Nepal Communist Party (UML),9874,40,57.058476163275934
+2284,कैलाली,कैलाली-3,Rastriya Prajatantra Party,7045,50,63.11062609286516
+2285,कैलाली,कैलाली-3,Nepal Communist Party (Marxist-Leninist),990,54,61.27873150424195
+2286,कैलाली,कैलाली-3,Independent,484,34,53.86997401235332
+2287,कैलाली,कैलाली-3,Independent,296,37,57.16780546935475
+2288,कैलाली,कैलाली-3,Nepal Workers and Peasants Party,161,37,57.55188408302422
+2289,कैलाली,कैलाली-4,Nepali Congress,26275,57,59.46527888447489
+2290,कैलाली,कैलाली-4,Nepal Communist Party (UML),22663,63,57.058476163275934
+2291,कैलाली,कैलाली-4,Nagarik Unmukti Party,6233,64,63.11062609286516
+2292,कैलाली,कैलाली-4,Rastriya Swatantra Party,2230,46,61.27873150424195
+2293,कैलाली,कैलाली-4,Rastriya Prajatantra Party,1470,36,53.86997401235332
+2294,कैलाली,कैलाली-4,Maulik Jarokilo Party,199,45,57.16780546935475
+2295,कैलाली,कैलाली-4,Independent,126,46,57.55188408302422
+2296,कैलाली,कैलाली-4,Nepal Workers and Peasants Party,62,30,59.46527888447489
+2297,कैलाली,कैलाली-4,Nepal Federal Socialist Party,61,47,57.058476163275934
+2298,कैलाली,कैलाली-4,"Janata Pragatisheel Party, Nepal",48,41,63.11062609286516
+2299,कैलाली,कैलाली-5,Nepali Congress,21392,66,61.27873150424195
+2300,कैलाली,कैलाली-5,Nepal Communist Party (UML),20318,50,53.86997401235332
+2301,कैलाली,कैलाली-5,Independent,8349,59,57.16780546935475
+2302,कैलाली,कैलाली-5,Independent,7460,57,57.55188408302422
+2303,कैलाली,कैलाली-5,Rastriya Swatantra Party,3405,38,59.46527888447489
+2304,कैलाली,कैलाली-5,Independent,290,30,57.058476163275934
+2305,कैलाली,कैलाली-5,"Democratic Socialist Party, Nepal",264,68,63.11062609286516
+2306,कैलाली,कैलाली-5,Independent,129,27,62.44
+2307,कैलाली,कैलाली-5,Independent,117,50,62.44
+2308,कैलाली,कैलाली-5,Nepal Workers and Peasants Party,42,37,62.44
+2309,दार्चुला,दार्चुला-1,Nepali Congress,28515,68,62.44
+2310,दार्चुला,दार्चुला-1,Nepal Communist Party (UML),26381,53,62.44
+2311,दार्चुला,दार्चुला-1,Rastriya Prajatantra Party,380,31,62.44
+2312,दार्चुला,दार्चुला-1,Rastriya Swatantra Party,198,34,62.44
+2313,दार्चुला,दार्चुला-1,Nepal Workers and Peasants Party,78,53,62.44
+2314,दार्चुला,दार्चुला-1,Nagarik Unmukti Party,65,69,62.44
+2315,दार्चुला,दार्चुला-1,Nationalist People's Party,47,45,62.44
+2316,दार्चुला,दार्चुला-1,Federal Democratic National Front,46,42,62.44
+2317,दार्चुला,दार्चुला-1,Rastriya Prajatantra Party Nepal,13,59,62.44
+2318,Baitadi,Baitadi-1,Nepal Communist Party (UML),33611,48,62.44
+2319,Baitadi,Baitadi-1,Nepal Communist Party (Maoist Center) (Unified Symbol),32080,50,62.44
+2320,Baitadi,Baitadi-1,Independent,2509,71,54.58
+2321,Baitadi,Baitadi-1,Rastriya Prajatantra Party,1759,49,54.58
+2322,Baitadi,Baitadi-1,Rastriya Swatantra Party,1423,36,54.58
+2323,Baitadi,Baitadi-1,Independent,352,61,54.58
+2324,Baitadi,Baitadi-1,Independent,237,46,54.58
+2325,Baitadi,Baitadi-1,Rastriya Prajatantra Party Nepal,171,38,54.58
+2326,Baitadi,Baitadi-1,"Janata Samajwadi Party, Nepal",139,55,54.58
+2327,Baitadi,Baitadi-1,Nationalist People's Party,127,68,54.58
+2328,Baitadi,Baitadi-1,Nepal Workers and Peasants Party,90,51,54.58
+2329,डडेलधुरा,डडेलधुरा-1,Nepali Congress,25534,77,54.58
+2330,डडेलधुरा,डडेलधुरा-1,Independent,13042,31,54.58
+2331,डडेलधुरा,डडेलधुरा-1,Nepali Congress (BP),7535,48,54.58
+2332,डडेलधुरा,डडेलधुरा-1,Rastriya Prajatantra Party,784,42,54.58
+2333,डडेलधुरा,डडेलधुरा-1,Independent,442,84,57.65
+2334,डडेलधुरा,डडेलधुरा-1,Independent,433,50,57.65
+2335,डडेलधुरा,डडेलधुरा-1,"Janata Samajwadi Party, Nepal",161,43,57.65
+2336,डडेलधुरा,डडेलधुरा-1,Independent,85,34,57.65
+2337,Kanchanpur,Kanchanpur-1,Nepal Communist Party (UML),24943,49,57.65
+2338,Kanchanpur,Kanchanpur-1,Nepal Communist Party (Maoist Center) (Unified Symbol),19400,38,57.65
+2339,Kanchanpur,Kanchanpur-1,Nagarik Unmukti Party,8685,47,57.65
+2340,Kanchanpur,Kanchanpur-1,Rastriya Prajatantra Party,3539,61,57.65
+2341,Kanchanpur,Kanchanpur-1,Rastriya Swatantra Party,1909,28,57.65
+2342,Kanchanpur,Kanchanpur-1,Independent,693,37,57.65
+2343,Kanchanpur,Kanchanpur-1,Independent,530,66,57.65
+2344,Kanchanpur,Kanchanpur-1,"Democratic Socialist Party, Nepal",279,53,57.65
+2345,Kanchanpur,Kanchanpur-1,Nepal Workers and Peasants Party,95,56,57.65
+2346,Kanchanpur,Kanchanpur-1,Independent,67,54,57.65
+2347,Kanchanpur,Kanchanpur-2,Nepali Congress,28136,60,57.65
+2348,Kanchanpur,Kanchanpur-2,Nepal Communist Party (UML),21682,43,57.65
+2349,Kanchanpur,Kanchanpur-2,Rastriya Swatantra Party,4937,40,57.65
+2350,Kanchanpur,Kanchanpur-2,Rastriya Prajatantra Party,3515,37,57.65
+2351,Kanchanpur,Kanchanpur-2,Hamro Nepali Party,598,37,57.65
+2352,Kanchanpur,Kanchanpur-2,Nepali Congress (BP),423,53,57.65
+2353,Kanchanpur,Kanchanpur-2,"Democratic Socialist Party, Nepal",254,36,57.65
+2354,Kanchanpur,Kanchanpur-2,Nepal Workers and Peasants Party,181,57,57.65
+2355,Kanchanpur,Kanchanpur-2,"Janata Pragatisheel Party, Nepal",103,48,57.65
+2356,Kanchanpur,Kanchanpur-2,Janamat Party,87,60,57.65
+2357,Kanchanpur,Kanchanpur-3,Nepali Congress,30575,58,57.65
+2358,Kanchanpur,Kanchanpur-3,Nepal Communist Party (UML),18485,51,57.65
+2359,Kanchanpur,Kanchanpur-3,Rastriya Swatantra Party,2031,49,57.65
+2360,Kanchanpur,Kanchanpur-3,Independent,1145,51,57.65
+2361,Kanchanpur,Kanchanpur-3,Independent,741,47,57.65
+2362,Kanchanpur,Kanchanpur-3,Hamro Nepali Party,279,40,57.65
+2363,Kanchanpur,Kanchanpur-3,Independent,252,52,57.65
+2364,Kanchanpur,Kanchanpur-3,Maulik Jarokilo Party,216,39,65.47
+2365,Kanchanpur,Kanchanpur-3,Janamat Party,131,57,65.47
+2366,Kanchanpur,Kanchanpur-3,Nepal Workers and Peasants Party,106,55,65.47
+2367,Kanchanpur,Kanchanpur-3,Independent,105,30,65.47
+2368,Kanchanpur,Kanchanpur-3,"Democratic Socialist Party, Nepal",91,36,65.47
+2369,Nawalparasi West,Nawalparasi West-1,Nepali Congress,29519,67,65.47
+2370,Nawalparasi West,Nawalparasi West-1,"Janata Pragatisheel Party, Nepal",22328,63,65.47
+2371,Nawalparasi West,Nawalparasi West-1,Rastriya Swatantra Party,12499,43,65.47
+2372,Nawalparasi West,Nawalparasi West-1,Janamat Party,5952,51,65.47
+2373,Nawalparasi West,Nawalparasi West-1,Rastriya Prajatantra Party,4825,52,65.47
+2374,Nawalparasi West,Nawalparasi West-1,Nagarik Unmukti Party,1405,59,65.47
+2375,Nawalparasi West,Nawalparasi West-1,Independent,1106,46,65.47
+2376,Nawalparasi West,Nawalparasi West-1,Rastriya Janamukti Party,708,46,65.47
+2377,Nawalparasi West,Nawalparasi West-1,Bahujan Shakti Party,321,55,65.47
+2378,Nawalparasi West,Nawalparasi West-1,Nepal Democratic Party,95,34,65.47
+2379,Nawalparasi West,Nawalparasi West-1,Maulik Jarokilo Party,60,41,65.47
+2380,Nawalparasi West,Nawalparasi West-1,Nepal Workers and Peasants Party,58,63,69.94
+2381,Nawalparasi West,Nawalparasi West-1,Independent,53,35,69.94
+2382,Nawalparasi West,Nawalparasi West-1,Independent,47,29,69.94
+2383,Nawalparasi West,Nawalparasi West-1,Independent,38,38,69.94
+2384,Nawalparasi West,Nawalparasi West-1,Independent,32,34,69.94
+2385,Nawalparasi West,Nawalparasi West-1,Independent,20,43,69.94
+2386,Nawalparasi West,Nawalparasi West-1,Independent,19,33,69.94
+2387,Nawalparasi West,Nawalparasi West-2,Rastriya Prajatantra Party,34764,73,69.94
+2388,Nawalparasi West,Nawalparasi West-2,Nepali Congress,19594,65,69.94
+2389,Nawalparasi West,Nawalparasi West-2,Nepal Communist Party (UML),14502,60,69.94
+2390,Nawalparasi West,Nawalparasi West-2,Rastriya Swatantra Party,5531,34,69.94
+2391,Nawalparasi West,Nawalparasi West-2,Janamat Party,4612,35,69.94
+2392,Nawalparasi West,Nawalparasi West-2,Nagarik Unmukti Party,1848,53,69.94
+2393,Nawalparasi West,Nawalparasi West-2,Independent,674,28,69.94
+2394,Nawalparasi West,Nawalparasi West-2,Independent,426,37,69.94
+2395,Nawalparasi West,Nawalparasi West-2,Mongol National Organization,383,47,69.94
+2396,Nawalparasi West,Nawalparasi West-2,Rastriya Janamukti Party,219,53,63.58
+2397,Nawalparasi West,Nawalparasi West-2,Independent,168,57,63.58
+2398,Nawalparasi West,Nawalparasi West-2,Independent,155,48,63.58
+2399,Nawalparasi West,Nawalparasi West-2,Bahujan Shakti Party,94,35,63.58
+2400,Nawalparasi West,Nawalparasi West-2,Nepal Workers and Peasants Party,49,29,63.58
+2401,Nawalparasi West,Nawalparasi West-2,Independent,42,26,63.58
+2402,Nawalparasi West,Nawalparasi West-2,Independent,25,33,63.58
+2403,Nawalparasi West,Nawalparasi West-2,Independent,23,48,63.58
+2404,Nawalparasi West,Nawalparasi West-2,Independent,13,43,63.58
+2405,Nawalparasi West,Nawalparasi West-1,Nepali Congress,29519,67,63.58
+2406,Nawalparasi West,Nawalparasi West-1,"Janata Pragatisheel Party, Nepal",22328,63,63.58
+2407,Nawalparasi West,Nawalparasi West-1,Rastriya Swatantra Party,12499,43,63.58
+2408,Nawalparasi West,Nawalparasi West-1,Janamat Party,5952,51,63.58
+2409,Nawalparasi West,Nawalparasi West-1,Rastriya Prajatantra Party,4825,52,63.58
+2410,Nawalparasi West,Nawalparasi West-1,Nagarik Unmukti Party,1405,59,63.58
+2411,Nawalparasi West,Nawalparasi West-1,Independent,1106,46,50.34
+2412,Nawalparasi West,Nawalparasi West-1,Rastriya Janamukti Party,708,46,50.34
+2413,Nawalparasi West,Nawalparasi West-1,Bahujan Shakti Party,321,55,50.34
+2414,Nawalparasi West,Nawalparasi West-1,Nepal Democratic Party,95,34,50.34
+2415,Nawalparasi West,Nawalparasi West-1,Maulik Jarokilo Party,60,41,50.34
+2416,Nawalparasi West,Nawalparasi West-1,Nepal Workers and Peasants Party,58,63,50.34
+2417,Nawalparasi West,Nawalparasi West-1,Independent,53,35,50.34
+2418,Nawalparasi West,Nawalparasi West-1,Independent,47,29,50.34
+2419,Nawalparasi West,Nawalparasi West-1,Independent,38,38,50.34
+2420,Nawalparasi West,Nawalparasi West-1,Independent,32,34,50.34
+2421,Nawalparasi West,Nawalparasi West-1,Independent,20,43,50.34
+2422,Nawalparasi West,Nawalparasi West-1,Independent,19,33,50.34
+2423,Nawalparasi West,Nawalparasi West-2,Rastriya Prajatantra Party,34764,73,50.34
+2424,Nawalparasi West,Nawalparasi West-2,Nepali Congress,19594,65,50.34
+2425,Nawalparasi West,Nawalparasi West-2,Nepal Communist Party (UML),14502,60,50.34
+2426,Nawalparasi West,Nawalparasi West-2,Rastriya Swatantra Party,5531,34,50.34
+2427,Nawalparasi West,Nawalparasi West-2,Janamat Party,4612,35,50.34
+2428,Nawalparasi West,Nawalparasi West-2,Nagarik Unmukti Party,1848,53,50.34
+2429,Nawalparasi West,Nawalparasi West-2,Independent,674,28,50.34
+2430,Nawalparasi West,Nawalparasi West-2,Independent,426,37,50.34
+2431,Nawalparasi West,Nawalparasi West-2,Mongol National Organization,383,47,56.83
+2432,Nawalparasi West,Nawalparasi West-2,Rastriya Janamukti Party,219,53,56.83
+2433,Nawalparasi West,Nawalparasi West-2,Independent,168,57,56.83
+2434,Nawalparasi West,Nawalparasi West-2,Independent,155,48,56.83
+2435,Nawalparasi West,Nawalparasi West-2,Bahujan Shakti Party,94,35,56.83
+2436,Nawalparasi West,Nawalparasi West-2,Nepal Workers and Peasants Party,49,29,56.83
+2437,Nawalparasi West,Nawalparasi West-2,Independent,42,26,56.83
+2438,Nawalparasi West,Nawalparasi West-2,Independent,25,33,56.83
+2439,Nawalparasi West,Nawalparasi West-2,Independent,23,48,56.83
+2440,Nawalparasi West,Nawalparasi West-2,Independent,13,43,56.83
+2441,Rukum West,Rukum West-1,Nepal Communist Party (Maoist Center) (Unified Symbol),39549,59,56.83
+2442,Rukum West,Rukum West-1,Nepal Communist Party (UML),12961,50,56.83
+2443,Rukum West,Rukum West-1,Independent,3567,33,56.83
+2444,Rukum West,Rukum West-1,Rastriya Prajatantra Party,796,55,56.83
+2445,Rukum West,Rukum West-1,Independent,214,26,56.83
+2446,Rukum West,Rukum West-1,Mongol National Organization,208,45,56.83

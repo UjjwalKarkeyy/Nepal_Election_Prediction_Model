@@ -1,0 +1,241 @@
+,District,Const,WParty,WVotes,Age,TurnOut%
+0,Taplejung,Taplejung-1,Nepal Communist Party (UML),7434,37.0,73.12
+1,Taplejung,Taplejung-2,Nepal Communist Party (UML),7034        ,48.0,72.6
+2,Panchthar,Panchthar-1,Nepal Communist Party (UML),13082        ,26.0,72.18
+3,Panchthar,Panchthar-2,Nepali Congress,11839,41.0,74.58
+4,Illam,Illam-1,Nepal Communist Party (UML),17342,55.0,78.58
+5,Illam,Illam-2,Nepal Communist Party (UML),14930        ,50.0,77.55
+6,Illam,Illam-3,Nepali Congress,15868        ,41.0,77.99
+7,Jhapa,Jhapa-1,Nepal Communist Party (UML),17229,32.0,77.99
+8,Jhapa,Jhapa-2,Nepali Congress,13554,30.0,77.79
+9,Jhapa,Jhapa-3,Nepali Congress,14355,42.0,78.22
+10,Jhapa,Jhapa-4,Nepal Communist Party (UML),22159        ,40.0,78.97
+11,Jhapa,Jhapa-5,Nepali Congress,16587        ,53.0,79.49
+12,Jhapa,Jhapa-6,Nepal Communist Party (UML),11326        ,40.0,80.04
+13,Jhapa,Jhapa-7,Nepal Communist Party (UML),19287        ,60.0,75.99
+14,Sankhuwasabha,Sankhuwasabha-1,Nepali Congress,9415        ,55.0,72.03
+15,Sankhuwasabha,Sankhuwasabha-2,Nepali Congress,11552,41.0,74.54
+16,Terhathum,Terhathum-1,Nepal Communist Party (UML),15111        ,51.0,75.05
+17,Bhojpur,Bhojpur-1,Nepal Communist Party (UML),11450        ,31.0,70.49
+18,Bhojpur,Bhojpur-2,Nepal Communist Party (UML),11927        ,25.0,72.18
+19,Dhankuta,Dhankuta-1,Nepal Communist Party (UML),10953,63.0,75.71
+20,Dhankuta,Dhankuta-2,Rastriya Prajatantra Party,10093,35.0,76.13
+21,Morang,Morang-1,Nepal Communist Party (UML),14000,33.0,80.76
+22,Morang,Morang-2,Nepal Communist Party (UML),14516,27.0,74.73
+23,Morang,Morang-3,Nepali Congress,12984,41.0,79.66
+24,Morang,Morang-4,Unified Nepal Communist Party (Maoist),9360,51.0,84.73
+25,Morang,Morang-5,Nepali Congress,15254,41.0,83.13
+26,Morang,Morang-6,Nepali Congress,12552,53.0,78.47
+27,Morang,Morang-7,Nepali Congress,12982,36.0,79.81
+28,Morang,Morang-8,Nepal Communist Party (UML),17401,47.0,79.85
+29,Morang,Morang-9,Nepali Congress,15202,38.0,75.69
+30,Sunsari,Sunsari-1,Nepal Communist Party (UML),14384,28.0,71.42
+31,Sunsari,Sunsari-2,Nepal Communist Party (UML),18474,60.0,75.98
+32,Sunsari,Sunsari-3,"Madhesi People's Rights Forum, Nepal (Democratic)",17524,27.0,86.36
+33,Sunsari,Sunsari-4,Nepali Congress,15208,41.0,80.73
+34,Sunsari,Sunsari-5,"Madhesi People's Rights Forum, Nepal",7264,58.0,78.95
+35,Sunsari,Sunsari-6,Nepal Communist Party (UML),14101,58.0,75.32
+36,Solukhumbu,Solukhumbu-1,Nepali Congress,12464,52.0,69.49
+37,Khotang,Khotang-1,Nepal Communist Party (UML),10824,44.0,71.11
+38,Khotang,Khotang-2,Nepal Communist Party (UML),14037,29.0,71.58
+39,Okhaldhunga,Okhaldhunga-1,Nepal Communist Party (UML),12943,42.0,72.56
+40,Okhaldhunga,Okhaldhunga-2,Nepali Congress,13904,45.0,71.96
+41,Udayapur,Udayapur-1,Nepali Congress,15381,42.0,72.61
+42,Udayapur,Udayapur-2,Nepal Communist Party (UML),7534,50.0,69.13
+43,Udayapur,Udayapur-3,Nepali Congress,12550        ,33.0,73.61
+44,Saptari,Saptari-1,Unified Nepal Communist Party (Maoist),9844        ,38.0,79.42
+45,Saptari,Saptari-2,Unified Nepal Communist Party (Maoist),6057        ,32.0,79.46
+46,Saptari,Saptari-3,Unified Nepal Communist Party (Maoist),8746,49.0,76.36
+47,Saptari,Saptari-4,Nepal Communist Party (UML),8217        ,47.0,82.03
+48,Saptari,Saptari-5,Nepali Congress,7959,41.0,80.93
+49,Saptari,Saptari-6,Nepali Congress,5883,75.0,79.97
+50,Siraha,Siraha-1,Nepali Congress,12183,47.0,79.99
+51,Siraha,Siraha-2,Nepal Communist Party (UML),9818,44.0,80.05
+52,Siraha,Siraha-3,Nepali Congress,11142,47.0,79.13
+53,Siraha,Siraha-4,Nepali Congress,8805,48.0,80.13
+54,Siraha,Siraha-5,Unified Nepal Communist Party (Maoist),15244,33.0,80.58
+55,Siraha,Siraha-6,Nepali Congress,6322,49.0,80.36
+56,Dolakha,Dolakha-1,Nepal Communist Party (UML),16281,35.0,73.62
+57,Dolakha,Dolakha-2,Nepal Communist Party (UML),14702,74.0,72.27
+58,Ramechhap,Ramechhap-1,Nepali Congress,13615,37.0,69.11
+59,Ramechhap,Ramechhap-2,Unified Nepal Communist Party (Maoist),14898,29.0,69.84
+60,Sindhuli,Sindhuli-1,Nepal Communist Party (UML),10901,48.0,79.28
+61,Sindhuli,Sindhuli-2,Nepali Congress,13905,43.0,74.93
+62,Sindhuli,Sindhuli-3,Unified Nepal Communist Party (Maoist),12770,48.0,71.36
+63,Dhanusha,Dhanusha-1,Nepali Congress,8827,58.0,79.39
+64,Dhanusha,Dhanusha-2,Nepali Congress,9378,53.0,78.97
+65,Dhanusha,Dhanusha-3,Nepali Congress,15031,44.0,79
+66,Dhanusha,Dhanusha-4,Sadbhavana Party,12666,41.0,71.8
+67,Dhanusha,Dhanusha-5,Nepali Congress,11705,64.0,79.59
+68,Dhanusha,Dhanusha-6,Nepali Congress,7725,47.0,78.2
+69,Dhanusha,Dhanusha-7,Nepal Communist Party (UML),8827,27.0,79.62
+70,Mahottari,Mahottari-1,Unified Nepal Communist Party (Maoist),10895,35.0,80.19
+71,Mahottari,Mahottari-2,Nepali Congress,7357,49.0,78.54
+72,Mahottari,Mahottari-3,Nepal Communist Party (UML),7849,61.0,74.56
+73,Mahottari,Mahottari-4,Independent,3062,46.0,73.93
+74,Mahottari,Mahottari-5,Nepal Communist Party (UML),7276,32.0,81.03
+75,Mahottari,Mahottari-6,Nepali Congress,9480,62.0,83.22
+76,Sarlahi,Sarlahi-1,Unified Nepal Communist Party (Maoist),9476,46.0,79.34
+77,Sarlahi,Sarlahi-2,Nepali Congress,6704,34.0,79.52
+78,Sarlahi,Sarlahi-3,Nepal Communist Party (UML),12808,51.0,82.14
+79,Sarlahi,Sarlahi-4,Terai Madhesh Sadbhavana Party Nepal,11534,71.0,82.36
+80,Sarlahi,Sarlahi-5,Terai-Madhesh Democratic Party,9767,46.0,84.18
+81,Sarlahi,Sarlahi-6,Nepali Congress,17400,42.0,82.5
+82,Rasuwa-1,Rasuwa-1,Nepal Communist Party (UML),6628,37.0,81.62
+83,Dhading-1,Dhading-1,Nepal Communist Party (UML),8663,64.0,76.25
+84,Dhading,Dhading-2,Nepal Communist Party (UML),20236,54.0,80.17
+85,Dhading,Dhading-3,Nepal Communist Party (UML),22196,47.0,80
+86,Nuwakot,Nuwakot-1,Nepali Congress,17346,36.0,78.38
+87,Nuwakot,Nuwakot-2,Nepali Congress,18831,63.0,79.33
+88,Nuwakot,Nuwakot-3,Nepali Congress,17495,58.0,78.41
+89,Kathmandu,Kathmandu-1,Nepali Congress,15138,48.0,76.67
+90,Kathmandu,Kathmandu-2,Nepal Communist Party (UML),21748,36.0,80.83
+91,Kathmandu,Kathmandu-3,Nepal Communist Party (UML),13104,29.0,80.93
+92,Kathmandu,Kathmandu-4,Nepali Congress,22336,69.0,80.03
+93,Kathmandu,Kathmandu-5,Nepali Congress,15364,52.0,79.3
+94,Kathmandu,Kathmandu-6,Nepali Congress,14151,65.0,80.73
+95,Kathmandu,Kathmandu-7,Nepal Communist Party (UML),13289,46.0,78.6
+96,Kathmandu,Kathmandu-8,Nepali Congress,13774,37.0,77.63
+97,Kathmandu,Kathmandu-9,Nepali Congress,14483,53.0,79.57
+98,Kathmandu,Kathmandu-10,Nepali Congress,20392,49.0,85.18
+99,Bhaktapur,Bhaktapur-1,Nepal Workers and Peasants Party,20446,49.0,83.95
+100,Bhaktapur,Bhaktapur-2,Nepali Congress,21121,54.0,85.61
+101,Lalitpur,Lalitpur-1,Nepali Congress,18560,36.0,82.84
+102,Lalitpur,Lalitpur-2,Nepali Congress,23231,65.0,83.88
+103,Lalitpur,Lalitpur-3,Nepali Congress,23566,32.0,79
+104,Kavrepalanchok,Kavrepalanchok-1,Nepali Congress,12270,44.0,73.73
+105,Kavrepalanchok,Kavrepalanchok-2,Nepal Communist Party (UML),13510,56.0,77.77
+106,Kavrepalanchok,Kavrepalanchok-3,Nepali Congress,19391,53.0,82.37
+107,Kavrepalanchok,Kavrepalanchok-4,Nepal Communist Party (UML),16754,52.0,76.39
+108,Sindhupalchok,Sindhupalchok-1,Nepali Congress,15021,42.0,77.8
+109,Sindhupalchok,Sindhupalchok-2,Unified Nepal Communist Party (Maoist),12808,53.0,78.7
+110,Sindhupalchok,Sindhupalchok-3,Nepal Communist Party (UML),14527,65.0,77.8
+111,Makawanpur,Makawanpur-1,Nepali Congress,11888,48.0,78.17
+112,Makawanpur,Makawanpur-2,Nepal Communist Party (UML),11711,54.0,78.42
+113,Makawanpur,Makawanpur-3,Nepal Communist Party (UML),14268,61.0,76.18
+114,Makawanpur,Makawanpur-4,Nepal Communist Party (UML),10904,47.0,73.08
+115,Rautahat,Rautahat-1,Nepal Communist Party (UML),8361,54.0,78.7
+116,Rautahat,Rautahat-2,"Madhesi People's Rights Forum, Nepal (Democratic)",13450,36.0,81.67
+117,Rautahat,Rautahat-3,Unified Nepal Communist Party (Maoist),13009,50.0,85.78
+118,Rautahat,Rautahat-4,Unified Nepal Communist Party (Maoist),10008,42.0,86.29
+119,Rautahat,Rautahat-5,Nepali Congress,14398,42.0,86.97
+120,Rautahat,Rautahat-6,Nepal Communist Party (UML),14398,34.0,83.85
+121,Bara,Bara-1,Nepali Congress,8337,61.0,85.19
+122,Bara,Bara-2,Nepali Congress,8867,63.0,84.99
+123,Bara,Bara-3,Nepali Congress,10456,61.0,81.28
+124,Bara,Bara-4,Nepal Communist Party (UML),12361,27.0,86.3
+125,Bara,Bara-5,Nepal Communist Party (UML),15800,46.0,85.15
+126,Bara,Bara-6,Nepal Communist Party (UML),16511        ,38.0,81.04
+127,Parsa,Parsa-1,Nepali Congress,12463        ,46.0,75.79
+128,Parsa,Parsa-2,Nepal Communist Party (UML),8714        ,48.0,81.9
+129,Parsa,Parsa-3,Nepal Communist Party (UML),16192        ,40.0,85.15
+130,Parsa,Parsa-4,Nepali Congress,12963        ,67.0,85.12
+131,Parsa,Parsa-5,Nepal Communist Party (UML),10450,52.0,82.27
+132,Chitwan,Chitwan-1,Nepal Communist Party (UML),18760,64.0,80.26
+133,Chitwan,Chitwan-2,Nepali Congress,17810,52.0,81.22
+134,Chitwan,Chitwan-3,Nepal Communist Party (UML),15661,45.0,76.91
+135,Chitwan,Chitwan-4,Nepali Congress,20760,50.0,79.02
+136,Chitwan,Chitwan-5,Rastriya Prajatantra Party,10858,32.0,77.53
+137,Gorkha,Gorkha-1,Unified Nepal Communist Party (Maoist),22824,32.0,79.3
+138,Gorkha,Gorkha-2,Unified Nepal Communist Party (Maoist),20761,37.0,76.12
+139,Gorkha,Gorkha-3,Unified Nepal Communist Party (Maoist),14440,52.0,77.07
+140,Manang,Manang-1,Nepali Congress,1527,48.0,76.25
+141,Lamjung,Lamjung-1,Nepal Communist Party (UML),11309,42.0,79.49
+142,Lamjung,Lamjung-2,Nepali Congress,14765,37.0,76.84
+143,Kaski,Kaski-1,Nepali Congress,15832,47.0,77.2
+144,Kaski,Kaski-2,Nepali Congress,11662,45.0,76.17
+145,Kaski,Kaski-3,Nepal Communist Party (UML),13110,48.0,77.77
+146,Kaski,Kaski-4,Nepal Communist Party (UML),15438,43.0,76.97
+147,Tanahu,Tanahu-1,Nepali Congress,15713,64.0,72.36
+148,Tanahu,Tanahu-2,Nepali Congress,18149,44.0,72.99
+149,Tanahu,Tanahu-3,Nepal Communist Party (UML),15974,31.0,75.2
+150,Syangja,Syangja-1,Nepali Congress,16699,53.0,74.12
+151,Syangja,Syangja-2,Nepali Congress,17791,47.0,74.61
+152,Syangja,Syangja-3,Nepal Communist Party (UML),18717,41.0,79.97
+153,Gulmi,Gulmi-1,Nepali Congress,10592,40.0,74.42
+154,Gulmi,Gulmi-2,Nepali Congress,21189,42.0,77.95
+155,Gulmi,Gulmi-3,Nepal Communist Party (UML),18432,40.0,76.28
+156,Palpa,Palpa-1,Nepal Communist Party (UML),17804,38.0,77.05
+157,Palpa,Palpa-2,Nepal Communist Party (UML),13193,52.0,75.62
+158,Palpa,Palpa-3,Nepali Congress,13135,36.0,77.06
+159,Arghakhanchi,Arghakhanchi-1,Unified Nepal Communist Party (Maoist),12286,35.0,76.53
+160,Arghakhanchi,Arghakhanchi-2,Nepal Communist Party (UML),16650,36.0,74.24
+161,Nawalparasi,Nawalparasi-1,Nepali Congress,18228,52.0,79.22
+162,Nawalparasi,Nawalparasi-2,Nepal Communist Party (UML),16221,49.0,78.77
+163,Nawalparasi,Nawalparasi-3,Nepal Communist Party (UML),14804,36.0,78.31
+164,Nawalparasi,Nawalparasi-4,Nepal Communist Party (UML),10750,45.0,82.48
+165,Nawalparasi,Nawalparasi-5,Nepali Congress,9204,53.0,83.88
+166,Nawalparasi,Nawalparasi-6,Nepali Congress,14580,33.0,84.58
+167,Rupandehi,Rupandehi-1,,nan,53.0,81.78
+168,Rupandehi,Rupandehi-2,,nan,48.0,79.6
+169,Rupandehi,Rupandehi-3,,nan,34.0,82.34
+170,Rupandehi,Rupandehi-4,,nan,31.0,79.57
+171,Rupandehi,Rupandehi-5,,nan,41.0,81.51
+172,Rupandehi,Rupandehi-6,,nan,70.0,80.95
+173,Rupandehi,Rupandehi-7,,nan,73.0,82.15
+174,Kapilbastu,Kapilbastu-1,,nan,48.0,81.36
+175,Kapilbastu,Kapilbastu-2,,nan,51.0,78.83
+176,Kapilbastu,Kapilbastu-3,,nan,44.0,80.69
+177,Kapilbastu,Kapilbastu-4,,nan,51.0,83.39
+178,Kapilbastu,Kapilbastu-5,,nan,44.0,81.45
+179,Mustang,Mustang-1,Nepali Congress,1424,53.0,73.12
+180,Myagdi,Myagdi-1,Nepal Communist Party (UML),15955,38.0,72.84
+181,Baglung,Baglung-1,Nepali Congress,13500,43.0,76.21
+182,Baglung,Baglung-2,Nepali Congress,10253,55.0,74.62
+183,Baglung,Baglung-3,Nepali Congress,10089,27.0,75
+184,Parbat,Parbat-1,,nan,56.0,75.24
+185,Parbat,Parbat-2,,nan,62.0,72.98
+186,Rukum,Rukum-1,,nan,35.0,79.78
+187,Rukum,Rukum-2,,nan,31.0,84.87
+188,Rolpa,Rolpa-1,,nan,56.0,68.83
+189,Rolpa,Rolpa-2,,nan,45.0,67.42
+190,Pyuthan,Pyuthan-1,,nan,68.0,75.92
+191,Pyuthan,Pyuthan-2,,nan,33.0,76.15
+192,Salyan,Salyan-1,,nan,45.0,82.1
+193,Salyan,Salyan-2,,nan,35.0,80.29
+194,Dang,Dang-1,,nan,30.0,76.49
+195,Dang,Dang-2,,nan,44.0,76.37
+196,Dang,Dang-3,,nan,46.0,73.91
+197,Dang,Dang-4,,nan,38.0,76.45
+198,Dang,Dang-5,,nan,30.0,76.31
+199,Dolpa,Dolpa-1,,nan,27.0,89.5
+200,Mugu,Mugu-1,,nan,60.0,76.86
+201,Jumla,Jumla-1,,nan,51.0,82.34
+202,Kalikot,Kalikot-1,,nan,69.0,77.74
+203,Humla,Humla-1,,nan,58.0,85.52
+204,Jajarkot,Jajarkot-1,,nan,44.0,82.47
+205,Jajarkot,Jajarkot-2,,nan,52.0,83.18
+206,Dailekh,Dailekh-1,,nan,46.0,76.67
+207,Dailekh,Dailekh-2,,nan,42.0,78.68
+208,Surkhet,Surkhet-1,,nan,47.0,80.98
+209,Surkhet,Surkhet-2,,nan,37.0,78.95
+210,Surkhet,Surkhet-3,,nan,65.0,78.2
+211,Banke,Banke-1,,nan,42.0,82.43
+212,Banke,Banke-2,,nan,50.0,83.7
+213,Banke,Banke-3,,nan,44.0,81.74
+214,Banke,Banke-4,,nan,36.0,81.99
+215,Bardia,Bardia-1,,nan,26.0,82.6
+216,Bardia,Bardia-2,,nan,48.0,82.29
+217,Bardia,Bardia-3,,nan,54.0,80.26
+218,Bardia,Bardia-4,,nan,59.0,82.53
+219,Bajura,Bajura-1,Nepal Communist Party (UML),22458,37.0,82.74
+220,Achham,Achham-1,Nepal Communist Party (UML),17725,48.0,77.17
+221,Achham,Achham-2,Nepal Communist Party (UML),16664,55.0,73.76
+222,Bajhang,Bajhang-1,Nepal Communist Party (UML),11530,26.0,80
+223,Bajhang,Bajhang-2,Nepal Communist Party (UML),10594,64.0,74.35
+224,Doti,Doti-1,Nepali Congress,16957,31.0,73.43
+225,Doti,Doti-2,Nepal Communist Party (UML),12400,27.0,77.91
+226,Kailali,Kailali-1,"Madhesi People's Rights Forum, Nepal (Democratic)",11294,42.0,74.94
+227,Kailali,Kailali-2,Nepal Communist Party (UML),11932,54.0,74.25
+228,Kailali,Kailali-3,"Madhesi People's Rights Forum, Nepal (Democratic)",11027,39.0,82.01
+229,Kailali,Kailali-4,Unified Nepal Communist Party (Maoist),11968,47.0,79.36
+230,Kailali,Kailali-5,Nepali Congress,16346,28.0,75.83
+231,Kailali,Kailali-6,Nepali Congress,16489,56.0,74.71
+232,Darchula,Darchula-1,Nepal Communist Party (UML),20470,34.0,79.96
+233,Baitadi,Baitadi-1,Nepal Communist Party (UML),11672,40.0,72.08
+234,Baitadi,Baitadi-2,Nepali Congress,12466,26.0,67.32
+235,Dadeldhura,Dadeldhura-1,Nepali Congress,23920,58.0,74.14
+236,Kanchanpur,Kanchanpur-1,Nepali Congress,10294,60.0,80.34
+237,Kanchanpur,Kanchanpur-2,Nepali Congress,13415,51.0,78.82
+238,Kanchanpur,Kanchanpur-3,Nepali Congress,12836,42.0,73.47
+239,Kanchanpur,Kanchanpur-4,Nepali Congress,14023,42.0,70.7
