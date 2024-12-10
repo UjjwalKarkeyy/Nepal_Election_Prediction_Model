@@ -1,241 +1,241 @@
 ,District,Const,WParty,WVotes,Age,TurnOut%
-0,Achham,Achham 1,uml,2119.0358,40,54.53
-1,Achham,Achham 2,maoist,1708.727,32,52.82
-2,Arghakhanchi,Arghakhanchi 1,maoist,1966.7836,46,55.34
-3,Arghakhanchi,Arghakhanchi 2,nepalicongress,1755.126,46,52.05
-4,Baglung,Baglung 1,maoist,1828.5047,48,60.01
-5,Baglung,Baglung 2,nepalicongress,1513.8402,66,55.29
-6,Baglung,Baglung 3,nepalicongress,1509.2088,49,51.97
-7,Baitadi,Baitadi 1,maoist,3115.6608,37,56.28
-8,Baitadi,Baitadi 2,maoist,1990.4382,27,44.37
-9,Bajhang,Bajhang 1,uml,1979.0028,49,59.11
-10,Bajhang,Bajhang 2,maoist,1959.216,50,51.45
-11,Bajura,Bajura 1,nepalicongress,2359.9923,44,66.61
-12,Banke,Banke 1,maoist,2375.648,57,67.49
-13,Banke,Banke 2,uml,743.334,28,64.92
-14,Banke,Banke 3,nepalicongress,1113.9618,48,64.69
-15,Banke,Banke 4,maoist,1966.1397,48,64.19
-16,Bara,Bara 1,maoist,1064.5960000000002,34,69.4
-17,Bara,Bara 2,nepalicongress,1034.223,41,66.94
-18,Bara,Bara 3,uml,800.5823999999999,29,61.02
-19,Bara,Bara 4,uml,1315.8774,38,69.66
-20,Bara,Bara 5,uml,2153.3355,39,67.95
-21,Bara,Bara 6,maoist,1963.2866,35,59.62
-22,Bardiya,Bardiya 1,maoist,2545.2000000000003,38,63.63
-23,Bardiya,Bardiya 2,maoist,2631.8460000000005,35,66.9
-24,Bardiya,Bardiya 3,maoist,3460.9,41,65.3
-25,Bardiya,Bardiya 4,maoist,3647.5649,50,65.17
-26,Bhaktapur,Bhaktapur 1,maoist,1599.8891999999998,67,70.98
-27,Bhaktapur,Bhaktapur 2,nepalicongress,1556.1630000000005,42,72.65
-28,Bhojpur,Bhojpur 1,maoist,1656.3366,41,46.71
-29,Bhojpur,Bhojpur 2,maoist,1729.4695000000002,29,45.05
-30,Chitwan,Chitwan 1,uml,1966.0288,44,60.16
-31,Chitwan,Chitwan 2,maoist,2809.6413,53,63.87
-32,Chitwan,Chitwan 3,maoist,2265.4512,52,54.96
-33,Chitwan,Chitwan 4,maoist,2640.3216,54,61.46
-34,Chitwan,Chitwan 5,maoist,1937.1245,64,59.33
-35,Dadeldhura,Dadeldhura 1,nepalicongress,1939.833,60,51.66
-36,Dailekh,Dailekh 1,nepalicongress,1851.5285,64,57.77
-37,Dailekh,Dailekh 2,uml,1759.0608,41,58.17
-38,Dang,Dang 1,maoist,2365.4358,28,57.33
-39,Dang,Dang 2,maoist,2998.6276,36,58.43
-40,Dang,Dang 3,maoist,2664.0565,48,57.23
-41,Dang,Dang 4,maoist,2425.9447000000005,69,58.33
-42,Dang,Dang 5,maoist,2334.248,41,58.4
-43,Darchula,Darchula 1,maoist,2618.1428,30,61.88
-44,Dhading,Dhading 1,maoist,3100.643,54,59.15
-45,Dhading,Dhading 2,maoist,1931.659,33,61.42
-46,Dhading,Dhading 3,maoist,2467.108,36,60.35
-47,Dhankuta,Dhankuta 1,maoist,2275.8623999999995,32,57.24
-48,Dhankuta,Dhankuta 2,maoist,1961.1612,39,55.62
-49,Dhanusha,Dhanusha 1,uml,1554.0659999999998,51,57.24
-50,Dhanusha,Dhanusha 2,nepalicongress,1214.9595,46,58.95
-51,Dhanusha,Dhanusha 3,nepalicongress,2217.96,50,60.6
-52,Dhanusha,Dhanusha 4,uml,925.2501,31,50.81
-53,Dhanusha,Dhanusha 5,nepalicongress,1484.8572,62,59.97
-54,Dhanusha,Dhanusha 6,maoist,1445.6618,53,55.99
-55,Dhanusha,Dhanusha 7,uml,1473.4876,37,60.29
-56,Dolakha,Dolakha 1,maoist,2621.3145,28,60.89
-57,Dolakha,Dolakha 2,maoist,2154.339,38,51.7
-58,Dolpa,Dolpa 1,maoist,4274.8365,41,76.35
-59,Doti,Doti 1,nepalicongress,1584.1699999999998,51,49.0
-60,Doti,Doti 2,maoist,1438.7076,29,46.38
-61,Gorkha,Gorkha 1,maoist,4077.4104,29,64.08
-62,Gorkha,Gorkha 2,maoist,4831.6125,53,66.25
-63,Gorkha,Gorkha 3,maoist,3382.3565000000003,35,56.99
-64,Gulmi,Gulmi 1,maoist,1566.6775,31,48.25
-65,Gulmi,Gulmi 2,uml,2048.6356,46,51.37
-66,Gulmi,Gulmi 3,maoist,1861.02,33,52.75
-67,Humla,Humla 1,maoist,4410.7629,36,77.97
-68,Ilam,Ilam 1,uml,2179.4976,58,63.84
-69,Ilam,Ilam 2,uml,2082.493,55,61.34
-70,Ilam,Ilam 3,nepalicongress,2265.0375,73,63.75
-71,Jajarkot,Jajarkot 1,maoist,3403.6392000000005,49,67.08
-72,Jajarkot,Jajarkot 2,maoist,2555.0181,45,65.97
-73,Jhapa,Jhapa 1,maoist,1689.8007,62,53.97
-74,Jhapa,Jhapa 2,maoist,1954.392,47,53.84
-75,Jhapa,Jhapa 3,maoist,1825.199,43,57.65
-76,Jhapa,Jhapa 4,maoist,1839.0907,35,56.57
-77,Jhapa,Jhapa 5,maoist,1392.8324,64,56.92
-78,Jhapa,Jhapa 6,uml,1649.3365,48,59.35
-79,Jhapa,Jhapa 7,maoist,1639.4455,32,53.35
-80,Jumla,Jumla 1,maoist,3223.9680000000003,29,68.8
-81,Kailali,Kailali 1,maoist,2495.9608,29,54.76
-82,Kailali,Kailali 2,maoist,2537.778,36,55.41
-83,Kailali,Kailali 3,maoist,2678.7168,34,67.44
-84,Kailali,Kailali 4,maoist,3342.0421,29,61.97
-85,Kailali,Kailali 5,maoist,2042.1485,48,54.53
-86,Kailali,Kailali 6,maoist,1743.1640000000002,31,52.6
-87,Kalikot,Kalikot 1,maoist,3279.7611,39,67.61
-88,Kanchanpur,Kanchanpur 1,maoist,1990.9422,26,61.62
-89,Kanchanpur,Kanchanpur 2,maoist,2325.278,31,54.52
-90,Kanchanpur,Kanchanpur 3,maoist,2164.848,26,53.06
-91,Kanchanpur,Kanchanpur 4,nepalicongress,1817.4209,60,52.33
-92,Kapilvastu,Kapilvastu 1,nepalicongress,1679.94,57,62.22
-93,Kapilvastu,Kapilvastu 2,maoist,979.884,51,51.6
-94,Kapilvastu,Kapilvastu 3,nepalicongress,861.1519999999999,37,54.4
-95,Kapilvastu,Kapilvastu 4,maoist,952.3299,40,63.11
-96,Kapilvastu,Kapilvastu 5,maoist,992.427,25,65.55
-97,Kaski,Kaski 1,maoist,1750.5678,49,53.93
-98,Kaski,Kaski 2,maoist,1862.0184,30,55.22
-99,Kaski,Kaski 3,maoist,1795.8566,39,54.19
-100,Kaski,Kaski 4,maoist,1839.33,26,53.5
-101,Kathmandu,Kathmandu 1,nepalicongress,2157.2925,52,59.25
-102,Kathmandu,Kathmandu 10,maoist,2822.3984,46,64.16
-103,Kathmandu,Kathmandu 2,maoist,2041.3458,50,63.18
-104,Kathmandu,Kathmandu 3,nepalicongress,1724.9204,66,59.81
-105,Kathmandu,Kathmandu 4,nepalicongress,1822.6674000000005,54,59.74
-106,Kathmandu,Kathmandu 5,nepalicongress,1818.299,44,61.7
-107,Kathmandu,Kathmandu 6,maoist,1801.0544,48,60.56
-108,Kathmandu,Kathmandu 7,maoist,1761.7824,41,58.26
-109,Kathmandu,Kathmandu 8,nepalicongress,1644.1039999999998,62,62.8
-110,Kathmandu,Kathmandu 9,maoist,2067.5648,52,74.48
-111,Kavrepalanchok,Kavrepalanchok 1,maoist,3240.7283999999995,37,60.36
-112,Kavrepalanchok,Kavrepalanchok 2,maoist,2265.48,37,62.0
-113,Kavrepalanchok,Kavrepalanchok 3,uml,1993.7522,54,66.77
-114,Kavrepalanchok,Kavrepalanchok 4,maoist,2490.5685,46,61.45
-115,Khotang,Khotang 1,maoist,1715.34,39,45.2
-116,Khotang,Khotang 2,maoist,1831.0955,28,47.45
-117,Lalitpur,Lalitpur 1,maoist,2347.0525,36,70.25
-118,Lalitpur,Lalitpur 2,maoist,2135.5639,29,64.97
-119,Lalitpur,Lalitpur 3,maoist,2008.2764,45,60.82
-120,Lamjung,Lamjung 1,maoist,2426.2056,37,57.33
-121,Lamjung,Lamjung 2,uml,2031.6076,50,55.63
-122,Mahottari,Mahottari 1,uml,1174.1352,51,59.48
-123,Mahottari,Mahottari 2,nepalicongress,962.548,43,58.16
-124,Mahottari,Mahottari 3,uml,1318.7664,64,56.07
-125,Mahottari,Mahottari 4,maoist,962.2998,37,55.02
-126,Mahottari,Mahottari 5,nepalicongress,1149.473,36,60.98
-127,Mahottari,Mahottari 6,maoist,1185.036,50,62.8
-128,Makwanpur,Makwanpur 1,maoist,2782.6716,36,57.66
-129,Makwanpur,Makwanpur 2,maoist,2486.1375,35,57.75
-130,Makwanpur,Makwanpur 3,maoist,2238.9939,36,57.99
-131,Makwanpur,Makwanpur 4,maoist,2075.2952,28,53.24
-132,Manang,Manang 1,nepalicongress,1615.9416,51,39.26
-133,Morang,Morang 1,nepalicongress,1366.1872,72,62.44
-134,Morang,Morang 2,maoist,1877.552,37,54.58
-135,Morang,Morang 3,maoist,1741.6065,43,57.65
-136,Morang,Morang 4,maoist,1239.3471,43,65.47
-137,Morang,Morang 5,nepalicongress,1272.908,48,69.94
-138,Morang,Morang 6,nepalicongress,1633.3702,57,63.58
-139,Morang,Morang 7,nepalicongress,1749.009,53,65.14
-140,Morang,Morang 8,maoist,1980.048,33,59.64
-141,Morang,Morang 9,maoist,1771.0374,47,54.78
-142,Mugu,Mugu 1,maoist,2855.6049,38,73.39
-143,Mustang,Mustang 1,uml,1980.72,53,50.4
-144,Myagdi,Myagdi 1,maoist,2379.0556,43,55.43
-145,Nawalparasi,Nawalparasi 1,nepalicongress,2122.722,51,59.46
-146,Nawalparasi,Nawalparasi 2,maoist,1681.372,50,56.65
-147,Nawalparasi,Nawalparasi 3,maoist,1956.5033,30,56.53
-148,Nawalparasi,Nawalparasi 4,maoist,1624.7979999999998,42,60.2
-149,Nawalparasi,Nawalparasi 5,maoist,1465.333,51,65.71
-150,Nawalparasi,Nawalparasi 6,nepalicongress,1335.8936,48,65.84
-151,Nuwakot,Nuwakot 1,maoist,2216.4,28,55.41
-152,Nuwakot,Nuwakot 2,maoist,1993.419,56,54.9
-153,Nuwakot,Nuwakot 3,maoist,1923.8958,56,55.62
-154,Okhaldhunga,Okhaldhunga 1,maoist,1589.4528,36,49.92
-155,Okhaldhunga,Okhaldhunga 2,maoist,1542.8776999999998,38,48.23
-156,Paanchthar,Paanchthar 1,uml,1471.536,64,52.8
-157,Paanchthar,Paanchthar 2,uml,1520.1228,45,54.02
-158,Palpa,Palpa 1,uml,2622.3832,47,56.86
-159,Palpa,Palpa 2,maoist,1633.8832000000002,32,53.36
-160,Palpa,Palpa 3,uml,1692.9783000000002,56,54.21
-161,Parsa,Parsa 1,nepalicongress,1326.7044,32,58.86
-162,Parsa,Parsa 2,nepalicongress,1209.3669,43,61.11
-163,Parsa,Parsa 3,nepalicongress,1524.3531,41,63.33
-164,Parsa,Parsa 4,nepalicongress,1475.7183,43,64.47
-165,Parsa,Parsa 5,nepalicongress,1769.9328,51,60.12
-166,Parvat,Parvat 1,nepalicongress,1788.5698,51,54.43
-167,Parvat,Parvat 2,maoist,2022.6336000000003,37,51.18
-168,Pyuthan,Pyuthan 1,maoist,1749.0465,44,56.33
-169,Pyuthan,Pyuthan 2,maoist,1566.852,65,56.77
-170,Ramechhap,Ramechhap 1,maoist,1872.3237,35,46.61
-171,Ramechhap,Ramechhap 2,maoist,3091.0542,35,57.02
-172,Rasuwa,Rasuwa 1,maoist,2905.9911,32,63.27
-173,Rautahat,Rautahat 1,nepalicongress,741.9352,31,59.26
-174,Rautahat,Rautahat 2,nepalicongress,1673.4017,45,68.33
-175,Rautahat,Rautahat 3,maoist,1738.7541,36,66.39
-176,Rautahat,Rautahat 4,maoist,1288.595,40,66.94
-177,Rautahat,Rautahat 5,maoist,1817.023,49,67.85
-178,Rautahat,Rautahat 6,maoist,1473.089,37,63.55
-179,Rolpa,Rolpa 1,maoist,3394.4064,34,53.76
-180,Rolpa,Rolpa 2,maoist,3965.7735,52,57.45
-181,Rukum,Rukum 1,maoist,4491.3687,30,62.79
-182,Rukum,Rukum 2,maoist,4332.9436,46,71.69
-183,Rupandehi,Rupandehi 1,maoist,1626.8703999999998,38,62.38
-184,Rupandehi,Rupandehi 2,maoist,1199.6082,27,58.29
-185,Rupandehi,Rupandehi 3,nepalicongress,1881.4104,46,64.72
-186,Rupandehi,Rupandehi 4,maoist,1700.2092,48,55.13
-187,Rupandehi,Rupandehi 5,maoist,1476.1254,45,61.97
-188,Rupandehi,Rupandehi 6,nepalicongress,812.5935000000001,33,59.97
-189,Rupandehi,Rupandehi 7,nepalicongress,717.5572,39,62.18
-190,Salyan,Salyan 1,maoist,3245.6232,42,63.54
-191,Salyan,Salyan 2,maoist,1998.9382,46,55.93
-192,Sankhuwasabha,Sankhuwasabha 1,maoist,1657.6836,43,46.92
-193,Sankhuwasabha,Sankhuwasabha 2,uml,1586.8967,42,48.19
-194,Saptari,Saptari 1,maoist,1104.7188,48,65.06
-195,Saptari,Saptari 2,maoist,492.8633999999999,47,57.78
-196,Saptari,Saptari 3,nepalicongress,820.1003999999999,37,57.43
-197,Saptari,Saptari 4,nepalicongress,818.4176000000001,39,71.54
-198,Saptari,Saptari 5,uml,939.5668000000002,49,66.26
-199,Saptari,Saptari 6,uml,653.1524999999999,49,66.99
-200,Sarlahi,Sarlahi 1,maoist,1293.7116,49,58.04
-201,Sarlahi,Sarlahi 2,uml,955.4102999999998,40,66.21
-202,Sarlahi,Sarlahi 3,uml,1036.83,47,64.2
-203,Sarlahi,Sarlahi 4,uml,620.3868,49,65.58
-204,Sarlahi,Sarlahi 5,nepalicongress,758.2728,42,68.19
-205,Sarlahi,Sarlahi 6,nepalicongress,1088.4393,38,68.07
-206,Sindhuli,Sindhuli 1,uml,1820.0957,40,57.11
-207,Sindhuli,Sindhuli 2,maoist,2073.7096,60,55.24
-208,Sindhuli,Sindhuli 3,maoist,2178.575,38,52.75
-209,Sindhupalchok,Sindhupalchok 1,maoist,2266.682,32,57.53
-210,Sindhupalchok,Sindhupalchok 2,maoist,3166.7972,50,59.06
-211,Sindhupalchok,Sindhupalchok 3,uml,1717.2715,34,58.55
-212,Siraha,Siraha 1,nepalicongress,987.5424,57,61.76
-213,Siraha,Siraha 2,uml,1058.8536,62,62.58
-214,Siraha,Siraha 3,nepalicongress,1175.2452,31,57.78
-215,Siraha,Siraha 4,uml,1252.7508,37,61.08
-216,Siraha,Siraha 5,maoist,1625.987,34,58.3
-217,Siraha,Siraha 6,maoist,1044.138,34,60.6
-218,Solukhumbu,Solukhumbu 1,maoist,1725.2405,42,47.99
-219,Sunsari,Sunsari 1,maoist,2034.2394,32,50.34
-220,Sunsari,Sunsari 2,uml,1845.8384,50,56.83
-221,Sunsari,Sunsari 3,nepalicongress,1372.686,53,71.05
-222,Sunsari,Sunsari 4,nepalicongress,1205.8200000000002,66,63.0
-223,Sunsari,Sunsari 5,nepalicongress,1292.9595,48,64.81
-224,Sunsari,Sunsari 6,uml,1792.0499000000002,47,53.51
-225,Surkhet,Surkhet 1,uml,2483.1,45,64.08
-226,Surkhet,Surkhet 2,maoist,2023.5347,45,62.59
-227,Surkhet,Surkhet 3,maoist,2187.7506,39,56.01
-228,Syangja,Syangja 1,uml,1589.6111,46,48.01
-229,Syangja,Syangja 2,nepalicongress,1685.1812000000002,60,46.22
-230,Syangja,Syangja 3,nepalicongress,1882.8576000000005,44,54.99
-231,Tanahu,Tanahu 1,maoist,1659.5497,53,48.71
-232,Tanahu,Tanahu 2,nepalicongress,1903.5918,63,48.18
-233,Tanahu,Tanahu 3,uml,1648.6929,47,51.57
-234,Taplejung,Taplejung 1,nepalicongress,1412.8858,64,51.83
-235,Taplejung,Taplejung 2,uml,1515.7209,50,48.91
-236,Tehrathum,Tehrathum 1,nepalicongress,1786.5990000000004,52,53.7
-237,Udaypur,Udaypur 1,maoist,1711.3536,55,53.28
-238,Udaypur,Udaypur 2,maoist,1731.5225,28,52.55
-239,Udaypur,Udaypur 3,maoist,1863.6868,32,48.89
+0,Achham,Achham-1,uml,2119.0358,40,54.53
+1,Achham,Achham-2,maoist,1708.727,32,52.82
+2,Arghakhanchi,Arghakhanchi-1,maoist,1966.7836,46,55.34
+3,Arghakhanchi,Arghakhanchi-2,nepalicongress,1755.126,46,52.05
+4,Baglung,Baglung-1,maoist,1828.5047,48,60.01
+5,Baglung,Baglung-2,nepalicongress,1513.8402,66,55.29
+6,Baglung,Baglung-3,nepalicongress,1509.2088,49,51.97
+7,Baitadi,Baitadi-1,maoist,3115.6608,37,56.28
+8,Baitadi,Baitadi-2,maoist,1990.4382,27,44.37
+9,Bajhang,Bajhang-1,uml,1979.0028,49,59.11
+10,Bajhang,Bajhang-2,maoist,1959.216,50,51.45
+11,Bajura,Bajura-1,nepalicongress,2359.9923,44,66.61
+12,Banke,Banke-1,maoist,2375.648,57,67.49
+13,Banke,Banke-2,uml,743.334,28,64.92
+14,Banke,Banke-3,nepalicongress,1113.9618,48,64.69
+15,Banke,Banke-4,maoist,1966.1397,48,64.19
+16,Bara,Bara-1,maoist,1064.5960000000002,34,69.4
+17,Bara,Bara-2,nepalicongress,1034.223,41,66.94
+18,Bara,Bara-3,uml,800.5823999999999,29,61.02
+19,Bara,Bara-4,uml,1315.8774,38,69.66
+20,Bara,Bara-5,uml,2153.3355,39,67.95
+21,Bara,Bara-6,maoist,1963.2866,35,59.62
+22,Bardiya,Bardiya-1,maoist,2545.2000000000003,38,63.63
+23,Bardiya,Bardiya-2,maoist,2631.8460000000005,35,66.9
+24,Bardiya,Bardiya-3,maoist,3460.9,41,65.3
+25,Bardiya,Bardiya-4,maoist,3647.5649,50,65.17
+26,Bhaktapur,Bhaktapur-1,maoist,1599.8891999999998,67,70.98
+27,Bhaktapur,Bhaktapur-2,nepalicongress,1556.1630000000005,42,72.65
+28,Bhojpur,Bhojpur-1,maoist,1656.3366,41,46.71
+29,Bhojpur,Bhojpur-2,maoist,1729.4695000000002,29,45.05
+30,Chitwan,Chitwan-1,uml,1966.0288,44,60.16
+31,Chitwan,Chitwan-2,maoist,2809.6413,53,63.87
+32,Chitwan,Chitwan-3,maoist,2265.4512,52,54.96
+33,Chitwan,Chitwan-4,maoist,2640.3216,54,61.46
+34,Chitwan,Chitwan-5,maoist,1937.1245,64,59.33
+35,Dadeldhura,Dadeldhura-1,nepalicongress,1939.833,60,51.66
+36,Dailekh,Dailekh-1,nepalicongress,1851.5285,64,57.77
+37,Dailekh,Dailekh-2,uml,1759.0608,41,58.17
+38,Dang,Dang-1,maoist,2365.4358,28,57.33
+39,Dang,Dang-2,maoist,2998.6276,36,58.43
+40,Dang,Dang-3,maoist,2664.0565,48,57.23
+41,Dang,Dang-4,maoist,2425.9447000000005,69,58.33
+42,Dang,Dang-5,maoist,2334.248,41,58.4
+43,Darchula,Darchula-1,maoist,2618.1428,30,61.88
+44,Dhading,Dhading-1,maoist,3100.643,54,59.15
+45,Dhading,Dhading-2,maoist,1931.659,33,61.42
+46,Dhading,Dhading-3,maoist,2467.108,36,60.35
+47,Dhankuta,Dhankuta-1,maoist,2275.8623999999995,32,57.24
+48,Dhankuta,Dhankuta-2,maoist,1961.1612,39,55.62
+49,Dhanusha,Dhanusha-1,uml,1554.0659999999998,51,57.24
+50,Dhanusha,Dhanusha-2,nepalicongress,1214.9595,46,58.95
+51,Dhanusha,Dhanusha-3,nepalicongress,2217.96,50,60.6
+52,Dhanusha,Dhanusha-4,uml,925.2501,31,50.81
+53,Dhanusha,Dhanusha-5,nepalicongress,1484.8572,62,59.97
+54,Dhanusha,Dhanusha-6,maoist,1445.6618,53,55.99
+55,Dhanusha,Dhanusha-7,uml,1473.4876,37,60.29
+56,Dolakha,Dolakha-1,maoist,2621.3145,28,60.89
+57,Dolakha,Dolakha-2,maoist,2154.339,38,51.7
+58,Dolpa,Dolpa-1,maoist,4274.8365,41,76.35
+59,Doti,Doti-1,nepalicongress,1584.1699999999998,51,49.0
+60,Doti,Doti-2,maoist,1438.7076,29,46.38
+61,Gorkha,Gorkha-1,maoist,4077.4104,29,64.08
+62,Gorkha,Gorkha-2,maoist,4831.6125,53,66.25
+63,Gorkha,Gorkha-3,maoist,3382.3565000000003,35,56.99
+64,Gulmi,Gulmi-1,maoist,1566.6775,31,48.25
+65,Gulmi,Gulmi-2,uml,2048.6356,46,51.37
+66,Gulmi,Gulmi-3,maoist,1861.02,33,52.75
+67,Humla,Humla-1,maoist,4410.7629,36,77.97
+68,Ilam,Ilam-1,uml,2179.4976,58,63.84
+69,Ilam,Ilam-2,uml,2082.493,55,61.34
+70,Ilam,Ilam-3,nepalicongress,2265.0375,73,63.75
+71,Jajarkot,Jajarkot-1,maoist,3403.6392000000005,49,67.08
+72,Jajarkot,Jajarkot-2,maoist,2555.0181,45,65.97
+73,Jhapa,Jhapa-1,maoist,1689.8007,62,53.97
+74,Jhapa,Jhapa-2,maoist,1954.392,47,53.84
+75,Jhapa,Jhapa-3,maoist,1825.199,43,57.65
+76,Jhapa,Jhapa-4,maoist,1839.0907,35,56.57
+77,Jhapa,Jhapa-5,maoist,1392.8324,64,56.92
+78,Jhapa,Jhapa-6,uml,1649.3365,48,59.35
+79,Jhapa,Jhapa-7,maoist,1639.4455,32,53.35
+80,Jumla,Jumla-1,maoist,3223.9680000000003,29,68.8
+81,Kailali,Kailali-1,maoist,2495.9608,29,54.76
+82,Kailali,Kailali-2,maoist,2537.778,36,55.41
+83,Kailali,Kailali-3,maoist,2678.7168,34,67.44
+84,Kailali,Kailali-4,maoist,3342.0421,29,61.97
+85,Kailali,Kailali-5,maoist,2042.1485,48,54.53
+86,Kailali,Kailali-6,maoist,1743.1640000000002,31,52.6
+87,Kalikot,Kalikot-1,maoist,3279.7611,39,67.61
+88,Kanchanpur,Kanchanpur-1,maoist,1990.9422,26,61.62
+89,Kanchanpur,Kanchanpur-2,maoist,2325.278,31,54.52
+90,Kanchanpur,Kanchanpur-3,maoist,2164.848,26,53.06
+91,Kanchanpur,Kanchanpur-4,nepalicongress,1817.4209,60,52.33
+92,Kapilvastu,Kapilvastu-1,nepalicongress,1679.94,57,62.22
+93,Kapilvastu,Kapilvastu-2,maoist,979.884,51,51.6
+94,Kapilvastu,Kapilvastu-3,nepalicongress,861.1519999999999,37,54.4
+95,Kapilvastu,Kapilvastu-4,maoist,952.3299,40,63.11
+96,Kapilvastu,Kapilvastu-5,maoist,992.427,25,65.55
+97,Kaski,Kaski-1,maoist,1750.5678,49,53.93
+98,Kaski,Kaski-2,maoist,1862.0184,30,55.22
+99,Kaski,Kaski-3,maoist,1795.8566,39,54.19
+100,Kaski,Kaski-4,maoist,1839.33,26,53.5
+101,Kathmandu,Kathmandu-1,nepalicongress,2157.2925,52,59.25
+102,Kathmandu,Kathmandu-10,maoist,2822.3984,46,64.16
+103,Kathmandu,Kathmandu-2,maoist,2041.3458,50,63.18
+104,Kathmandu,Kathmandu-3,nepalicongress,1724.9204,66,59.81
+105,Kathmandu,Kathmandu-4,nepalicongress,1822.6674000000005,54,59.74
+106,Kathmandu,Kathmandu-5,nepalicongress,1818.299,44,61.7
+107,Kathmandu,Kathmandu-6,maoist,1801.0544,48,60.56
+108,Kathmandu,Kathmandu-7,maoist,1761.7824,41,58.26
+109,Kathmandu,Kathmandu-8,nepalicongress,1644.1039999999998,62,62.8
+110,Kathmandu,Kathmandu-9,maoist,2067.5648,52,74.48
+111,Kavrepalanchok,Kavrepalanchok-1,maoist,3240.7283999999995,37,60.36
+112,Kavrepalanchok,Kavrepalanchok-2,maoist,2265.48,37,62.0
+113,Kavrepalanchok,Kavrepalanchok-3,uml,1993.7522,54,66.77
+114,Kavrepalanchok,Kavrepalanchok-4,maoist,2490.5685,46,61.45
+115,Khotang,Khotang-1,maoist,1715.34,39,45.2
+116,Khotang,Khotang-2,maoist,1831.0955,28,47.45
+117,Lalitpur,Lalitpur-1,maoist,2347.0525,36,70.25
+118,Lalitpur,Lalitpur-2,maoist,2135.5639,29,64.97
+119,Lalitpur,Lalitpur-3,maoist,2008.2764,45,60.82
+120,Lamjung,Lamjung-1,maoist,2426.2056,37,57.33
+121,Lamjung,Lamjung-2,uml,2031.6076,50,55.63
+122,Mahottari,Mahottari-1,uml,1174.1352,51,59.48
+123,Mahottari,Mahottari-2,nepalicongress,962.548,43,58.16
+124,Mahottari,Mahottari-3,uml,1318.7664,64,56.07
+125,Mahottari,Mahottari-4,maoist,962.2998,37,55.02
+126,Mahottari,Mahottari-5,nepalicongress,1149.473,36,60.98
+127,Mahottari,Mahottari-6,maoist,1185.036,50,62.8
+128,Makwanpur,Makwanpur-1,maoist,2782.6716,36,57.66
+129,Makwanpur,Makwanpur-2,maoist,2486.1375,35,57.75
+130,Makwanpur,Makwanpur-3,maoist,2238.9939,36,57.99
+131,Makwanpur,Makwanpur-4,maoist,2075.2952,28,53.24
+132,Manang,Manang-1,nepalicongress,1615.9416,51,39.26
+133,Morang,Morang-1,nepalicongress,1366.1872,72,62.44
+134,Morang,Morang-2,maoist,1877.552,37,54.58
+135,Morang,Morang-3,maoist,1741.6065,43,57.65
+136,Morang,Morang-4,maoist,1239.3471,43,65.47
+137,Morang,Morang-5,nepalicongress,1272.908,48,69.94
+138,Morang,Morang-6,nepalicongress,1633.3702,57,63.58
+139,Morang,Morang-7,nepalicongress,1749.009,53,65.14
+140,Morang,Morang-8,maoist,1980.048,33,59.64
+141,Morang,Morang-9,maoist,1771.0374,47,54.78
+142,Mugu,Mugu-1,maoist,2855.6049,38,73.39
+143,Mustang,Mustang-1,uml,1980.72,53,50.4
+144,Myagdi,Myagdi-1,maoist,2379.0556,43,55.43
+145,Nawalparasi,Nawalparasi-1,nepalicongress,2122.722,51,59.46
+146,Nawalparasi,Nawalparasi-2,maoist,1681.372,50,56.65
+147,Nawalparasi,Nawalparasi-3,maoist,1956.5033,30,56.53
+148,Nawalparasi,Nawalparasi-4,maoist,1624.7979999999998,42,60.2
+149,Nawalparasi,Nawalparasi-5,maoist,1465.333,51,65.71
+150,Nawalparasi,Nawalparasi-6,nepalicongress,1335.8936,48,65.84
+151,Nuwakot,Nuwakot-1,maoist,2216.4,28,55.41
+152,Nuwakot,Nuwakot-2,maoist,1993.419,56,54.9
+153,Nuwakot,Nuwakot-3,maoist,1923.8958,56,55.62
+154,Okhaldhunga,Okhaldhunga-1,maoist,1589.4528,36,49.92
+155,Okhaldhunga,Okhaldhunga-2,maoist,1542.8776999999998,38,48.23
+156,Paanchthar,Paanchthar-1,uml,1471.536,64,52.8
+157,Paanchthar,Paanchthar-2,uml,1520.1228,45,54.02
+158,Palpa,Palpa-1,uml,2622.3832,47,56.86
+159,Palpa,Palpa-2,maoist,1633.8832000000002,32,53.36
+160,Palpa,Palpa-3,uml,1692.9783000000002,56,54.21
+161,Parsa,Parsa-1,nepalicongress,1326.7044,32,58.86
+162,Parsa,Parsa-2,nepalicongress,1209.3669,43,61.11
+163,Parsa,Parsa-3,nepalicongress,1524.3531,41,63.33
+164,Parsa,Parsa-4,nepalicongress,1475.7183,43,64.47
+165,Parsa,Parsa-5,nepalicongress,1769.9328,51,60.12
+166,Parvat,Parvat-1,nepalicongress,1788.5698,51,54.43
+167,Parvat,Parvat-2,maoist,2022.6336000000003,37,51.18
+168,Pyuthan,Pyuthan-1,maoist,1749.0465,44,56.33
+169,Pyuthan,Pyuthan-2,maoist,1566.852,65,56.77
+170,Ramechhap,Ramechhap-1,maoist,1872.3237,35,46.61
+171,Ramechhap,Ramechhap-2,maoist,3091.0542,35,57.02
+172,Rasuwa,Rasuwa-1,maoist,2905.9911,32,63.27
+173,Rautahat,Rautahat-1,nepalicongress,741.9352,31,59.26
+174,Rautahat,Rautahat-2,nepalicongress,1673.4017,45,68.33
+175,Rautahat,Rautahat-3,maoist,1738.7541,36,66.39
+176,Rautahat,Rautahat-4,maoist,1288.595,40,66.94
+177,Rautahat,Rautahat-5,maoist,1817.023,49,67.85
+178,Rautahat,Rautahat-6,maoist,1473.089,37,63.55
+179,Rolpa,Rolpa-1,maoist,3394.4064,34,53.76
+180,Rolpa,Rolpa-2,maoist,3965.7735,52,57.45
+181,Rukum,Rukum-1,maoist,4491.3687,30,62.79
+182,Rukum,Rukum-2,maoist,4332.9436,46,71.69
+183,Rupandehi,Rupandehi-1,maoist,1626.8703999999998,38,62.38
+184,Rupandehi,Rupandehi-2,maoist,1199.6082,27,58.29
+185,Rupandehi,Rupandehi-3,nepalicongress,1881.4104,46,64.72
+186,Rupandehi,Rupandehi-4,maoist,1700.2092,48,55.13
+187,Rupandehi,Rupandehi-5,maoist,1476.1254,45,61.97
+188,Rupandehi,Rupandehi-6,nepalicongress,812.5935000000001,33,59.97
+189,Rupandehi,Rupandehi-7,nepalicongress,717.5572,39,62.18
+190,Salyan,Salyan-1,maoist,3245.6232,42,63.54
+191,Salyan,Salyan-2,maoist,1998.9382,46,55.93
+192,Sankhuwasabha,Sankhuwasabha-1,maoist,1657.6836,43,46.92
+193,Sankhuwasabha,Sankhuwasabha-2,uml,1586.8967,42,48.19
+194,Saptari,Saptari-1,maoist,1104.7188,48,65.06
+195,Saptari,Saptari-2,maoist,492.8633999999999,47,57.78
+196,Saptari,Saptari-3,nepalicongress,820.1003999999999,37,57.43
+197,Saptari,Saptari-4,nepalicongress,818.4176000000001,39,71.54
+198,Saptari,Saptari-5,uml,939.5668000000002,49,66.26
+199,Saptari,Saptari-6,uml,653.1524999999999,49,66.99
+200,Sarlahi,Sarlahi-1,maoist,1293.7116,49,58.04
+201,Sarlahi,Sarlahi-2,uml,955.4102999999998,40,66.21
+202,Sarlahi,Sarlahi-3,uml,1036.83,47,64.2
+203,Sarlahi,Sarlahi-4,uml,620.3868,49,65.58
+204,Sarlahi,Sarlahi-5,nepalicongress,758.2728,42,68.19
+205,Sarlahi,Sarlahi-6,nepalicongress,1088.4393,38,68.07
+206,Sindhuli,Sindhuli-1,uml,1820.0957,40,57.11
+207,Sindhuli,Sindhuli-2,maoist,2073.7096,60,55.24
+208,Sindhuli,Sindhuli-3,maoist,2178.575,38,52.75
+209,Sindhupalchok,Sindhupalchok-1,maoist,2266.682,32,57.53
+210,Sindhupalchok,Sindhupalchok-2,maoist,3166.7972,50,59.06
+211,Sindhupalchok,Sindhupalchok-3,uml,1717.2715,34,58.55
+212,Siraha,Siraha-1,nepalicongress,987.5424,57,61.76
+213,Siraha,Siraha-2,uml,1058.8536,62,62.58
+214,Siraha,Siraha-3,nepalicongress,1175.2452,31,57.78
+215,Siraha,Siraha-4,uml,1252.7508,37,61.08
+216,Siraha,Siraha-5,maoist,1625.987,34,58.3
+217,Siraha,Siraha-6,maoist,1044.138,34,60.6
+218,Solukhumbu,Solukhumbu-1,maoist,1725.2405,42,47.99
+219,Sunsari,Sunsari-1,maoist,2034.2394,32,50.34
+220,Sunsari,Sunsari-2,uml,1845.8384,50,56.83
+221,Sunsari,Sunsari-3,nepalicongress,1372.686,53,71.05
+222,Sunsari,Sunsari-4,nepalicongress,1205.8200000000002,66,63.0
+223,Sunsari,Sunsari-5,nepalicongress,1292.9595,48,64.81
+224,Sunsari,Sunsari-6,uml,1792.0499000000002,47,53.51
+225,Surkhet,Surkhet-1,uml,2483.1,45,64.08
+226,Surkhet,Surkhet-2,maoist,2023.5347,45,62.59
+227,Surkhet,Surkhet-3,maoist,2187.7506,39,56.01
+228,Syangja,Syangja-1,uml,1589.6111,46,48.01
+229,Syangja,Syangja-2,nepalicongress,1685.1812000000002,60,46.22
+230,Syangja,Syangja-3,nepalicongress,1882.8576000000005,44,54.99
+231,Tanahu,Tanahu-1,maoist,1659.5497,53,48.71
+232,Tanahu,Tanahu-2,nepalicongress,1903.5918,63,48.18
+233,Tanahu,Tanahu-3,uml,1648.6929,47,51.57
+234,Taplejung,Taplejung-1,nepalicongress,1412.8858,64,51.83
+235,Taplejung,Taplejung-2,uml,1515.7209,50,48.91
+236,Tehrathum,Tehrathum-1,nepalicongress,1786.5990000000004,52,53.7
+237,Udaypur,Udaypur-1,maoist,1711.3536,55,53.28
+238,Udaypur,Udaypur-2,maoist,1731.5225,28,52.55
+239,Udaypur,Udaypur-3,maoist,1863.6868,32,48.89
